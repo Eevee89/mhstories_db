@@ -25,15 +25,18 @@
         "loots": [
             {
                 "icone": "scale",
-                "name": "Éclat Perce-âme"
+                "name": "Éclat Perce-âme",
+                "color": "white"
             },
             {
                 "icone": "skin",
-                "name": "Peau mauve Perce-âme"
+                "name": "Peau mauve Perce-âme",
+                "color": "purple"
             },
             {
                 "icone": "bone",
-                "name": "Queue Perce-âme"
+                "name": "Queue Perce-âme",
+                "color": "purple"
             }
         ],
         "egg": {
@@ -95,12 +98,12 @@
             },
             {
                 "icone": "skin",
-                "name": "Peau mauve Perce-âme"
+                "name": "Peau mauve Perce-âme",
                 "color": "purple"
             },
             {
                 "icone": "bone",
-                "name": "Queue Perce-âme"
+                "name": "Queue Perce-âme",
                 "color": "purple"
             }
         ],
@@ -158,15 +161,18 @@
         "loots": [
             {
                 "icone": "scale",
-                "name": "Éclat Perce-âme"
+                "name": "Éclat Perce-âme",
+                "color": "white"
             },
             {
                 "icone": "skin",
-                "name": "Peau mauve Perce-âme"
+                "name": "Peau mauve Perce-âme",
+                "color": "purple"
             },
             {
                 "icone": "bone",
-                "name": "Queue Perce-âme"
+                "name": "Queue Perce-âme",
+                "color": "purple"
             }
         ],
         "egg": {
@@ -223,15 +229,18 @@
         "loots": [
             {
                 "icone": "scale",
-                "name": "Éclat Perce-âme"
+                "name": "Éclat Perce-âme",
+                "color": "white"
             },
             {
                 "icone": "skin",
-                "name": "Peau mauve Perce-âme"
+                "name": "Peau mauve Perce-âme",
+                "color": "purple"
             },
             {
                 "icone": "bone",
-                "name": "Queue Perce-âme"
+                "name": "Queue Perce-âme",
+                "color": "purple"
             }
         ],
         "egg": {
@@ -288,15 +297,18 @@
         "loots": [
             {
                 "icone": "scale",
-                "name": "Éclat Perce-âme"
+                "name": "Éclat Perce-âme",
+                "color": "white"
             },
             {
                 "icone": "skin",
-                "name": "Peau mauve Perce-âme"
+                "name": "Peau mauve Perce-âme",
+                "color": "purple"
             },
             {
                 "icone": "bone",
-                "name": "Queue Perce-âme"
+                "name": "Queue Perce-âme",
+                "color": "purple"
             }
         ],
         "egg": {
@@ -353,15 +365,18 @@
         "loots": [
             {
                 "icone": "scale",
-                "name": "Éclat Perce-âme"
+                "name": "Éclat Perce-âme",
+                "color": "white"
             },
             {
                 "icone": "skin",
-                "name": "Peau mauve Perce-âme"
+                "name": "Peau mauve Perce-âme",
+                "color": "purple"
             },
             {
                 "icone": "bone",
-                "name": "Queue Perce-âme"
+                "name": "Queue Perce-âme",
+                "color": "purple"
             }
         ],
         "egg": {
@@ -418,15 +433,18 @@
         "loots": [
             {
                 "icone": "scale",
-                "name": "Éclat Perce-âme"
+                "name": "Éclat Perce-âme",
+                "color": "white"
             },
             {
                 "icone": "skin",
-                "name": "Peau mauve Perce-âme"
+                "name": "Peau mauve Perce-âme",
+                "color": "purple"
             },
             {
                 "icone": "bone",
-                "name": "Queue Perce-âme"
+                "name": "Queue Perce-âme",
+                "color": "purple"
             }
         ],
         "egg": {
@@ -483,15 +501,18 @@
         "loots": [
             {
                 "icone": "scale",
-                "name": "Éclat Perce-âme"
+                "name": "Éclat Perce-âme",
+                "color": "white"
             },
             {
                 "icone": "skin",
-                "name": "Peau mauve Perce-âme"
+                "name": "Peau mauve Perce-âme",
+                "color": "purple"
             },
             {
                 "icone": "bone",
-                "name": "Queue Perce-âme"
+                "name": "Queue Perce-âme",
+                "color": "purple"
             }
         ],
         "egg": {
@@ -548,15 +569,18 @@
         "loots": [
             {
                 "icone": "scale",
-                "name": "Éclat Perce-âme"
+                "name": "Éclat Perce-âme",
+                "color": "white"
             },
             {
                 "icone": "skin",
-                "name": "Peau mauve Perce-âme"
+                "name": "Peau mauve Perce-âme",
+                "color": "purple"
             },
             {
                 "icone": "bone",
-                "name": "Queue Perce-âme"
+                "name": "Queue Perce-âme",
+                "color": "purple"
             }
         ],
         "egg": {
