@@ -59,7 +59,7 @@
             ]
         },
         "egg": {
-            "icone": "soulseer_mizutsune_egg.png",
+            "icone": ["soulseer_mizutsune_egg.png"],
             "growth": "Ralentir",
             "attack_type": "speed",
             "saddle_action": "Charge",
