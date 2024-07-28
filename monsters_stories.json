@@ -22,23 +22,42 @@
             }
         ],
         "maps": ["Lamure - Jardin de Pomore"],
-        "loots": [
-            {
-                "icone": "scale",
-                "name": "Éclat Perce-âme",
-                "color": "white"
-            },
-            {
-                "icone": "skin",
-                "name": "Peau mauve Perce-âme",
-                "color": "purple"
-            },
-            {
-                "icone": "bone",
-                "name": "Queue Perce-âme",
-                "color": "purple"
-            }
-        ],
+        "loots": {
+            "low_rank": [
+                {
+                    "icone": "scale",
+                    "name": "Écaille Perce-âme",
+                    "color": "white"
+                },
+                {
+                    "icone": "skin",
+                    "name": "Peau Perce-âme",
+                    "color": "purple"
+                },
+                {
+                    "icone": "bone",
+                    "name": "Queue Perce-âme",
+                    "color": "purple"
+                }
+            ],
+            "high_rank": [
+                {
+                    "icone": "scale",
+                    "name": "Éclat Perce-âme",
+                    "color": "white"
+                },
+                {
+                    "icone": "skin",
+                    "name": "Peau mauve Perce-âme",
+                    "color": "purple"
+                },
+                {
+                    "icone": "bone",
+                    "name": "Queue Perce-âme",
+                    "color": "purple"
+                }
+            ]
+        },
         "egg": {
             "icone": "soulseer_mizutsune_egg.png",
             "growth": "Ralentir",
@@ -90,23 +109,42 @@
             }
         ],
         "maps": ["Lamure - Jardin de Pomore"],
-        "loots": [
-            {
-                "icone": "scale",
-                "name": "Éclat Perce-âme",
-                "color": "white"
-            },
-            {
-                "icone": "skin",
-                "name": "Peau mauve Perce-âme",
-                "color": "purple"
-            },
-            {
-                "icone": "bone",
-                "name": "Queue Perce-âme",
-                "color": "purple"
-            }
-        ],
+        "loots": {
+            "low_rank": [
+                {
+                    "icone": "scale",
+                    "name": "Écaille Perce-âme",
+                    "color": "white"
+                },
+                {
+                    "icone": "skin",
+                    "name": "Peau Perce-âme",
+                    "color": "purple"
+                },
+                {
+                    "icone": "bone",
+                    "name": "Queue Perce-âme",
+                    "color": "purple"
+                }
+            ],
+            "high_rank": [
+                {
+                    "icone": "scale",
+                    "name": "Éclat Perce-âme",
+                    "color": "white"
+                },
+                {
+                    "icone": "skin",
+                    "name": "Peau mauve Perce-âme",
+                    "color": "purple"
+                },
+                {
+                    "icone": "bone",
+                    "name": "Queue Perce-âme",
+                    "color": "purple"
+                }
+            ]
+        },
         "egg": {
             "icone": "soulseer_mizutsune_egg.png",
             "growth": "Ralentir",
@@ -158,23 +196,42 @@
             }
         ],
         "maps": ["Lamure - Jardin de Pomore"],
-        "loots": [
-            {
-                "icone": "scale",
-                "name": "Éclat Perce-âme",
-                "color": "white"
-            },
-            {
-                "icone": "skin",
-                "name": "Peau mauve Perce-âme",
-                "color": "purple"
-            },
-            {
-                "icone": "bone",
-                "name": "Queue Perce-âme",
-                "color": "purple"
-            }
-        ],
+        "loots": {
+            "low_rank": [
+                {
+                    "icone": "scale",
+                    "name": "Écaille Perce-âme",
+                    "color": "white"
+                },
+                {
+                    "icone": "skin",
+                    "name": "Peau Perce-âme",
+                    "color": "purple"
+                },
+                {
+                    "icone": "bone",
+                    "name": "Queue Perce-âme",
+                    "color": "purple"
+                }
+            ],
+            "high_rank": [
+                {
+                    "icone": "scale",
+                    "name": "Éclat Perce-âme",
+                    "color": "white"
+                },
+                {
+                    "icone": "skin",
+                    "name": "Peau mauve Perce-âme",
+                    "color": "purple"
+                },
+                {
+                    "icone": "bone",
+                    "name": "Queue Perce-âme",
+                    "color": "purple"
+                }
+            ]
+        },
         "egg": {
             "icone": "soulseer_mizutsune_egg.png",
             "growth": "Ralentir",
@@ -226,23 +283,42 @@
             }
         ],
         "maps": ["Lamure - Jardin de Pomore"],
-        "loots": [
-            {
-                "icone": "scale",
-                "name": "Éclat Perce-âme",
-                "color": "white"
-            },
-            {
-                "icone": "skin",
-                "name": "Peau mauve Perce-âme",
-                "color": "purple"
-            },
-            {
-                "icone": "bone",
-                "name": "Queue Perce-âme",
-                "color": "purple"
-            }
-        ],
+        "loots": {
+            "low_rank": [
+                {
+                    "icone": "scale",
+                    "name": "Écaille Perce-âme",
+                    "color": "white"
+                },
+                {
+                    "icone": "skin",
+                    "name": "Peau Perce-âme",
+                    "color": "purple"
+                },
+                {
+                    "icone": "bone",
+                    "name": "Queue Perce-âme",
+                    "color": "purple"
+                }
+            ],
+            "high_rank": [
+                {
+                    "icone": "scale",
+                    "name": "Éclat Perce-âme",
+                    "color": "white"
+                },
+                {
+                    "icone": "skin",
+                    "name": "Peau mauve Perce-âme",
+                    "color": "purple"
+                },
+                {
+                    "icone": "bone",
+                    "name": "Queue Perce-âme",
+                    "color": "purple"
+                }
+            ]
+        },
         "egg": {
             "icone": "soulseer_mizutsune_egg.png",
             "growth": "Ralentir",
@@ -294,23 +370,42 @@
             }
         ],
         "maps": ["Lamure - Jardin de Pomore"],
-        "loots": [
-            {
-                "icone": "scale",
-                "name": "Éclat Perce-âme",
-                "color": "white"
-            },
-            {
-                "icone": "skin",
-                "name": "Peau mauve Perce-âme",
-                "color": "purple"
-            },
-            {
-                "icone": "bone",
-                "name": "Queue Perce-âme",
-                "color": "purple"
-            }
-        ],
+        "loots": {
+            "low_rank": [
+                {
+                    "icone": "scale",
+                    "name": "Écaille Perce-âme",
+                    "color": "white"
+                },
+                {
+                    "icone": "skin",
+                    "name": "Peau Perce-âme",
+                    "color": "purple"
+                },
+                {
+                    "icone": "bone",
+                    "name": "Queue Perce-âme",
+                    "color": "purple"
+                }
+            ],
+            "high_rank": [
+                {
+                    "icone": "scale",
+                    "name": "Éclat Perce-âme",
+                    "color": "white"
+                },
+                {
+                    "icone": "skin",
+                    "name": "Peau mauve Perce-âme",
+                    "color": "purple"
+                },
+                {
+                    "icone": "bone",
+                    "name": "Queue Perce-âme",
+                    "color": "purple"
+                }
+            ]
+        },
         "egg": {
             "icone": "soulseer_mizutsune_egg.png",
             "growth": "Ralentir",
@@ -362,23 +457,42 @@
             }
         ],
         "maps": ["Lamure - Jardin de Pomore"],
-        "loots": [
-            {
-                "icone": "scale",
-                "name": "Éclat Perce-âme",
-                "color": "white"
-            },
-            {
-                "icone": "skin",
-                "name": "Peau mauve Perce-âme",
-                "color": "purple"
-            },
-            {
-                "icone": "bone",
-                "name": "Queue Perce-âme",
-                "color": "purple"
-            }
-        ],
+        "loots": {
+            "low_rank": [
+                {
+                    "icone": "scale",
+                    "name": "Écaille Perce-âme",
+                    "color": "white"
+                },
+                {
+                    "icone": "skin",
+                    "name": "Peau Perce-âme",
+                    "color": "purple"
+                },
+                {
+                    "icone": "bone",
+                    "name": "Queue Perce-âme",
+                    "color": "purple"
+                }
+            ],
+            "high_rank": [
+                {
+                    "icone": "scale",
+                    "name": "Éclat Perce-âme",
+                    "color": "white"
+                },
+                {
+                    "icone": "skin",
+                    "name": "Peau mauve Perce-âme",
+                    "color": "purple"
+                },
+                {
+                    "icone": "bone",
+                    "name": "Queue Perce-âme",
+                    "color": "purple"
+                }
+            ]
+        },
         "egg": {
             "icone": "soulseer_mizutsune_egg.png",
             "growth": "Ralentir",
@@ -430,23 +544,42 @@
             }
         ],
         "maps": ["Lamure - Jardin de Pomore"],
-        "loots": [
-            {
-                "icone": "scale",
-                "name": "Éclat Perce-âme",
-                "color": "white"
-            },
-            {
-                "icone": "skin",
-                "name": "Peau mauve Perce-âme",
-                "color": "purple"
-            },
-            {
-                "icone": "bone",
-                "name": "Queue Perce-âme",
-                "color": "purple"
-            }
-        ],
+        "loots": {
+            "low_rank": [
+                {
+                    "icone": "scale",
+                    "name": "Écaille Perce-âme",
+                    "color": "white"
+                },
+                {
+                    "icone": "skin",
+                    "name": "Peau Perce-âme",
+                    "color": "purple"
+                },
+                {
+                    "icone": "bone",
+                    "name": "Queue Perce-âme",
+                    "color": "purple"
+                }
+            ],
+            "high_rank": [
+                {
+                    "icone": "scale",
+                    "name": "Éclat Perce-âme",
+                    "color": "white"
+                },
+                {
+                    "icone": "skin",
+                    "name": "Peau mauve Perce-âme",
+                    "color": "purple"
+                },
+                {
+                    "icone": "bone",
+                    "name": "Queue Perce-âme",
+                    "color": "purple"
+                }
+            ]
+        },
         "egg": {
             "icone": "soulseer_mizutsune_egg.png",
             "growth": "Ralentir",
@@ -498,23 +631,42 @@
             }
         ],
         "maps": ["Lamure - Jardin de Pomore"],
-        "loots": [
-            {
-                "icone": "scale",
-                "name": "Éclat Perce-âme",
-                "color": "white"
-            },
-            {
-                "icone": "skin",
-                "name": "Peau mauve Perce-âme",
-                "color": "purple"
-            },
-            {
-                "icone": "bone",
-                "name": "Queue Perce-âme",
-                "color": "purple"
-            }
-        ],
+        "loots": {
+            "low_rank": [
+                {
+                    "icone": "scale",
+                    "name": "Écaille Perce-âme",
+                    "color": "white"
+                },
+                {
+                    "icone": "skin",
+                    "name": "Peau Perce-âme",
+                    "color": "purple"
+                },
+                {
+                    "icone": "bone",
+                    "name": "Queue Perce-âme",
+                    "color": "purple"
+                }
+            ],
+            "high_rank": [
+                {
+                    "icone": "scale",
+                    "name": "Éclat Perce-âme",
+                    "color": "white"
+                },
+                {
+                    "icone": "skin",
+                    "name": "Peau mauve Perce-âme",
+                    "color": "purple"
+                },
+                {
+                    "icone": "bone",
+                    "name": "Queue Perce-âme",
+                    "color": "purple"
+                }
+            ]
+        },
         "egg": {
             "icone": "soulseer_mizutsune_egg.png",
             "growth": "Ralentir",
@@ -566,23 +718,42 @@
             }
         ],
         "maps": ["Lamure - Jardin de Pomore"],
-        "loots": [
-            {
-                "icone": "scale",
-                "name": "Éclat Perce-âme",
-                "color": "white"
-            },
-            {
-                "icone": "skin",
-                "name": "Peau mauve Perce-âme",
-                "color": "purple"
-            },
-            {
-                "icone": "bone",
-                "name": "Queue Perce-âme",
-                "color": "purple"
-            }
-        ],
+        "loots": {
+            "low_rank": [
+                {
+                    "icone": "scale",
+                    "name": "Écaille Perce-âme",
+                    "color": "white"
+                },
+                {
+                    "icone": "skin",
+                    "name": "Peau Perce-âme",
+                    "color": "purple"
+                },
+                {
+                    "icone": "bone",
+                    "name": "Queue Perce-âme",
+                    "color": "purple"
+                }
+            ],
+            "high_rank": [
+                {
+                    "icone": "scale",
+                    "name": "Éclat Perce-âme",
+                    "color": "white"
+                },
+                {
+                    "icone": "skin",
+                    "name": "Peau mauve Perce-âme",
+                    "color": "purple"
+                },
+                {
+                    "icone": "bone",
+                    "name": "Queue Perce-âme",
+                    "color": "purple"
+                }
+            ]
+        },
         "egg": {
             "icone": "soulseer_mizutsune_egg.png",
             "growth": "Ralentir",
