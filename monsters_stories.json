@@ -30,7 +30,7 @@
                     "color": "White"
                 },
                 {
-                    "icone": "skin",
+                    "icone": "hide",
                     "name": "Peau Perce-âme",
                     "color": "Purple"
                 },
@@ -47,7 +47,7 @@
                     "color": "white"
                 },
                 {
-                    "icone": "skin",
+                    "icone": "hide",
                     "name": "Peau mauve Perce-âme",
                     "color": "purple"
                 },
@@ -114,17 +114,17 @@
                 {
                     "icone": "scale",
                     "name": "Écaille Perce-âme",
-                    "color": "white"
+                    "color": "White"
                 },
                 {
-                    "icone": "skin",
+                    "icone": "hide",
                     "name": "Peau Perce-âme",
-                    "color": "purple"
+                    "color": "Purple"
                 },
                 {
                     "icone": "bone",
                     "name": "Queue Perce-âme",
-                    "color": "purple"
+                    "color": "Purple"
                 }
             ],
             "high_rank": [
@@ -134,7 +134,7 @@
                     "color": "white"
                 },
                 {
-                    "icone": "skin",
+                    "icone": "hide",
                     "name": "Peau mauve Perce-âme",
                     "color": "purple"
                 },
@@ -146,7 +146,7 @@
             ]
         },
         "egg": {
-            "icone": "soulseer_mizutsune_egg.png",
+            "icone": ["soulseer_mizutsune_egg.png"],
             "growth": "Ralentir",
             "attack_type": "speed",
             "saddle_action": "Charge",
@@ -201,17 +201,17 @@
                 {
                     "icone": "scale",
                     "name": "Écaille Perce-âme",
-                    "color": "white"
+                    "color": "White"
                 },
                 {
-                    "icone": "skin",
+                    "icone": "hide",
                     "name": "Peau Perce-âme",
-                    "color": "purple"
+                    "color": "Purple"
                 },
                 {
                     "icone": "bone",
                     "name": "Queue Perce-âme",
-                    "color": "purple"
+                    "color": "Purple"
                 }
             ],
             "high_rank": [
@@ -221,7 +221,7 @@
                     "color": "white"
                 },
                 {
-                    "icone": "skin",
+                    "icone": "hide",
                     "name": "Peau mauve Perce-âme",
                     "color": "purple"
                 },
@@ -233,7 +233,7 @@
             ]
         },
         "egg": {
-            "icone": "soulseer_mizutsune_egg.png",
+            "icone": ["soulseer_mizutsune_egg.png"],
             "growth": "Ralentir",
             "attack_type": "speed",
             "saddle_action": "Charge",
@@ -288,17 +288,17 @@
                 {
                     "icone": "scale",
                     "name": "Écaille Perce-âme",
-                    "color": "white"
+                    "color": "White"
                 },
                 {
-                    "icone": "skin",
+                    "icone": "hide",
                     "name": "Peau Perce-âme",
-                    "color": "purple"
+                    "color": "Purple"
                 },
                 {
                     "icone": "bone",
                     "name": "Queue Perce-âme",
-                    "color": "purple"
+                    "color": "Purple"
                 }
             ],
             "high_rank": [
@@ -308,7 +308,7 @@
                     "color": "white"
                 },
                 {
-                    "icone": "skin",
+                    "icone": "hide",
                     "name": "Peau mauve Perce-âme",
                     "color": "purple"
                 },
@@ -320,7 +320,7 @@
             ]
         },
         "egg": {
-            "icone": "soulseer_mizutsune_egg.png",
+            "icone": ["soulseer_mizutsune_egg.png"],
             "growth": "Ralentir",
             "attack_type": "speed",
             "saddle_action": "Charge",
@@ -359,8 +359,8 @@
         "weakness": ["thunder"], 
         "attacks": {
             "elements": ["water"],
-            "normal": "power",
-            "angry": "technical" 
+            "normal": "speed",
+            "angry": "power" 
         },
         "quests": [
             {
@@ -375,17 +375,17 @@
                 {
                     "icone": "scale",
                     "name": "Écaille Perce-âme",
-                    "color": "white"
+                    "color": "White"
                 },
                 {
-                    "icone": "skin",
+                    "icone": "hide",
                     "name": "Peau Perce-âme",
-                    "color": "purple"
+                    "color": "Purple"
                 },
                 {
                     "icone": "bone",
                     "name": "Queue Perce-âme",
-                    "color": "purple"
+                    "color": "Purple"
                 }
             ],
             "high_rank": [
@@ -395,7 +395,7 @@
                     "color": "white"
                 },
                 {
-                    "icone": "skin",
+                    "icone": "hide",
                     "name": "Peau mauve Perce-âme",
                     "color": "purple"
                 },
@@ -407,7 +407,7 @@
             ]
         },
         "egg": {
-            "icone": "soulseer_mizutsune_egg.png",
+            "icone": ["soulseer_mizutsune_egg.png"],
             "growth": "Ralentir",
             "attack_type": "speed",
             "saddle_action": "Charge",
@@ -446,8 +446,8 @@
         "weakness": ["thunder"], 
         "attacks": {
             "elements": ["water"],
-            "normal": "technical",
-            "angry": "speed" 
+            "normal": "speed",
+            "angry": "power" 
         },
         "quests": [
             {
@@ -462,17 +462,17 @@
                 {
                     "icone": "scale",
                     "name": "Écaille Perce-âme",
-                    "color": "white"
+                    "color": "White"
                 },
                 {
-                    "icone": "skin",
+                    "icone": "hide",
                     "name": "Peau Perce-âme",
-                    "color": "purple"
+                    "color": "Purple"
                 },
                 {
                     "icone": "bone",
                     "name": "Queue Perce-âme",
-                    "color": "purple"
+                    "color": "Purple"
                 }
             ],
             "high_rank": [
@@ -482,7 +482,7 @@
                     "color": "white"
                 },
                 {
-                    "icone": "skin",
+                    "icone": "hide",
                     "name": "Peau mauve Perce-âme",
                     "color": "purple"
                 },
@@ -494,7 +494,7 @@
             ]
         },
         "egg": {
-            "icone": "soulseer_mizutsune_egg.png",
+            "icone": ["soulseer_mizutsune_egg.png"],
             "growth": "Ralentir",
             "attack_type": "speed",
             "saddle_action": "Charge",
@@ -549,17 +549,17 @@
                 {
                     "icone": "scale",
                     "name": "Écaille Perce-âme",
-                    "color": "white"
+                    "color": "White"
                 },
                 {
-                    "icone": "skin",
+                    "icone": "hide",
                     "name": "Peau Perce-âme",
-                    "color": "purple"
+                    "color": "Purple"
                 },
                 {
                     "icone": "bone",
                     "name": "Queue Perce-âme",
-                    "color": "purple"
+                    "color": "Purple"
                 }
             ],
             "high_rank": [
@@ -569,7 +569,7 @@
                     "color": "white"
                 },
                 {
-                    "icone": "skin",
+                    "icone": "hide",
                     "name": "Peau mauve Perce-âme",
                     "color": "purple"
                 },
@@ -581,7 +581,7 @@
             ]
         },
         "egg": {
-            "icone": "soulseer_mizutsune_egg.png",
+            "icone": ["soulseer_mizutsune_egg.png"],
             "growth": "Ralentir",
             "attack_type": "speed",
             "saddle_action": "Charge",
@@ -620,8 +620,8 @@
         "weakness": ["thunder"], 
         "attacks": {
             "elements": ["water"],
-            "normal": "power",
-            "angry": "technical" 
+            "normal": "speed",
+            "angry": "power" 
         },
         "quests": [
             {
@@ -636,17 +636,17 @@
                 {
                     "icone": "scale",
                     "name": "Écaille Perce-âme",
-                    "color": "white"
+                    "color": "White"
                 },
                 {
-                    "icone": "skin",
+                    "icone": "hide",
                     "name": "Peau Perce-âme",
-                    "color": "purple"
+                    "color": "Purple"
                 },
                 {
                     "icone": "bone",
                     "name": "Queue Perce-âme",
-                    "color": "purple"
+                    "color": "Purple"
                 }
             ],
             "high_rank": [
@@ -656,7 +656,7 @@
                     "color": "white"
                 },
                 {
-                    "icone": "skin",
+                    "icone": "hide",
                     "name": "Peau mauve Perce-âme",
                     "color": "purple"
                 },
@@ -668,7 +668,7 @@
             ]
         },
         "egg": {
-            "icone": "soulseer_mizutsune_egg.png",
+            "icone": ["soulseer_mizutsune_egg.png"],
             "growth": "Ralentir",
             "attack_type": "speed",
             "saddle_action": "Charge",
@@ -707,8 +707,8 @@
         "weakness": ["thunder"], 
         "attacks": {
             "elements": ["water"],
-            "normal": "technical",
-            "angry": "speed" 
+            "normal": "speed",
+            "angry": "power" 
         },
         "quests": [
             {
@@ -723,17 +723,17 @@
                 {
                     "icone": "scale",
                     "name": "Écaille Perce-âme",
-                    "color": "white"
+                    "color": "White"
                 },
                 {
-                    "icone": "skin",
+                    "icone": "hide",
                     "name": "Peau Perce-âme",
-                    "color": "purple"
+                    "color": "Purple"
                 },
                 {
                     "icone": "bone",
                     "name": "Queue Perce-âme",
-                    "color": "purple"
+                    "color": "Purple"
                 }
             ],
             "high_rank": [
@@ -743,7 +743,7 @@
                     "color": "white"
                 },
                 {
-                    "icone": "skin",
+                    "icone": "hide",
                     "name": "Peau mauve Perce-âme",
                     "color": "purple"
                 },
@@ -755,7 +755,181 @@
             ]
         },
         "egg": {
-            "icone": "soulseer_mizutsune_egg.png",
+            "icone": ["soulseer_mizutsune_egg.png"],
+            "growth": "Ralentir",
+            "attack_type": "speed",
+            "saddle_action": "Charge",
+            "critical": "Ralentir",
+            "max_hp": 8,
+            "speed": 5,
+            "heal": 10,
+            "crit_rate": 9,
+            "attack": {
+                "neutral": 6,
+                "fire": 6,
+                "water": 9,
+                "thunder": 4,
+                "ice": 6,
+                "dragon": 6
+            },
+            "defense": {
+                "neutral": 6,
+                "fire": 6,
+                "water": 8,
+                "thunder": 4,
+                "ice": 6,
+                "dragon": 6
+            }
+        }
+    },
+    {
+        "id": 139,
+        "fr": "Mizutsune Perce-Ame",
+        "en": "Soulseer Mizutsune",
+        "icone": "soulseer_mizutsune.png",
+        "has_egg": true,
+        "family": "Léviathan",
+        "can_be_chased": false,
+        "stars": 7,
+        "weakness": ["thunder"], 
+        "attacks": {
+            "elements": ["water"],
+            "normal": "speed",
+            "angry": "power" 
+        },
+        "quests": [
+            {
+                "stars": 8,
+                "type": "Explorer",
+                "name": "Eufs d'eau"
+            }
+        ],
+        "maps": ["Lamure - Jardin de Pomore"],
+        "loots": {
+            "low_rank": [
+                {
+                    "icone": "scale",
+                    "name": "Écaille Perce-âme",
+                    "color": "White"
+                },
+                {
+                    "icone": "hide",
+                    "name": "Peau Perce-âme",
+                    "color": "Purple"
+                },
+                {
+                    "icone": "bone",
+                    "name": "Queue Perce-âme",
+                    "color": "Purple"
+                }
+            ],
+            "high_rank": [
+                {
+                    "icone": "scale",
+                    "name": "Éclat Perce-âme",
+                    "color": "white"
+                },
+                {
+                    "icone": "hide",
+                    "name": "Peau mauve Perce-âme",
+                    "color": "purple"
+                },
+                {
+                    "icone": "bone",
+                    "name": "Queue Perce-âme",
+                    "color": "purple"
+                }
+            ]
+        },
+        "egg": {
+            "icone": ["soulseer_mizutsune_egg.png"],
+            "growth": "Ralentir",
+            "attack_type": "speed",
+            "saddle_action": "Charge",
+            "critical": "Ralentir",
+            "max_hp": 8,
+            "speed": 5,
+            "heal": 10,
+            "crit_rate": 9,
+            "attack": {
+                "neutral": 6,
+                "fire": 6,
+                "water": 9,
+                "thunder": 4,
+                "ice": 6,
+                "dragon": 6
+            },
+            "defense": {
+                "neutral": 6,
+                "fire": 6,
+                "water": 8,
+                "thunder": 4,
+                "ice": 6,
+                "dragon": 6
+            }
+        }
+    },
+    {
+        "id": 140,
+        "fr": "Mizutsune Perce-Ame",
+        "en": "Soulseer Mizutsune",
+        "icone": "soulseer_mizutsune.png",
+        "has_egg": true,
+        "family": "Léviathan",
+        "can_be_chased": false,
+        "stars": 7,
+        "weakness": ["thunder"], 
+        "attacks": {
+            "elements": ["water"],
+            "normal": "speed",
+            "angry": "power" 
+        },
+        "quests": [
+            {
+                "stars": 8,
+                "type": "Explorer",
+                "name": "Eufs d'eau"
+            }
+        ],
+        "maps": ["Lamure - Jardin de Pomore"],
+        "loots": {
+            "low_rank": [
+                {
+                    "icone": "scale",
+                    "name": "Écaille Perce-âme",
+                    "color": "White"
+                },
+                {
+                    "icone": "hide",
+                    "name": "Peau Perce-âme",
+                    "color": "Purple"
+                },
+                {
+                    "icone": "bone",
+                    "name": "Queue Perce-âme",
+                    "color": "Purple"
+                }
+            ],
+            "high_rank": [
+                {
+                    "icone": "scale",
+                    "name": "Éclat Perce-âme",
+                    "color": "white"
+                },
+                {
+                    "icone": "hide",
+                    "name": "Peau mauve Perce-âme",
+                    "color": "purple"
+                },
+                {
+                    "icone": "bone",
+                    "name": "Queue Perce-âme",
+                    "color": "purple"
+                }
+            ]
+        },
+        "egg": {
+            "icone": ["soulseer_mizutsune_egg.png"],
             "growth": "Ralentir",
             "attack_type": "speed",
             "saddle_action": "Charge",
