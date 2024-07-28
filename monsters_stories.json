@@ -128,5 +128,70 @@
                 "dragon": 6
             }
         }
+    },
+    {
+        "id": 132,
+        "fr": "Mizutsune Perce-Ame",
+        "en": "Soulseer Mizutsune",
+        "icone": "soulseer_mizutsune.png",
+        "has_egg": true,
+        "family": "Léviathan",
+        "can_be_chased": false,
+        "stars": 7,
+        "weakness": ["Thunder"], 
+        "attacks": {
+            "elements": "water",
+            "normal": "technical",
+            "angry": "speed" 
+        },
+        "quests": [
+            {
+                "stars": 8,
+                "type": "Explorer",
+                "name": "Eufs d'eau"
+            }
+        ],
+        "maps": ["Lamure - Jardin de Pomore"],
+        "loots": [
+            {
+                "icone": "scale",
+                "name": "Éclat Perce-âme"
+            },
+            {
+                "icone": "skin",
+                "name": "Peau mauve Perce-âme"
+            },
+            {
+                "icone": "bone",
+                "name": "Queue Perce-âme"
+            }
+        ],
+        "egg": {
+            "icone": "soulseer_mizutsune_egg.png",
+            "growth": "Ralentir",
+            "attack_type": "speed",
+            "saddle_action": "Charge",
+            "critical": "Ralentir",
+            "max_hp": 8,
+            "speed": 5,
+            "heal": 10,
+            "crit_rate": 9,
+            "attack": {
+                "neutral": 6,
+                "fire": 6,
+                "water": 9,
+                "thunder": 4,
+                "ice": 6,
+                "dragon": 6
+            },
+            "defense": {
+                "neutral": 6,
+                "fire": 6,
+                "water": 8,
+                "thunder": 4,
+                "ice": 6,
+                "dragon": 6
+            }
+        }
     }
 ]
