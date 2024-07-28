@@ -27,17 +27,17 @@
                 {
                     "icone": "scale",
                     "name": "Écaille Perce-âme",
-                    "color": "white"
+                    "color": "White"
                 },
                 {
                     "icone": "skin",
                     "name": "Peau Perce-âme",
-                    "color": "purple"
+                    "color": "Purple"
                 },
                 {
                     "icone": "bone",
                     "name": "Queue Perce-âme",
-                    "color": "purple"
+                    "color": "Purple"
                 }
             ],
             "high_rank": [
