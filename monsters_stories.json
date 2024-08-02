@@ -29,27 +29,27 @@
         {
           "name": "Screamer Sac",
           "color": "Light Blue",
-          "icone": "monster part"
+          "icone": "sac"
         },
         {
           "name": "Velocidrome Hide",
           "color": "Light Blue",
-          "icone": "monster part"
+          "icone": "hide"
         },
         {
           "name": "Velocidrome Claw",
           "color": "Light Blue",
-          "icone": "monster part"
+          "icone": "claw"
         },
         {
           "name": "Velocidrome Head",
           "color": "Light Blue",
-          "icone": "monster part"
+          "icone": "head"
         },
         {
           "name": "Speed Bead",
           "color": "Light Blue",
-          "icone": "monster part"
+          "icone": "husk"
         },
         {
           "name": "Translucent Tear",
@@ -198,7 +198,7 @@
         {
           "name": "Arzuros Shell",
           "color": "Blue",
-          "icone": "monster part"
+          "icone": "shell"
         },
         {
           "name": "Arzuros Brace",
@@ -208,7 +208,7 @@
         {
           "name": "Attack Bead",
           "color": "Blue",
-          "icone": "monster part"
+          "icone": "husk"
         },
         {
           "name": "Lifesoot",
@@ -343,7 +343,7 @@
         {
           "name": "Poison Sac",
           "color": "Red",
-          "icone": "monster part"
+          "icone": "sac"
         },
         {
           "name": "Iodrome Hide",
@@ -353,7 +353,7 @@
         {
           "name": "Iodrm Violet Scale",
           "color": "Red",
-          "icone": "monster part"
+          "icone": "scale"
         },
         {
           "name": "Iodrome Head",
@@ -363,7 +363,7 @@
         {
           "name": "Speed Bead",
           "color": "Red",
-          "icone": "monster part"
+          "icone": "husk"
         },
         {
           "name": "Vital Essence",
@@ -497,27 +497,27 @@
         {
           "name": "Flame Sac",
           "color": "Pink",
-          "icone": "monster part"
+          "icone": "sac"
         },
         {
           "name": "Kut-Ku Scale",
           "color": "Pink",
-          "icone": "monster part"
+          "icone": "scale"
         },
         {
           "name": "Kut-Ku Webbing",
           "color": "Pink",
-          "icone": "monster part"
+          "icone": "webbing"
         },
         {
           "name": "Giant Beak",
           "color": "Pink",
-          "icone": "monster part"
+          "icone": "head"
         },
         {
           "name": "Tech Res Bead",
           "color": "Pink",
-          "icone": "monster part"
+          "icone": "husk"
         },
         {
           "name": "Vitality Nutriment",
@@ -645,17 +645,17 @@
         {
           "name": "Flame Sac",
           "color": "Teal",
-          "icone": "monster part"
+          "icone": "sac"
         },
         {
           "name": "Blue Kut-Ku Scale",
           "color": "Teal",
-          "icone": "monster part"
+          "icone": "scale"
         },
         {
           "name": "Blue Kut-Ku Shell",
           "color": "Teal",
-          "icone": "monster part"
+          "icone": "shell"
         },
         {
           "name": "Blue Kut-Ku Ear",
@@ -665,12 +665,12 @@
         {
           "name": "Tech Bead",
           "color": "Teal",
-          "icone": "monster part"
+          "icone": "husk"
         },
         {
           "name": "Training Charm",
           "color": "Teal",
-          "icone": "monster part"
+          "icone": "scrap"
         },
         {
           "name": "Fatty Tomato",
@@ -795,12 +795,12 @@
         {
           "name": "Wyvern Stone",
           "color": "Dark Purple",
-          "icone": "monster part"
+          "icone": "ore"
         },
         {
           "name": "Nargacuga Scale",
           "color": "Dark Purple",
-          "icone": "monster part"
+          "icone": "scale"
         },
         {
           "name": "Narga Blackfur",
@@ -810,12 +810,12 @@
         {
           "name": "Narga Cutwing",
           "color": "Dark Purple",
-          "icone": "monster part"
+          "icone": "wing"
         },
         {
           "name": "Critical Bead",
           "color": "Dark Purple",
-          "icone": "monster part"
+          "icone": "husk"
         },
         {
           "name": "Translucent Tear",
@@ -964,7 +964,7 @@
         {
           "name": "Frost Sac",
           "color": "White",
-          "icone": "monster part"
+          "icone": "sac"
         },
         {
           "name": "Lagombi Pelt",
@@ -984,7 +984,7 @@
         {
           "name": "Ice Res Bead",
           "color": "White",
-          "icone": "monster part"
+          "icone": "husk"
         },
         {
           "name": "Sonic Bomb",
@@ -1136,12 +1136,12 @@
         {
           "name": "Bulldrome Bone",
           "color": "Brown",
-          "icone": "monster part"
+          "icone": "bone"
         },
         {
           "name": "Power Bead",
           "color": "Brown",
-          "icone": "monster part"
+          "icone": "husk"
         },
         {
           "name": "Paintberry",
@@ -1275,12 +1275,12 @@
         {
           "name": "Frost Sac",
           "color": "Light Teal",
-          "icone": "monster part"
+          "icone": "sac"
         },
         {
           "name": "Zamtrios Hide",
           "color": "Light Teal",
-          "icone": "monster part"
+          "icone": "hide"
         },
         {
           "name": "Zamtrios Fin",
@@ -1290,12 +1290,12 @@
         {
           "name": "Zamtrios Tailblade",
           "color": "Light Teal",
-          "icone": "monster part"
+          "icone": "tail"
         },
         {
           "name": "Ice Res Bead",
           "color": "Light Teal",
-          "icone": "monster part"
+          "icone": "husk"
         },
         {
           "name": "Defense Nutriment",
@@ -1436,32 +1436,32 @@
         {
           "name": "Electro Sac",
           "color": "White",
-          "icone": "monster part"
+          "icone": "sac"
         },
         {
           "name": "Flabby Hide",
           "color": "White",
-          "icone": "monster part"
+          "icone": "hide"
         },
         {
           "name": "Flabby Webbing",
           "color": "White",
-          "icone": "monster part"
+          "icone": "webbing"
         },
         {
           "name": "Pale Bone",
           "color": "White",
-          "icone": "monster part"
+          "icone": "bone"
         },
         {
           "name": "T Res Bead",
           "color": "White",
-          "icone": "monster part"
+          "icone": "husk"
         },
         {
           "name": "Poison Knife",
           "color": "White",
-          "icone": "monster part"
+          "icone": "scrap"
         },
         {
           "name": "H. Crystal (Thndr)",
@@ -1584,7 +1584,7 @@
         {
           "name": "Electro Sac",
           "color": "Red",
-          "icone": "monster part"
+          "icone": "sac"
         },
         {
           "name": "Alluring Hide",
@@ -1594,7 +1594,7 @@
         {
           "name": "Alluring Webbing",
           "color": "Red",
-          "icone": "monster part"
+          "icone": "webbing"
         },
         {
           "name": "Alluring Lips",
@@ -1604,12 +1604,12 @@
         {
           "name": "T Res Bead",
           "color": "Red",
-          "icone": "monster part"
+          "icone": "husk"
         },
         {
           "name": "Adamant Charm",
           "color": "Red",
-          "icone": "monster part"
+          "icone": "scrap"
         }
       ],
       "egg": {
@@ -1733,17 +1733,17 @@
         {
           "name": "Paralysis Sac",
           "color": "Light Green",
-          "icone": "monster part"
+          "icone": "sac"
         },
         {
           "name": "Gendrome Hide",
           "color": "Light Green",
-          "icone": "monster part"
+          "icone": "hide"
         },
         {
           "name": "Gendrome Fang",
           "color": "Light Green",
-          "icone": "monster part"
+          "icone": "claw"
         },
         {
           "name": "Gendrome Head",
@@ -1753,7 +1753,7 @@
         {
           "name": "Spd Res Bead",
           "color": "Light Green",
-          "icone": "monster part"
+          "icone": "husk"
         },
         {
           "name": "Flash Bomb",
@@ -1879,17 +1879,17 @@
         {
           "name": "Aqua Sac",
           "color": "Yellow",
-          "icone": "monster part"
+          "icone": "sac"
         },
         {
           "name": "R. Ludroth Scale",
           "color": "Yellow",
-          "icone": "monster part"
+          "icone": "scale"
         },
         {
           "name": "Royal Ludroth Tail",
           "color": "Yellow",
-          "icone": "monster part"
+          "icone": "tail"
         },
         {
           "name": "R. Ludroth Crest",
@@ -1899,7 +1899,7 @@
         {
           "name": "W Res Bead",
           "color": "Yellow",
-          "icone": "monster part"
+          "icone": "husk"
         },
         {
           "name": "Pure Tear",
@@ -1909,7 +1909,7 @@
         {
           "name": "Paralysis Knife",
           "color": "Yellow",
-          "icone": "monster part"
+          "icone": "scrap"
         },
         {
           "name": "H. Crystal (Water)",
@@ -2051,7 +2051,7 @@
         {
           "name": "Qurupeco Scale",
           "color": "Green",
-          "icone": "monster part"
+          "icone": "scale"
         },
         {
           "name": "Qurupeco Feather",
@@ -2061,12 +2061,12 @@
         {
           "name": "Strange Beak",
           "color": "Green",
-          "icone": "monster part"
+          "icone": "head"
         },
         {
           "name": "Tech Bead",
           "color": "Green",
-          "icone": "monster part"
+          "icone": "husk"
         },
         {
           "name": "Bottle Cap",
@@ -2191,7 +2191,7 @@
         {
           "name": "Poison Sac",
           "color": "Purple",
-          "icone": "monster part"
+          "icone": "sac"
         },
         {
           "name": "Lightcrystal",
@@ -2206,7 +2206,7 @@
         {
           "name": "Gypceros Webbing",
           "color": "Purple",
-          "icone": "monster part"
+          "icone": "webbing"
         },
         {
           "name": "Gypceros Head",
@@ -2216,7 +2216,7 @@
         {
           "name": "Tech Res Bead",
           "color": "Purple",
-          "icone": "monster part"
+          "icone": "husk"
         },
         {
           "name": "Bottle Cap",
@@ -2358,12 +2358,12 @@
         {
           "name": "Sleep Sac",
           "color": "Dark Red",
-          "icone": "monster part"
+          "icone": "sac"
         },
         {
           "name": "Nerscylla Shell",
           "color": "Dark Red",
-          "icone": "monster part"
+          "icone": "shell"
         },
         {
           "name": "Nerscylla Chelicera",
@@ -2378,7 +2378,7 @@
         {
           "name": "Critical Bead",
           "color": "Dark Red",
-          "icone": "monster part"
+          "icone": "husk"
         },
         {
           "name": "Defense Nutriment",
@@ -2509,32 +2509,32 @@
         {
           "name": "Paralysis Sac",
           "color": "Grey",
-          "icone": "monster part"
+          "icone": "sac"
         },
         {
           "name": "S. Nerscylla Shell",
           "color": "Grey",
-          "icone": "monster part"
+          "icone": "shell"
         },
         {
           "name": "S. Nerscylla Chel",
           "color": "Grey",
-          "icone": "monster part"
+          "icone": "shell"
         },
         {
           "name": "S. Nerscylla Claw",
           "color": "Grey",
-          "icone": "monster part"
+          "icone": "claw"
         },
         {
           "name": "D Res Bead",
           "color": "Grey",
-          "icone": "monster part"
+          "icone": "husk"
         },
         {
           "name": "Gathering Charm",
           "color": "Grey",
-          "icone": "monster part"
+          "icone": "scrap"
         },
         {
           "name": "Spicy Worm",
@@ -2667,27 +2667,27 @@
         {
           "name": "Flame Sac",
           "color": "Light Green",
-          "icone": "monster part"
+          "icone": "sac"
         },
         {
           "name": "Rathian Shell",
           "color": "Light Green",
-          "icone": "monster part"
+          "icone": "shell"
         },
         {
           "name": "Rathian Spike",
           "color": "Light Green",
-          "icone": "monster part"
+          "icone": "claw"
         },
         {
           "name": "Rathian Plate",
           "color": "Light Green",
-          "icone": "monster part"
+          "icone": "plate"
         },
         {
           "name": "All-Elem Bead",
           "color": "Light Green",
-          "icone": "monster part"
+          "icone": "husk"
         },
         {
           "name": "Vitality Nutriment",
@@ -2811,32 +2811,32 @@
         {
           "name": "Flame Sac",
           "color": "Pink",
-          "icone": "monster part"
+          "icone": "sac"
         },
         {
           "name": "Pink Rathian Shell",
           "color": "Pink",
-          "icone": "monster part"
+          "icone": "shell"
         },
         {
           "name": "Pink Rathian Thorn",
           "color": "Pink",
-          "icone": "monster part"
+          "icone": "claw"
         },
         {
           "name": "Pink Rathian Plate",
           "color": "Pink",
-          "icone": "monster part"
+          "icone": "plate"
         },
         {
           "name": "All-Elem Bead",
           "color": "Pink",
-          "icone": "monster part"
+          "icone": "husk"
         },
         {
           "name": "Might Charm",
           "color": "Pink",
-          "icone": "monster part"
+          "icone": "scrap"
         }
       ],
       "egg": {
@@ -2948,9 +2948,7 @@
         "elements": [
           "Unknown"
         ],
-        "type": [
-          "technical"
-        ]
+        "type": "Unknown"
       },
       "quests": [
         {
@@ -2966,12 +2964,12 @@
         {
           "name": "Aqua Sac",
           "color": "Red",
-          "icone": "monster part"
+          "icone": "sac"
         },
         {
           "name": "Daimyo Shell",
           "color": "Red",
-          "icone": "monster part"
+          "icone": "shell"
         },
         {
           "name": "Daimyo Claw",
@@ -2986,7 +2984,7 @@
         {
           "name": "Water Scl Jwl",
           "color": "Red",
-          "icone": "monster part"
+          "icone": "scrap"
         }
       ],
       "egg": {}
@@ -3005,9 +3003,7 @@
         "elements": [
           "Unknown"
         ],
-        "type": [
-          "technical"
-        ]
+        "type": "Unknown"
       },
       "quests": [],
       "maps": [
@@ -3017,12 +3013,12 @@
         {
           "name": "Aqua Sac",
           "color": "Purple",
-          "icone": "monster part"
+          "icone": "sac"
         },
         {
           "name": "Plum Daimyo Shell",
           "color": "Purple",
-          "icone": "monster part"
+          "icone": "shell"
         },
         {
           "name": "Plum Daimyo Claw",
@@ -3037,7 +3033,7 @@
         {
           "name": "Tenacity Jewel",
           "color": "Purple",
-          "icone": "monster part"
+          "icone": "scrap"
         }
       ],
       "egg": {}
@@ -3077,12 +3073,12 @@
         {
           "name": "Barroth Shell",
           "color": "Light Brown",
-          "icone": "monster part"
+          "icone": "shell"
         },
         {
           "name": "Barroth Claw",
           "color": "Light Brown",
-          "icone": "monster part"
+          "icone": "claw"
         },
         {
           "name": "Barroth Scalp",
@@ -3092,7 +3088,7 @@
         {
           "name": "Defense Bead",
           "color": "Light Brown",
-          "icone": "monster part"
+          "icone": "husk"
         },
         {
           "name": "Pitfall Trap",
@@ -3214,12 +3210,12 @@
         {
           "name": "Paralysis Sac",
           "color": "Dark Green",
-          "icone": "monster part"
+          "icone": "sac"
         },
         {
           "name": "Cephadrome Scale",
           "color": "Dark Green",
-          "icone": "monster part"
+          "icone": "scale"
         },
         {
           "name": "Cephadrome Fang",
@@ -3234,7 +3230,7 @@
         {
           "name": "Evasion Bead",
           "color": "Dark Green",
-          "icone": "monster part"
+          "icone": "husk"
         },
         {
           "name": "Sonic Bomb",
@@ -3244,7 +3240,7 @@
         {
           "name": "Training Charm",
           "color": "Dark Green",
-          "icone": "monster part"
+          "icone": "scrap"
         }
       ],
       "egg": {
@@ -3376,17 +3372,17 @@
         {
           "name": "Wyvern Stone",
           "color": "Orange",
-          "icone": "monster part"
+          "icone": "ore"
         },
         {
           "name": "Diablos Shell",
           "color": "Orange",
-          "icone": "monster part"
+          "icone": "shell"
         },
         {
           "name": "Diablos Tail",
           "color": "Orange",
-          "icone": "monster part"
+          "icone": "tail"
         },
         {
           "name": "Twisted Horn",
@@ -3396,7 +3392,7 @@
         {
           "name": "Health Bead",
           "color": "Orange",
-          "icone": "monster part"
+          "icone": "husk"
         },
         {
           "name": "Flash Bomb",
@@ -3524,17 +3520,17 @@
         {
           "name": "Wyvern Stone",
           "color": "Black",
-          "icone": "monster part"
+          "icone": "ore"
         },
         {
           "name": "Black Diablos Shell",
           "color": "Black",
-          "icone": "monster part"
+          "icone": "shell"
         },
         {
           "name": "Black Diablos Tail",
           "color": "Black",
-          "icone": "monster part"
+          "icone": "tail"
         },
         {
           "name": "Twstd B. Diab Hrn",
@@ -3544,12 +3540,12 @@
         {
           "name": "Health Bead",
           "color": "Black",
-          "icone": "monster part"
+          "icone": "husk"
         },
         {
           "name": "Finding Charm",
           "color": "Black",
-          "icone": "monster part"
+          "icone": "scrap"
         }
       ],
       "egg": {
@@ -3673,12 +3669,12 @@
         {
           "name": "Wyvern Stone",
           "color": "Dark Orange",
-          "icone": "monster part"
+          "icone": "ore"
         },
         {
           "name": "Tigrex Scale",
           "color": "Dark Orange",
-          "icone": "monster part"
+          "icone": "scale"
         },
         {
           "name": "Tigrex Claw",
@@ -3693,7 +3689,7 @@
         {
           "name": "Power Bead",
           "color": "Dark Orange",
-          "icone": "monster part"
+          "icone": "husk"
         },
         {
           "name": "Strength Nutriment",
@@ -3806,9 +3802,7 @@
         "elements": [
           "Unknown"
         ],
-        "type": [
-          "speed"
-        ]
+        "type": "Unknown"
       },
       "quests": [],
       "maps": [
@@ -3818,7 +3812,7 @@
         {
           "name": "Torn Chains",
           "color": "Light Brown",
-          "icone": "monster part"
+          "icone": "scrap"
         },
         {
           "name": "Protovisor",
@@ -3858,22 +3852,22 @@
         {
           "name": "Poison Sac",
           "color": "Grey",
-          "icone": "monster part"
+          "icone": "sac"
         },
         {
           "name": "Dragonite Ore",
           "color": "Grey",
-          "icone": "monster part"
+          "icone": "ore"
         },
         {
           "name": "Basarios Shell",
           "color": "Grey",
-          "icone": "monster part"
+          "icone": "shell"
         },
         {
           "name": "Basarios Webbing",
           "color": "Grey",
-          "icone": "monster part"
+          "icone": "webbing"
         },
         {
           "name": "Basarios Tears",
@@ -3883,7 +3877,7 @@
         {
           "name": "Defense Bead",
           "color": "Grey",
-          "icone": "monster part"
+          "icone": "husk"
         },
         {
           "name": "Defense Nutriment",
@@ -3893,7 +3887,7 @@
         {
           "name": "Stone",
           "color": "Grey",
-          "icone": "monster part"
+          "icone": "ore"
         }
       ],
       "egg": {
@@ -4030,12 +4024,12 @@
         {
           "name": "Sleep Sac",
           "color": "White",
-          "icone": "monster part"
+          "icone": "sac"
         },
         {
           "name": "Gravios Shell",
           "color": "White",
-          "icone": "monster part"
+          "icone": "shell"
         },
         {
           "name": "Gravios Scalp",
@@ -4045,17 +4039,17 @@
         {
           "name": "Gravios Marrow",
           "color": "White",
-          "icone": "monster part"
+          "icone": "bone"
         },
         {
           "name": "Fire Res Bead",
           "color": "White",
-          "icone": "monster part"
+          "icone": "husk"
         },
         {
           "name": "Poison Knife",
           "color": "White",
-          "icone": "monster part"
+          "icone": "scrap"
         }
       ],
       "egg": {
@@ -4183,17 +4177,17 @@
         {
           "name": "Sleep Sac",
           "color": "Yellow",
-          "icone": "monster part"
+          "icone": "sac"
         },
         {
           "name": "Uragaan Scale",
           "color": "Yellow",
-          "icone": "monster part"
+          "icone": "scale"
         },
         {
           "name": "Uragaan Shell",
           "color": "Yellow",
-          "icone": "monster part"
+          "icone": "shell"
         },
         {
           "name": "Uragaan Jaw",
@@ -4203,7 +4197,7 @@
         {
           "name": "Pwr Res Bead",
           "color": "Yellow",
-          "icone": "monster part"
+          "icone": "husk"
         },
         {
           "name": "Bottle Cap",
@@ -4334,12 +4328,12 @@
         {
           "name": "Wyvern Stone",
           "color": "Black",
-          "icone": "monster part"
+          "icone": "ore"
         },
         {
           "name": "Brute Tigrex Scale",
           "color": "Black",
-          "icone": "monster part"
+          "icone": "scale"
         },
         {
           "name": "Brute Tigrex Claw",
@@ -4349,17 +4343,17 @@
         {
           "name": "Brute Tigrex Tail",
           "color": "Black",
-          "icone": "monster part"
+          "icone": "tail"
         },
         {
           "name": "Power Bead",
           "color": "Black",
-          "icone": "monster part"
+          "icone": "husk"
         },
         {
           "name": "Tracking Charm",
           "color": "Black",
-          "icone": "monster part"
+          "icone": "scrap"
         },
         {
           "name": "Strength Nutriment",
@@ -4472,9 +4466,7 @@
         "elements": [
           "Unknown"
         ],
-        "type": [
-          "technical"
-        ]
+        "type": "Unknown"
       },
       "quests": [
         {
@@ -4490,12 +4482,12 @@
         {
           "name": "Flame Sac",
           "color": "White",
-          "icone": "monster part"
+          "icone": "sac"
         },
         {
           "name": "Agnaktor Shell",
           "color": "White",
-          "icone": "monster part"
+          "icone": "shell"
         },
         {
           "name": "Agnaktor Claw",
@@ -4505,12 +4497,12 @@
         {
           "name": "Agnaktor Beak",
           "color": "White",
-          "icone": "monster part"
+          "icone": "head"
         },
         {
           "name": "Fire Scale Jwl",
           "color": "White",
-          "icone": "monster part"
+          "icone": "scrap"
         }
       ],
       "egg": {}
@@ -4529,9 +4521,7 @@
         "elements": [
           "Unknown"
         ],
-        "type": [
-          "power"
-        ]
+        "type": "Unknown"
       },
       "quests": [],
       "maps": [
@@ -4565,9 +4555,7 @@
         "elements": [
           "Unknown"
         ],
-        "type": [
-          "technical"
-        ]
+        "type": "Unknown"
       },
       "quests": [],
       "maps": [
@@ -4601,9 +4589,7 @@
         "elements": [
           "Unknown"
         ],
-        "type": [
-          "speed"
-        ]
+        "type": "Unknown"
       },
       "quests": [
         {
@@ -4624,12 +4610,12 @@
         {
           "name": "Thunderbug Juice",
           "color": "Light Blue",
-          "icone": "monster part"
+          "icone": "fluid"
         },
         {
           "name": "Electro Sac",
           "color": "Light Blue",
-          "icone": "monster part"
+          "icone": "sac"
         },
         {
           "name": "Lifepowder",
@@ -4669,17 +4655,17 @@
         {
           "name": "Screamer Sac",
           "color": "Purple",
-          "icone": "monster part"
+          "icone": "sac"
         },
         {
           "name": "Great Jaggi Hide",
           "color": "Purple",
-          "icone": "monster part"
+          "icone": "hide"
         },
         {
           "name": "Great Jaggi Claw",
           "color": "Purple",
-          "icone": "monster part"
+          "icone": "claw"
         },
         {
           "name": "King's Frill",
@@ -4689,7 +4675,7 @@
         {
           "name": "Health Bead",
           "color": "Purple",
-          "icone": "monster part"
+          "icone": "husk"
         },
         {
           "name": "Vital Essence",
@@ -4807,7 +4793,7 @@
         {
           "name": "Aqua Sac",
           "color": "Dark Orange",
-          "icone": "monster part"
+          "icone": "sac"
         },
         {
           "name": "Kecha Pelt",
@@ -4817,7 +4803,7 @@
         {
           "name": "Kecha Longbone",
           "color": "Dark Orange",
-          "icone": "monster part"
+          "icone": "bone"
         },
         {
           "name": "Kecha Ear",
@@ -4827,7 +4813,7 @@
         {
           "name": "Torrential Bead",
           "color": "Dark Orange",
-          "icone": "monster part"
+          "icone": "husk"
         },
         {
           "name": "Bottle Cap",
@@ -4955,17 +4941,17 @@
         {
           "name": "Poison Sac",
           "color": "Magenta",
-          "icone": "monster part"
+          "icone": "sac"
         },
         {
           "name": "P. Ludroth Scale",
           "color": "Magenta",
-          "icone": "monster part"
+          "icone": "scale"
         },
         {
           "name": "P. Ludroth Claw",
           "color": "Magenta",
-          "icone": "monster part"
+          "icone": "claw"
         },
         {
           "name": "Plum Spongy Hide",
@@ -4975,12 +4961,12 @@
         {
           "name": "W Res Bead",
           "color": "Magenta",
-          "icone": "monster part"
+          "icone": "husk"
         },
         {
           "name": "Lucky Charm",
           "color": "Magenta",
-          "icone": "monster part"
+          "icone": "scrap"
         }
       ],
       "egg": {
@@ -5104,12 +5090,12 @@
         {
           "name": "Flame Sac",
           "color": "Purple",
-          "icone": "monster part"
+          "icone": "sac"
         },
         {
           "name": "Garuga Scale",
           "color": "Purple",
-          "icone": "monster part"
+          "icone": "scale"
         },
         {
           "name": "Garuga Ear",
@@ -5119,17 +5105,17 @@
         {
           "name": "Sharpened Beak",
           "color": "Purple",
-          "icone": "monster part"
+          "icone": "head"
         },
         {
           "name": "All-Res Bead",
           "color": "Purple",
-          "icone": "monster part"
+          "icone": "husk"
         },
         {
           "name": "Mounting Charm",
           "color": "Purple",
-          "icone": "monster part"
+          "icone": "scrap"
         }
       ],
       "egg": {
@@ -5250,7 +5236,7 @@
         {
           "name": "Congalala Pelt",
           "color": "Pink",
-          "icone": "monster part"
+          "icone": "hide"
         },
         {
           "name": "Congalala Claw",
@@ -5265,7 +5251,7 @@
         {
           "name": "Attack Bead",
           "color": "Pink",
-          "icone": "monster part"
+          "icone": "husk"
         },
         {
           "name": "Bottle Cap",
@@ -5275,7 +5261,7 @@
         {
           "name": "King Truffle",
           "color": "Pink",
-          "icone": "monster part"
+          "icone": "head"
         }
       ],
       "egg": {
@@ -5399,22 +5385,22 @@
         {
           "name": "E. Congalala Claw",
           "color": "Green",
-          "icone": "monster part"
+          "icone": "claw"
         },
         {
           "name": "E. Congalala Tail",
           "color": "Green",
-          "icone": "monster part"
+          "icone": "tail"
         },
         {
           "name": "Attack Bead",
           "color": "Green",
-          "icone": "monster part"
+          "icone": "husk"
         },
         {
           "name": "Selling Charm",
           "color": "Green",
-          "icone": "monster part"
+          "icone": "scrap"
         }
       ],
       "egg": {
@@ -5532,12 +5518,12 @@
         {
           "name": "Wyvern Stone",
           "color": "Green",
-          "icone": "monster part"
+          "icone": "ore"
         },
         {
           "name": "Green Narga Scale",
           "color": "Green",
-          "icone": "monster part"
+          "icone": "scale"
         },
         {
           "name": "G. Narga Mottlefur",
@@ -5547,12 +5533,12 @@
         {
           "name": "G. Narga Cutwing",
           "color": "Green",
-          "icone": "monster part"
+          "icone": "wing"
         },
         {
           "name": "Critical Bead",
           "color": "Green",
-          "icone": "monster part"
+          "icone": "husk"
         },
         {
           "name": "Tranq Trap",
@@ -5562,7 +5548,7 @@
         {
           "name": "Speed Bead",
           "color": "Green",
-          "icone": "monster part"
+          "icone": "husk"
         }
       ],
       "egg": {
@@ -5676,12 +5662,12 @@
         {
           "name": "Firestone",
           "color": "Black",
-          "icone": "monster part"
+          "icone": "ore"
         },
         {
           "name": "Black Gravios Shell",
           "color": "Black",
-          "icone": "monster part"
+          "icone": "shell"
         },
         {
           "name": "B. Gravios Scalp",
@@ -5691,17 +5677,17 @@
         {
           "name": "B. Gravios Marrow",
           "color": "Black",
-          "icone": "monster part"
+          "icone": "bone"
         },
         {
           "name": "Fire Res Bead",
           "color": "Black",
-          "icone": "monster part"
+          "icone": "husk"
         },
         {
           "name": "Might Charm",
           "color": "Black",
-          "icone": "monster part"
+          "icone": "scrap"
         },
         {
           "name": "H. Crystal (Fire)",
@@ -5846,27 +5832,27 @@
         {
           "name": "Electro Sac",
           "color": "Teal",
-          "icone": "monster part"
+          "icone": "sac"
         },
         {
           "name": "Zinogre Shell",
           "color": "Teal",
-          "icone": "monster part"
+          "icone": "shell"
         },
         {
           "name": "Zinogre Shockfur",
           "color": "Teal",
-          "icone": "monster part"
+          "icone": "hide"
         },
         {
           "name": "Zinogre Plate",
           "color": "Teal",
-          "icone": "monster part"
+          "icone": "plate"
         },
         {
           "name": "Flashing Bead",
           "color": "Teal",
-          "icone": "monster part"
+          "icone": "husk"
         },
         {
           "name": "Vitality Nutriment",
@@ -5989,37 +5975,37 @@
         {
           "name": "Poison Sac",
           "color": "Pink",
-          "icone": "monster part"
+          "icone": "sac"
         },
         {
           "name": "Dragonite Ore",
           "color": "Pink",
-          "icone": "monster part"
+          "icone": "ore"
         },
         {
           "name": "R. Basarios Shell",
           "color": "Pink",
-          "icone": "monster part"
+          "icone": "shell"
         },
         {
           "name": "R. Basarios Web",
           "color": "Pink",
-          "icone": "monster part"
+          "icone": "spiderweb"
         },
         {
           "name": "R. Basarios Head",
           "color": "Pink",
-          "icone": "monster part"
+          "icone": "head"
         },
         {
           "name": "Defense Bead",
           "color": "Pink",
-          "icone": "monster part"
+          "icone": "husk"
         },
         {
           "name": "Gathering Charm",
           "color": "Pink",
-          "icone": "monster part"
+          "icone": "scrap"
         }
       ],
       "egg": {
@@ -6143,27 +6129,27 @@
         {
           "name": "Flame Sac",
           "color": "Red",
-          "icone": "monster part"
+          "icone": "sac"
         },
         {
           "name": "Rathalos Scale",
           "color": "Red",
-          "icone": "monster part"
+          "icone": "scale"
         },
         {
           "name": "Rathalos Webbing",
           "color": "Red",
-          "icone": "monster part"
+          "icone": "webbing"
         },
         {
           "name": "Rathalos Plate",
           "color": "Red",
-          "icone": "monster part"
+          "icone": "plate"
         },
         {
           "name": "Flaming Bead",
           "color": "Red",
-          "icone": "monster part"
+          "icone": "husk"
         },
         {
           "name": "Strength Nutriment",
@@ -6295,32 +6281,32 @@
         {
           "name": "Flame Sac",
           "color": "Blue",
-          "icone": "monster part"
+          "icone": "sac"
         },
         {
           "name": "A. Rathalos Scale",
           "color": "Blue",
-          "icone": "monster part"
+          "icone": "scale"
         },
         {
           "name": "A. Rathalos Web",
           "color": "Blue",
-          "icone": "monster part"
+          "icone": "spiderweb"
         },
         {
           "name": "A. Rathalos Plate",
           "color": "Blue",
-          "icone": "monster part"
+          "icone": "plate"
         },
         {
           "name": "Flaming Bead",
           "color": "Blue",
-          "icone": "monster part"
+          "icone": "husk"
         },
         {
           "name": "Buying Charm",
           "color": "Blue",
-          "icone": "monster part"
+          "icone": "scrap"
         }
       ],
       "egg": {
@@ -6446,7 +6432,7 @@
         {
           "name": "Flame Sac",
           "color": "Grey",
-          "icone": "monster part"
+          "icone": "sac"
         },
         {
           "name": "Ash Kecha Fur",
@@ -6456,7 +6442,7 @@
         {
           "name": "A. Kecha Lngbone",
           "color": "Grey",
-          "icone": "monster part"
+          "icone": "bone"
         },
         {
           "name": "Ash Kecha Ear",
@@ -6466,12 +6452,12 @@
         {
           "name": "Flaming Bead",
           "color": "Grey",
-          "icone": "monster part"
+          "icone": "husk"
         },
         {
           "name": "Lucky Charm",
           "color": "Grey",
-          "icone": "monster part"
+          "icone": "scrap"
         },
         {
           "name": "Queen Shrimp",
@@ -6600,12 +6586,12 @@
         {
           "name": "Electro Sac",
           "color": "Blue",
-          "icone": "monster part"
+          "icone": "sac"
         },
         {
           "name": "Lagiacrus Scale",
           "color": "Blue",
-          "icone": "monster part"
+          "icone": "scale"
         },
         {
           "name": "Lagiacrus Horn",
@@ -6615,12 +6601,12 @@
         {
           "name": "Lagi Shockshell",
           "color": "Blue",
-          "icone": "monster part"
+          "icone": "shell"
         },
         {
           "name": "Torrential Bead",
           "color": "Blue",
-          "icone": "monster part"
+          "icone": "husk"
         },
         {
           "name": "Defense Nutriment",
@@ -6739,12 +6725,12 @@
         {
           "name": "Electro Sac",
           "color": "Light Yellow",
-          "icone": "monster part"
+          "icone": "sac"
         },
         {
           "name": "Ivory Lagi Scale",
           "color": "Light Yellow",
-          "icone": "monster part"
+          "icone": "scale"
         },
         {
           "name": "Ivory Lagi Horn",
@@ -6754,17 +6740,17 @@
         {
           "name": "I. Lagi Shockshell",
           "color": "Light Yellow",
-          "icone": "monster part"
+          "icone": "shell"
         },
         {
           "name": "Torrential Bead",
           "color": "Light Yellow",
-          "icone": "monster part"
+          "icone": "husk"
         },
         {
           "name": "Finding Charm",
           "color": "Light Yellow",
-          "icone": "monster part"
+          "icone": "scrap"
         },
         {
           "name": "H. Crystal (Thndr)",
@@ -6883,12 +6869,12 @@
         {
           "name": "Poison Sac",
           "color": "Purple",
-          "icone": "monster part"
+          "icone": "sac"
         },
         {
           "name": "Novacrystal",
           "color": "Purple",
-          "icone": "monster part"
+          "icone": "ore"
         },
         {
           "name": "Rubbery P. Hide",
@@ -6898,22 +6884,22 @@
         {
           "name": "P. Gypceros Web",
           "color": "Purple",
-          "icone": "monster part"
+          "icone": "spiderweb"
         },
         {
           "name": "Rubbery P. Tail",
           "color": "Purple",
-          "icone": "monster part"
+          "icone": "tail"
         },
         {
           "name": "Tech Res Bead",
           "color": "Purple",
-          "icone": "monster part"
+          "icone": "husk"
         },
         {
           "name": "Training Charm",
           "color": "Purple",
-          "icone": "monster part"
+          "icone": "scrap"
         }
       ],
       "egg": {
@@ -7038,17 +7024,17 @@
         {
           "name": "Ancient Potion",
           "color": "Powder Blue",
-          "icone": "monster part"
+          "icone": "scrap"
         },
         {
           "name": "Kirin Hide+",
           "color": "Powder Blue",
-          "icone": "monster part"
+          "icone": "hide"
         },
         {
           "name": "Kirin Thundertail",
           "color": "Powder Blue",
-          "icone": "monster part"
+          "icone": "tail"
         },
         {
           "name": "Kirin Azure Horn",
@@ -7058,7 +7044,7 @@
         {
           "name": "All-Res Jewel",
           "color": "Powder Blue",
-          "icone": "monster part"
+          "icone": "scrap"
         },
         {
           "name": "Vitality Nutriment",
@@ -7208,12 +7194,12 @@
         {
           "name": "Deviljho Scale",
           "color": "Dark Green",
-          "icone": "monster part"
+          "icone": "scale"
         },
         {
           "name": "Deviljho Fang",
           "color": "Dark Green",
-          "icone": "monster part"
+          "icone": "claw"
         },
         {
           "name": "Deviljho Talon",
@@ -7223,7 +7209,7 @@
         {
           "name": "Draconic Bead",
           "color": "Dark Green",
-          "icone": "monster part"
+          "icone": "husk"
         },
         {
           "name": "Strength Nutriment",
@@ -7340,9 +7326,7 @@
         "elements": [
           "Unknown"
         ],
-        "type": [
-          "power"
-        ]
+        "type": "Unknown"
       },
       "quests": [],
       "maps": [
@@ -7376,9 +7360,7 @@
         "elements": [
           "Unknown"
         ],
-        "type": [
-          "speed"
-        ]
+        "type": "Unknown"
       },
       "quests": [
         {
@@ -7399,7 +7381,7 @@
         {
           "name": "Dragonbug Juice",
           "color": "Dark Red",
-          "icone": "monster part"
+          "icone": "fluid"
         },
         {
           "name": "Whelp Core",
@@ -7444,12 +7426,12 @@
         {
           "name": "Sleep Sac",
           "color": "Dark Blue",
-          "icone": "monster part"
+          "icone": "sac"
         },
         {
           "name": "Great Baggi Hide",
           "color": "Dark Blue",
-          "icone": "monster part"
+          "icone": "hide"
         },
         {
           "name": "Great Baggi Claw",
@@ -7464,7 +7446,7 @@
         {
           "name": "Spd Res Bead",
           "color": "Dark Blue",
-          "icone": "monster part"
+          "icone": "husk"
         },
         {
           "name": "Flash Bomb",
@@ -7577,12 +7559,12 @@
         {
           "name": "Frost Sac",
           "color": "White",
-          "icone": "monster part"
+          "icone": "sac"
         },
         {
           "name": "Barioth Shell",
           "color": "White",
-          "icone": "monster part"
+          "icone": "shell"
         },
         {
           "name": "Barioth Spike",
@@ -7597,7 +7579,7 @@
         {
           "name": "Frigid Bead",
           "color": "White",
-          "icone": "monster part"
+          "icone": "husk"
         },
         {
           "name": "Vitality Nutriment",
@@ -7725,12 +7707,12 @@
         {
           "name": "Jade Barroth Shell",
           "color": "Teal",
-          "icone": "monster part"
+          "icone": "shell"
         },
         {
           "name": "Jade Barroth Claw",
           "color": "Teal",
-          "icone": "monster part"
+          "icone": "claw"
         },
         {
           "name": "Jade Barroth Scalp",
@@ -7740,12 +7722,12 @@
         {
           "name": "Defense Bead",
           "color": "Teal",
-          "icone": "monster part"
+          "icone": "husk"
         },
         {
           "name": "Adamant Charm",
           "color": "Teal",
-          "icone": "monster part"
+          "icone": "scrap"
         },
         {
           "name": "H. Crystal (Ice)",
@@ -7866,9 +7848,7 @@
         "elements": [
           "Unknown"
         ],
-        "type": [
-          "technical"
-        ]
+        "type": "Unknown"
       },
       "quests": [],
       "maps": [
@@ -7878,12 +7858,12 @@
         {
           "name": "Aqua Sac",
           "color": "Light Blue",
-          "icone": "monster part"
+          "icone": "sac"
         },
         {
           "name": "G. Agnak Shell",
           "color": "Light Blue",
-          "icone": "monster part"
+          "icone": "shell"
         },
         {
           "name": "G. Agnak Claw",
@@ -7898,7 +7878,7 @@
         {
           "name": "Ice Scale Jewel",
           "color": "Light Blue",
-          "icone": "monster part"
+          "icone": "scrap"
         }
       ],
       "egg": {}
@@ -7932,7 +7912,7 @@
         {
           "name": "C. Peco Scale",
           "color": "Dark Pink",
-          "icone": "monster part"
+          "icone": "scale"
         },
         {
           "name": "C. Peco Feather",
@@ -7947,7 +7927,7 @@
         {
           "name": "Tech Bead",
           "color": "Dark Pink",
-          "icone": "monster part"
+          "icone": "husk"
         },
         {
           "name": "Bottle Cap",
@@ -8063,27 +8043,27 @@
         {
           "name": "S. Zinogre Shell",
           "color": "Dark Blue",
-          "icone": "monster part"
+          "icone": "shell"
         },
         {
           "name": "S. Zinogre Claw",
           "color": "Dark Blue",
-          "icone": "monster part"
+          "icone": "claw"
         },
         {
           "name": "S. Zinogre Plate",
           "color": "Dark Blue",
-          "icone": "monster part"
+          "icone": "plate"
         },
         {
           "name": "D Res Bead",
           "color": "Dark Blue",
-          "icone": "monster part"
+          "icone": "husk"
         },
         {
           "name": "Selling Charm",
           "color": "Dark Blue",
-          "icone": "monster part"
+          "icone": "scrap"
         }
       ],
       "egg": {
@@ -8199,27 +8179,27 @@
         {
           "name": "Blast Sac",
           "color": "Blue",
-          "icone": "monster part"
+          "icone": "sac"
         },
         {
           "name": "Brach Shell",
           "color": "Blue",
-          "icone": "monster part"
+          "icone": "shell"
         },
         {
           "name": "Brach Hammer",
           "color": "Blue",
-          "icone": "monster part"
+          "icone": "shell"
         },
         {
           "name": "Brach Marrow",
           "color": "Blue",
-          "icone": "monster part"
+          "icone": "bone"
         },
         {
           "name": "Tech Jewel",
           "color": "Blue",
-          "icone": "monster part"
+          "icone": "scrap"
         },
         {
           "name": "Strength Nutriment",
@@ -8340,9 +8320,7 @@
         "elements": [
           "Unknown"
         ],
-        "type": [
-          "power"
-        ]
+        "type": "Unknown"
       },
       "quests": [
         {
@@ -8358,7 +8336,7 @@
         {
           "name": "Rajang Blackfur",
           "color": "Yellow",
-          "icone": "monster part"
+          "icone": "hide"
         },
         {
           "name": "Rajang Horn",
@@ -8368,12 +8346,12 @@
         {
           "name": "Gold Rajang Pelt",
           "color": "Yellow",
-          "icone": "monster part"
+          "icone": "hide"
         },
         {
           "name": "Lat Thnder Jwl",
           "color": "Yellow",
-          "icone": "monster part"
+          "icone": "scrap"
         }
       ],
       "egg": {}
@@ -8392,9 +8370,7 @@
         "elements": [
           "Unknown"
         ],
-        "type": [
-          "Unknown"
-        ]
+        "type": "Unknown"
       },
       "quests": [],
       "maps": [
@@ -8423,9 +8399,7 @@
         "elements": [
           "Unknown"
         ],
-        "type": [
-          "Unknown"
-        ]
+        "type": "Unknown"
       },
       "quests": [],
       "maps": [
@@ -8464,12 +8438,12 @@
         {
           "name": "Wyvern Stone",
           "color": "Dark Orange",
-          "icone": "monster part"
+          "icone": "ore"
         },
         {
           "name": "Sand Barioth Shell",
           "color": "Dark Orange",
-          "icone": "monster part"
+          "icone": "shell"
         },
         {
           "name": "Sand Barioth Pelt",
@@ -8484,12 +8458,12 @@
         {
           "name": "Evasion Bead",
           "color": "Dark Orange",
-          "icone": "monster part"
+          "icone": "husk"
         },
         {
           "name": "Buying Charm",
           "color": "Dark Orange",
-          "icone": "monster part"
+          "icone": "scrap"
         }
       ],
       "egg": {
@@ -8611,7 +8585,7 @@
         {
           "name": "Monoblos Thoracic",
           "color": "Dark Orange",
-          "icone": "monster part"
+          "icone": "shell"
         },
         {
           "name": "Scarlet Finehorn",
@@ -8621,7 +8595,7 @@
         {
           "name": "W Res Jewel",
           "color": "Dark Orange",
-          "icone": "monster part"
+          "icone": "scrap"
         },
         {
           "name": "Defense Nutriment",
@@ -8748,7 +8722,7 @@
         {
           "name": "Sereg Slavescale",
           "color": "Dark Yellow",
-          "icone": "monster part"
+          "icone": "scale"
         },
         {
           "name": "Seregios Impaler",
@@ -8763,7 +8737,7 @@
         {
           "name": "Evasion Jewel",
           "color": "Dark Yellow",
-          "icone": "monster part"
+          "icone": "scrap"
         },
         {
           "name": "Vitality Nutriment",
@@ -8886,7 +8860,7 @@
         {
           "name": "Inferno Sac",
           "color": "Gold",
-          "icone": "monster part"
+          "icone": "sac"
         },
         {
           "name": "G. Rathian Crpace",
@@ -8911,7 +8885,7 @@
         {
           "name": "Fortuitous Charm",
           "color": "Gold",
-          "icone": "monster part"
+          "icone": "scrap"
         }
       ],
       "egg": {
@@ -9029,17 +9003,17 @@
         {
           "name": "Inferno Sac",
           "color": "White",
-          "icone": "monster part"
+          "icone": "sac"
         },
         {
           "name": "S. Rathalos Scale+",
           "color": "White",
-          "icone": "monster part"
+          "icone": "scale"
         },
         {
           "name": "S. Rathalos Wing",
           "color": "White",
-          "icone": "monster part"
+          "icone": "wing"
         },
         {
           "name": "S. Rathalos Ruby",
@@ -9054,7 +9028,7 @@
         {
           "name": "Training Charm+",
           "color": "White",
-          "icone": "monster part"
+          "icone": "scrap"
         }
       ],
       "egg": {
@@ -9158,9 +9132,7 @@
         "elements": [
           "Unknown"
         ],
-        "type": [
-          "technical"
-        ]
+        "type": "Unknown"
       },
       "quests": [
         {
@@ -9176,7 +9148,7 @@
         {
           "name": "Eld Dragon Blood",
           "color": "Black",
-          "icone": "monster part"
+          "icone": "fluid"
         },
         {
           "name": "Daora Carapace",
@@ -9196,7 +9168,7 @@
         {
           "name": "Drgn Aura Jwl",
           "color": "Black",
-          "icone": "ball"
+          "icone": "scrap"
         }
       ],
       "egg": {}
@@ -9215,9 +9187,7 @@
         "elements": [
           "Unknown"
         ],
-        "type": [
-          "power"
-        ]
+        "type": "Unknown"
       },
       "quests": [
         {
@@ -9233,7 +9203,7 @@
         {
           "name": "Eld Dragon Blood",
           "color": "Dark Orange",
-          "icone": "monster part"
+          "icone": "fluid"
         },
         {
           "name": "Teostra Carapace",
@@ -9253,7 +9223,7 @@
         {
           "name": "Drgn Aura Jwl",
           "color": "Dark Orange",
-          "icone": "ball"
+          "icone": "scrap"
         }
       ],
       "egg": {}
@@ -9395,12 +9365,12 @@
         {
           "name": "W Res Jewel",
           "color": "Grey",
-          "icone": "monster part"
+          "icone": "scrap"
         },
         {
           "name": "Fortuitous Charm",
           "color": "Grey",
-          "icone": "monster part"
+          "icone": "scrap"
         },
         {
           "name": "Fly Wyv Stim",
@@ -9511,12 +9481,12 @@
         {
           "name": "Explosion Sac",
           "color": "Dark Red",
-          "icone": "monster part"
+          "icone": "sac"
         },
         {
           "name": "M. Tigrex Scale+",
           "color": "Dark Red",
-          "icone": "monster part"
+          "icone": "scale"
         },
         {
           "name": "M. Tigrx Blastclaw",
@@ -9531,7 +9501,7 @@
         {
           "name": "Training Charm+",
           "color": "Dark Red",
-          "icone": "monster part"
+          "icone": "scrap"
         },
         {
           "name": "Fly Wyv Stim",
@@ -9651,7 +9621,7 @@
         {
           "name": "Ancient Potion",
           "color": "Blue",
-          "icone": "monster part"
+          "icone": "scrap"
         },
         {
           "name": "Kirin Blackhide",
@@ -9661,7 +9631,7 @@
         {
           "name": "Kirin Frost Tail",
           "color": "Blue",
-          "icone": "monster part"
+          "icone": "tail"
         },
         {
           "name": "Kirin Icehorn",
@@ -9671,7 +9641,7 @@
         {
           "name": "All-Res Jewel",
           "color": "Blue",
-          "icone": "monster part"
+          "icone": "scrap"
         },
         {
           "name": "Ancient Panacea",
@@ -9801,9 +9771,7 @@
         "elements": [
           "Unknown"
         ],
-        "type": [
-          "technical"
-        ]
+        "type": "Unknown"
       },
       "quests": [],
       "maps": [
@@ -9813,12 +9781,12 @@
         {
           "name": "Eld Dragon Blood",
           "color": "Dark Purple",
-          "icone": "monster part"
+          "icone": "fluid"
         },
         {
           "name": "Fatalis Scale",
           "color": "Dark Purple",
-          "icone": "monster part"
+          "icone": "scale"
         },
         {
           "name": "Fatalis Crust",
@@ -9833,7 +9801,7 @@
         {
           "name": "Abnormal Jwl",
           "color": "Dark Purple",
-          "icone": "monster part"
+          "icone": "scrap"
         }
       ],
       "egg": {}
