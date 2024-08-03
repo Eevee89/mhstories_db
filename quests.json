@@ -6,7 +6,8 @@
       "Locale": "Pondry Hills etc.",
       "Reward": "Whetstone x3",
       "Zenny": "400z",
-      "EXP": "50EXP"
+      "EXP": "50EXP",
+      "id": 0
     },
     {
       "Title": "Blue Menace",
@@ -15,7 +16,8 @@
       "Locale": "Pondry Hills etc.",
       "Reward": "Smoke Bomb x2",
       "Zenny": "500z",
-      "EXP": "50EXP"
+      "EXP": "50EXP",
+      "id": 1
     },
     {
       "Title": "Rolling Panic",
@@ -24,7 +26,8 @@
       "Locale": "Pondry Caves etc.",
       "Reward": "Binoculars x3",
       "Zenny": "400z",
-      "EXP": "50EXP"
+      "EXP": "50EXP",
+      "id": 2
     },
     {
       "Title": "Burn Medicine Run",
@@ -33,7 +36,8 @@
       "Locale": "Pondry Hills etc.",
       "Reward": "Herb x2",
       "Zenny": "120z",
-      "EXP": "0EXP"
+      "EXP": "0EXP",
+      "id": 3
     },
     {
       "Title": "I Want to Paint!",
@@ -42,7 +46,8 @@
       "Locale": "Pondry Hills etc.",
       "Reward": "Herb x2",
       "Zenny": "100z",
-      "EXP": "0EXP"
+      "EXP": "0EXP",
+      "id": 4
     },
     {
       "Title": "Perfect Preparation",
@@ -51,7 +56,8 @@
       "Locale": "Anywhere",
       "Reward": "Potion",
       "Zenny": "500z",
-      "EXP": "0EXP"
+      "EXP": "0EXP",
+      "id": 5
     },
     {
       "Title": "To Pondry Hills!",
@@ -60,7 +66,8 @@
       "Locale": "Pondry Hills",
       "Reward": "Paw Pass Ticket",
       "Zenny": "400z",
-      "EXP": "0EXP"
+      "EXP": "0EXP",
+      "id": 6
     },
     {
       "Title": "Blue Enemy of Love!",
@@ -69,7 +76,8 @@
       "Locale": "Pondry Hills etc.",
       "Reward": "Sonic Bomb",
       "Zenny": "500z",
-      "EXP": "30EXP"
+      "EXP": "30EXP",
+      "id": 7
     },
     {
       "Title": "The Honey Guard",
@@ -78,7 +86,8 @@
       "Locale": "Pondry Hills etc.",
       "Reward": "Honey x3",
       "Zenny": "600z",
-      "EXP": "30EXP"
+      "EXP": "30EXP",
+      "id": 8
     },
     {
       "Title": "Call of the Kut-Ku",
@@ -87,7 +96,8 @@
       "Locale": "Pondry Hills etc.",
       "Reward": "Potion x2",
       "Zenny": "700z",
-      "EXP": "50EXP"
+      "EXP": "50EXP",
+      "id": 9
     },
     {
       "Title": "Onward to Darj!",
@@ -96,7 +106,8 @@
       "Locale": "Darj Snowfields",
       "Reward": "Paw Pass Ticket",
       "Zenny": "600z",
-      "EXP": "0EXP"
+      "EXP": "0EXP",
+      "id": 10
     },
     {
       "Title": "Bulldrome? RUN!",
@@ -105,7 +116,8 @@
       "Locale": "Darj Snowfields etc.",
       "Reward": "Moxie Gem",
       "Zenny": "600z",
-      "EXP": "200EXP"
+      "EXP": "200EXP",
+      "id": 11
     },
     {
       "Title": "Enchanting Ice Show",
@@ -114,7 +126,8 @@
       "Locale": "Darj Snowfields etc.",
       "Reward": "Hot Mist x2",
       "Zenny": "700z",
-      "EXP": "200EXP"
+      "EXP": "200EXP",
+      "id": 12
     },
     {
       "Title": "Shape-Shifter Shark?",
@@ -123,7 +136,8 @@
       "Locale": "Darj Snowfields etc.",
       "Reward": "Demondrug",
       "Zenny": "900z",
-      "EXP": "200EXP"
+      "EXP": "200EXP",
+      "id": 13
     },
     {
       "Title": "A Fascinating Khezu",
@@ -132,7 +146,8 @@
       "Locale": "W. Tunnel etc.",
       "Reward": "Armorskin",
       "Zenny": "1,000z",
-      "EXP": "400EXP"
+      "EXP": "400EXP",
+      "id": 14
     },
     {
       "Title": "Tingling Tongues!",
@@ -141,7 +156,8 @@
       "Locale": "Darj Snowfields etc.",
       "Reward": "Mega Potion",
       "Zenny": "500z",
-      "EXP": "0EXP"
+      "EXP": "0EXP",
+      "id": 15
     },
     {
       "Title": "To Monsonne!",
@@ -150,7 +166,8 @@
       "Locale": "Plains etc.",
       "Reward": "Paw Pass Ticket",
       "Zenny": "800z",
-      "EXP": "0EXP"
+      "EXP": "0EXP",
+      "id": 16
     },
     {
       "Title": "Altaroth Alert!",
@@ -159,7 +176,8 @@
       "Locale": "Plains etc.",
       "Reward": "Poison Knife",
       "Zenny": "800z",
-      "EXP": "400EXP"
+      "EXP": "400EXP",
+      "id": 17
     },
     {
       "Title": "Bye-bye Genprey!",
@@ -168,7 +186,8 @@
       "Locale": "Plains etc.",
       "Reward": "Anti-para Potion x2",
       "Zenny": "800z",
-      "EXP": "400EXP"
+      "EXP": "400EXP",
+      "id": 18
     },
     {
       "Title": "Clamorous Qurupeco",
@@ -177,7 +196,8 @@
       "Locale": "Plains etc.",
       "Reward": "Paintball x3",
       "Zenny": "1,000z",
-      "EXP": "500EXP"
+      "EXP": "500EXP",
+      "id": 19
     },
     {
       "Title": "A Superior Sponge",
@@ -186,7 +206,8 @@
       "Locale": "Plains etc.",
       "Reward": "Potion x3",
       "Zenny": "1,000z",
-      "EXP": "500EXP"
+      "EXP": "500EXP",
+      "id": 20
     },
     {
       "Title": "Handy Hides",
@@ -195,7 +216,8 @@
       "Locale": "Rainforest etc.",
       "Reward": "Vital Essence",
       "Zenny": "1,000z",
-      "EXP": "500EXP"
+      "EXP": "500EXP",
+      "id": 21
     },
     {
       "Title": "Slagtoth Chic?",
@@ -204,7 +226,8 @@
       "Locale": "Rainforest etc.",
       "Reward": "Paralysis Knife",
       "Zenny": "500z",
-      "EXP": "0EXP"
+      "EXP": "0EXP",
+      "id": 22
     },
     {
       "Title": "Trapped in the Web",
@@ -213,7 +236,8 @@
       "Locale": "Rainforest etc.",
       "Reward": "Spider Web x5",
       "Zenny": "1,100z",
-      "EXP": "500EXP"
+      "EXP": "500EXP",
+      "id": 23
     },
     {
       "Title": "The Queen's Day Out",
@@ -222,7 +246,8 @@
       "Locale": "Plains etc.",
       "Reward": "Pitfall Trap",
       "Zenny": "1,200z",
-      "EXP": "500EXP"
+      "EXP": "500EXP",
+      "id": 24
     },
     {
       "Title": "A Dune-surfer's Life",
@@ -231,7 +256,8 @@
       "Locale": "Trese Desert etc.",
       "Reward": "Eye Drops x2",
       "Zenny": "700z",
-      "EXP": "400EXP"
+      "EXP": "400EXP",
+      "id": 25
     },
     {
       "Title": "Yum! Fatty Tomatoes",
@@ -240,7 +266,8 @@
       "Locale": "Trese Desert etc.",
       "Reward": "Sugarpaw Donut x5",
       "Zenny": "600z",
-      "EXP": "0EXP"
+      "EXP": "0EXP",
+      "id": 26
     },
     {
       "Title": "The Paralyzer",
@@ -249,7 +276,8 @@
       "Locale": "Trese Desert etc.",
       "Reward": "Shock Trap",
       "Zenny": "900z",
-      "EXP": "500EXP"
+      "EXP": "500EXP",
+      "id": 27
     },
     {
       "Title": "The Sturdy Shield",
@@ -258,7 +286,8 @@
       "Locale": "Trese Desert etc.",
       "Reward": "Well-done Steak x3",
       "Zenny": "1,100z",
-      "EXP": "500EXP"
+      "EXP": "500EXP",
+      "id": 28
     },
     {
       "Title": "Bog Diving",
@@ -267,7 +296,8 @@
       "Locale": "Trese Desert etc.",
       "Reward": "Zest Pill x2",
       "Zenny": "1,300z",
-      "EXP": "500EXP"
+      "EXP": "500EXP",
+      "id": 29
     },
     {
       "Title": "Boss of the Cephalos",
@@ -276,7 +306,8 @@
       "Locale": "Trese Desert etc.",
       "Reward": "Fleetfoot Potion x2",
       "Zenny": "1,300z",
-      "EXP": "500EXP"
+      "EXP": "500EXP",
+      "id": 30
     },
     {
       "Title": "Onwards to Babda!",
@@ -285,7 +316,8 @@
       "Locale": "Babda Rainforest",
       "Reward": "Paw Pass Ticket",
       "Zenny": "1,000z",
-      "EXP": "0EXP"
+      "EXP": "0EXP",
+      "id": 31
     },
     {
       "Title": "Despot of the Desert",
@@ -294,7 +326,8 @@
       "Locale": "Trese Desert etc.",
       "Reward": "Honey Butter x2",
       "Zenny": "1,500z",
-      "EXP": "1,000EXP"
+      "EXP": "1,000EXP",
+      "id": 32
     },
     {
       "Title": "Reverberating Roar",
@@ -303,7 +336,8 @@
       "Locale": "Darj Snowfields etc.",
       "Reward": "Vital Essence",
       "Zenny": "1,500z",
-      "EXP": "1,000EXP"
+      "EXP": "1,000EXP",
+      "id": 33
     },
     {
       "Title": "Watch Out for Rocks!",
@@ -312,7 +346,8 @@
       "Locale": "Dovan Volcano etc.",
       "Reward": "Tranq Trap x2",
       "Zenny": "1,800z",
-      "EXP": "1,500EXP"
+      "EXP": "1,500EXP",
+      "id": 34
     },
     {
       "Title": "A Crimson Bnahabra",
@@ -321,7 +356,8 @@
       "Locale": "Dovan Volcano etc.",
       "Reward": "Blast-Be-Gone x2",
       "Zenny": "1,500z",
-      "EXP": "1,000EXP"
+      "EXP": "1,000EXP",
+      "id": 35
     },
     {
       "Title": "Volcanic Toxicity",
@@ -330,7 +366,8 @@
       "Locale": "Dovan Volcano etc.",
       "Reward": "Antidote x3",
       "Zenny": "1,500z",
-      "EXP": "1,000EXP"
+      "EXP": "1,000EXP",
+      "id": 36
     },
     {
       "Title": "Poisonous Probing",
@@ -339,7 +376,8 @@
       "Locale": "Dovan Volcano etc.",
       "Reward": "Large Barrel x5",
       "Zenny": "1,600z",
-      "EXP": "1,200EXP"
+      "EXP": "1,200EXP",
+      "id": 37
     },
     {
       "Title": "Feelings & Fire Herbs",
@@ -348,7 +386,8 @@
       "Locale": "Dovan Volcano etc.",
       "Reward": "Cool Mist x3",
       "Zenny": "500z",
-      "EXP": "0EXP"
+      "EXP": "0EXP",
+      "id": 38
     },
     {
       "Title": "Onwards to Dovan!",
@@ -357,7 +396,8 @@
       "Locale": "Dovan Volcano",
       "Reward": "Paw Pass Ticket",
       "Zenny": "1,500z",
-      "EXP": "0EXP"
+      "EXP": "0EXP",
+      "id": 39
     },
     {
       "Title": "Ore Collection!",
@@ -366,7 +406,8 @@
       "Locale": "Anywhere",
       "Reward": "Mega Potion",
       "Zenny": "900z",
-      "EXP": "0EXP"
+      "EXP": "0EXP",
+      "id": 40
     },
     {
       "Title": "Mining Menace",
@@ -375,7 +416,8 @@
       "Locale": "Dovan Volcano etc.",
       "Reward": "Big Barrel Bomb",
       "Zenny": "2,000z",
-      "EXP": "1,400EXP"
+      "EXP": "1,400EXP",
+      "id": 41
     },
     {
       "Title": "Forged by Volcano",
@@ -384,7 +426,8 @@
       "Locale": "Dovan Volcano etc.",
       "Reward": "Sleep Knife x3",
       "Zenny": "2,100z",
-      "EXP": "1,500EXP"
+      "EXP": "1,500EXP",
+      "id": 42
     },
     {
       "Title": "Lava Dragon?!?!?!",
@@ -393,7 +436,8 @@
       "Locale": "Dovan Volcano etc.",
       "Reward": "Quickness Meat x3",
       "Zenny": "2,200z",
-      "EXP": "1,600EXP"
+      "EXP": "1,600EXP",
+      "id": 43
     },
     {
       "Title": "Purrfect Steak!",
@@ -402,7 +446,8 @@
       "Locale": "Anywhere",
       "Reward": "Well-done Steak x10",
       "Zenny": "0z",
-      "EXP": "0EXP"
+      "EXP": "0EXP",
+      "id": 44
     },
     {
       "Title": "To Naubaka!",
@@ -411,7 +456,8 @@
       "Locale": "Naubaka Island",
       "Reward": "Paw Pass Ticket",
       "Zenny": "1,800z",
-      "EXP": "0EXP"
+      "EXP": "0EXP",
+      "id": 45
     },
     {
       "Title": "Seeking Giant Bugs!",
@@ -420,7 +466,8 @@
       "Locale": "Anywhere",
       "Reward": "Lifepowder",
       "Zenny": "1,000z",
-      "EXP": "0EXP"
+      "EXP": "0EXP",
+      "id": 46
     },
     {
       "Title": "Naubaka Showdown!",
@@ -429,7 +476,8 @@
       "Locale": "Aowa Valley etc.",
       "Reward": "Chocopaw Donut x5",
       "Zenny": "2,000z",
-      "EXP": "1,200EXP"
+      "EXP": "1,200EXP",
+      "id": 47
     },
     {
       "Title": "Flotsam Great Jaggi",
@@ -438,7 +486,8 @@
       "Locale": "Aowa Valley etc.",
       "Reward": "Fleetfoot Potion x2",
       "Zenny": "2,200z",
-      "EXP": "1,500EXP"
+      "EXP": "1,500EXP",
+      "id": 48
     },
     {
       "Title": "Beware, Prankster!",
@@ -447,7 +496,8 @@
       "Locale": "Paupau Beach etc.",
       "Reward": "Demondrug x2",
       "Zenny": "2,400z",
-      "EXP": "1,800EXP"
+      "EXP": "1,800EXP",
+      "id": 49
     },
     {
       "Title": "Sandy Yian Garuga!",
@@ -456,7 +506,8 @@
       "Locale": "Paupau Beach etc.",
       "Reward": "Immunizer x2",
       "Zenny": "2,600z",
-      "EXP": "2,000EXP"
+      "EXP": "2,000EXP",
+      "id": 50
     },
     {
       "Title": "Secret of the Light",
@@ -465,7 +516,8 @@
       "Locale": "Rainforest etc.",
       "Reward": "Well-done Donut x5",
       "Zenny": "2,200z",
-      "EXP": "1,500EXP"
+      "EXP": "1,500EXP",
+      "id": 51
     },
     {
       "Title": "Farting Panic!",
@@ -474,7 +526,8 @@
       "Locale": "Rainforest etc.",
       "Reward": "Armorskin x2",
       "Zenny": "2,500z",
-      "EXP": "2,000EXP"
+      "EXP": "2,000EXP",
+      "id": 52
     },
     {
       "Title": "Rumbling Recital",
@@ -483,7 +536,8 @@
       "Locale": "Rainforest etc.",
       "Reward": "Nulberry Elixir",
       "Zenny": "3,000z",
-      "EXP": "2,500EXP"
+      "EXP": "2,500EXP",
+      "id": 53
     },
     {
       "Title": "Beware, Shakalaka!",
@@ -492,7 +546,8 @@
       "Locale": "Pondry Caves etc.",
       "Reward": "Sonic Bomb x2",
       "Zenny": "2,200z",
-      "EXP": "1,500EXP"
+      "EXP": "1,500EXP",
+      "id": 54
     },
     {
       "Title": "The King's Descent",
@@ -501,7 +556,8 @@
       "Locale": "Pondry Hills etc.",
       "Reward": "Max Potion",
       "Zenny": "3,200z",
-      "EXP": "2,700EXP"
+      "EXP": "2,700EXP",
+      "id": 55
     },
     {
       "Title": "Ninja Nargacuga",
@@ -510,7 +566,8 @@
       "Locale": "Pondry Caves etc.",
       "Reward": "Super Whetstone x2",
       "Zenny": "3,200z",
-      "EXP": "2,700EXP"
+      "EXP": "2,700EXP",
+      "id": 56
     },
     {
       "Title": "King of the Ocean!",
@@ -519,7 +576,8 @@
       "Locale": "Paupau Beach etc.",
       "Reward": "Royal Donut x5",
       "Zenny": "3,500z",
-      "EXP": "2,800EXP"
+      "EXP": "2,800EXP",
+      "id": 57
     },
     {
       "Title": "To Mt. Celion!",
@@ -528,7 +586,8 @@
       "Locale": "Mt. Celion",
       "Reward": "Paw Pass Ticket",
       "Zenny": "3,000z",
-      "EXP": "0EXP"
+      "EXP": "0EXP",
+      "id": 58
     },
     {
       "Title": "Tranquilizing Terror",
@@ -537,7 +596,8 @@
       "Locale": "Mt. Celion etc.",
       "Reward": "Max Potion",
       "Zenny": "4,000z",
-      "EXP": "2,500EXP"
+      "EXP": "2,500EXP",
+      "id": 59
     },
     {
       "Title": "Freezing Fangs",
@@ -546,7 +606,8 @@
       "Locale": "Mt. Celion etc.",
       "Reward": "Lifepowder",
       "Zenny": "4,500z",
-      "EXP": "3,000EXP"
+      "EXP": "3,000EXP",
+      "id": 60
     },
     {
       "Title": "Blue Gang of the Ice",
@@ -555,7 +616,8 @@
       "Locale": "Mt. Celion etc.",
       "Reward": "Energy Drink x3",
       "Zenny": "3,500z",
-      "EXP": "2,000EXP"
+      "EXP": "2,000EXP",
+      "id": 61
     },
     {
       "Title": "Great Dracophages",
@@ -564,7 +626,8 @@
       "Locale": "Mt. Celion etc.",
       "Reward": "Hot Mist x3",
       "Zenny": "3,700z",
-      "EXP": "2,300EXP"
+      "EXP": "2,300EXP",
+      "id": 62
     },
     {
       "Title": "The Black Omen",
@@ -573,7 +636,8 @@
       "Locale": "Ruins of Zalam etc.",
       "Reward": "Muscle Meat x2",
       "Zenny": "4,000z",
-      "EXP": "2,500EXP"
+      "EXP": "2,500EXP",
+      "id": 63
     },
     {
       "Title": "Test of Strength!",
@@ -582,7 +646,8 @@
       "Locale": "Ruins of Zalam etc.",
       "Reward": "Ancient Potion",
       "Zenny": "5,000z",
-      "EXP": "4,000EXP"
+      "EXP": "4,000EXP",
+      "id": 64
     },
     {
       "Title": "Destruction Daemon",
@@ -591,7 +656,8 @@
       "Locale": "Ruins of Zalam etc.",
       "Reward": "Dust of Life",
       "Zenny": "6,000z",
-      "EXP": "5,000EXP"
+      "EXP": "5,000EXP",
+      "id": 65
     },
     {
       "Title": "Thunder Visions (+)",
@@ -600,7 +666,8 @@
       "Locale": "Rainforest etc.",
       "Reward": "Vitality Nutriment",
       "Zenny": "8,000z",
-      "EXP": "10,000EXP"
+      "EXP": "10,000EXP",
+      "id": 66
     },
     {
       "Title": "One Tall Horn (+)",
@@ -609,7 +676,8 @@
       "Locale": "Trese Desert etc.",
       "Reward": "Dust of Life",
       "Zenny": "8,000z",
-      "EXP": "10,000EXP"
+      "EXP": "10,000EXP",
+      "id": 67
     },
     {
       "Title": "Seregios's Secret (+)",
@@ -618,7 +686,8 @@
       "Locale": "Pondry Hills etc.",
       "Reward": "Max Potion x3",
       "Zenny": "8,000z",
-      "EXP": "10,000EXP"
+      "EXP": "10,000EXP",
+      "id": 68
     },
     {
       "Title": "Annihilating Wind (+)",
@@ -627,7 +696,8 @@
       "Locale": "Mt. Celion etc.",
       "Reward": "Defense Nutriment",
       "Zenny": "10,000z",
-      "EXP": "15,000EXP"
+      "EXP": "15,000EXP",
+      "id": 69
     },
     {
       "Title": "Destructive Flame (+)",
@@ -636,7 +706,8 @@
       "Locale": "Dovan Volcano etc.",
       "Reward": "Strength Nutriment",
       "Zenny": "10,000z",
-      "EXP": "15,000EXP"
+      "EXP": "15,000EXP",
+      "id": 70
     },
     {
       "Title": "Commeowdities? (+)",
@@ -645,7 +716,8 @@
       "Locale": "Anywhere",
       "Reward": "Recognition Letter",
       "Zenny": "5,000z",
-      "EXP": "0EXP"
+      "EXP": "0EXP",
+      "id": 71
     },
     {
       "Title": "Herbivore Bones! (+)",
@@ -654,7 +726,8 @@
       "Locale": "Anywhere",
       "Reward": "Herb x20",
       "Zenny": "2,000z",
-      "EXP": "0EXP"
+      "EXP": "0EXP",
+      "id": 72
     },
     {
       "Title": "Fanged Beast Fur (+)",
@@ -663,7 +736,8 @@
       "Locale": "Anywhere",
       "Reward": "Blue Mushroom x10",
       "Zenny": "2,500z",
-      "EXP": "0EXP"
+      "EXP": "0EXP",
+      "id": 73
     },
     {
       "Title": "Wanted: Bones! (+)",
@@ -672,7 +746,8 @@
       "Locale": "Anywhere",
       "Reward": "Immunizer x2",
       "Zenny": "2,500z",
-      "EXP": "0EXP"
+      "EXP": "0EXP",
+      "id": 74
     },
     {
       "Title": "Troubled Sons (cont.)",
@@ -681,7 +756,8 @@
       "Locale": "Anywhere",
       "Reward": "Smoke Bomb",
       "Zenny": "0z",
-      "EXP": "0EXP"
+      "EXP": "0EXP",
+      "id": 75
     },
     {
       "Title": "Neopteron Shells! (+)",
@@ -690,7 +766,8 @@
       "Locale": "Anywhere",
       "Reward": "Honey x10",
       "Zenny": "2,000z",
-      "EXP": "0EXP"
+      "EXP": "0EXP",
+      "id": 76
     },
     {
       "Title": "Scaly Birds (+)",
@@ -699,7 +776,8 @@
       "Locale": "Anywhere",
       "Reward": "Wyvern Barbs x10",
       "Zenny": "2,500z",
-      "EXP": "0EXP"
+      "EXP": "0EXP",
+      "id": 77
     },
     {
       "Title": "Barrel Lid Trade (+)",
@@ -708,7 +786,8 @@
       "Locale": "Anywhere",
       "Reward": "Bottle Cap x5",
       "Zenny": "0z",
-      "EXP": "0EXP"
+      "EXP": "0EXP",
+      "id": 78
     },
     {
       "Title": "Eternal Romanticism",
@@ -717,7 +796,8 @@
       "Locale": "Anywhere",
       "Reward": "",
       "Zenny": "10,000z",
-      "EXP": "0EXP"
+      "EXP": "0EXP",
+      "id": 79
     },
     {
       "Title": "Mazewalker Self (+)",
@@ -726,7 +806,8 @@
       "Locale": "Labyrinth",
       "Reward": "Commendation",
       "Zenny": "0z",
-      "EXP": "0EXP"
+      "EXP": "0EXP",
+      "id": 80
     },
     {
       "Title": "Mazewalker Bond (+)",
@@ -735,6 +816,7 @@
       "Locale": "Labyrinth",
       "Reward": "Ancient Panacea",
       "Zenny": "0z",
-      "EXP": "0EXP"
+      "EXP": "0EXP",
+      "id": 81
     }
   ]

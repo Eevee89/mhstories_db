@@ -13,7 +13,8 @@
       "Monsties": [
         "Lv1 Aptonoth",
         "Lv9 Apceros"
-      ]
+      ],
+      "id": 0
     },
     {
       "Category": "Passive",
@@ -24,7 +25,8 @@
       "Action Speed": "0",
       "Effect": "",
       "Genes": [],
-      "Monsties": []
+      "Monsties": [],
+      "id": 1
     },
     {
       "Category": "Passive",
@@ -35,7 +37,8 @@
       "Action Speed": "0",
       "Effect": "",
       "Genes": [],
-      "Monsties": []
+      "Monsties": [],
+      "id": 2
     },
     {
       "Category": "Passive",
@@ -46,7 +49,8 @@
       "Action Speed": "0",
       "Effect": "",
       "Genes": [],
-      "Monsties": []
+      "Monsties": [],
+      "id": 3
     },
     {
       "Category": "Passive",
@@ -58,7 +62,8 @@
       "Action Speed": "0",
       "Effect": "",
       "Genes": [],
-      "Monsties": []
+      "Monsties": [],
+      "id": 4
     },
     {
       "Category": "Passive",
@@ -70,7 +75,8 @@
       "Action Speed": "0",
       "Effect": "",
       "Genes": [],
-      "Monsties": []
+      "Monsties": [],
+      "id": 5
     },
     {
       "Category": "Passive",
@@ -81,7 +87,8 @@
       "Action Speed": "0",
       "Effect": "",
       "Genes": [],
-      "Monsties": []
+      "Monsties": [],
+      "id": 6
     },
     {
       "Category": "Passive",
@@ -93,7 +100,8 @@
       "Action Speed": "0",
       "Effect": "",
       "Genes": [],
-      "Monsties": []
+      "Monsties": [],
+      "id": 7
     },
     {
       "Category": "Passive",
@@ -105,7 +113,8 @@
       "Action Speed": "0",
       "Effect": "",
       "Genes": [],
-      "Monsties": []
+      "Monsties": [],
+      "id": 8
     },
     {
       "Category": "Passive",
@@ -117,7 +126,8 @@
       "Action Speed": "0",
       "Effect": "",
       "Genes": [],
-      "Monsties": []
+      "Monsties": [],
+      "id": 9
     },
     {
       "Category": "Passive",
@@ -128,7 +138,8 @@
       "Action Speed": "0",
       "Effect": "",
       "Genes": [],
-      "Monsties": []
+      "Monsties": [],
+      "id": 10
     },
     {
       "Category": "Passive",
@@ -139,7 +150,8 @@
       "Action Speed": "0",
       "Effect": "",
       "Genes": [],
-      "Monsties": []
+      "Monsties": [],
+      "id": 11
     },
     {
       "Category": "Passive",
@@ -150,7 +162,8 @@
       "Action Speed": "0",
       "Effect": "",
       "Genes": [],
-      "Monsties": []
+      "Monsties": [],
+      "id": 12
     },
     {
       "Category": "Passive",
@@ -161,7 +174,8 @@
       "Action Speed": "0",
       "Effect": "",
       "Genes": [],
-      "Monsties": []
+      "Monsties": [],
+      "id": 13
     },
     {
       "Category": "Passive",
@@ -172,7 +186,8 @@
       "Action Speed": "0",
       "Effect": "",
       "Genes": [],
-      "Monsties": []
+      "Monsties": [],
+      "id": 14
     },
     {
       "Category": "Passive",
@@ -183,7 +198,8 @@
       "Action Speed": "0",
       "Effect": "",
       "Genes": [],
-      "Monsties": []
+      "Monsties": [],
+      "id": 15
     },
     {
       "Category": "Passive",
@@ -194,7 +210,8 @@
       "Action Speed": "0",
       "Effect": "",
       "Genes": [],
-      "Monsties": []
+      "Monsties": [],
+      "id": 16
     },
     {
       "Category": "Passive",
@@ -205,7 +222,8 @@
       "Action Speed": "0",
       "Effect": "",
       "Genes": [],
-      "Monsties": []
+      "Monsties": [],
+      "id": 17
     },
     {
       "Category": "Passive",
@@ -216,7 +234,8 @@
       "Action Speed": "0",
       "Effect": "",
       "Genes": [],
-      "Monsties": []
+      "Monsties": [],
+      "id": 18
     },
     {
       "Category": "Passive",
@@ -227,7 +246,8 @@
       "Action Speed": "0",
       "Effect": "",
       "Genes": [],
-      "Monsties": []
+      "Monsties": [],
+      "id": 19
     },
     {
       "Category": "Passive",
@@ -238,7 +258,8 @@
       "Action Speed": "0",
       "Effect": "(100%)",
       "Genes": [],
-      "Monsties": []
+      "Monsties": [],
+      "id": 20
     },
     {
       "Category": "Passive",
@@ -249,7 +270,8 @@
       "Action Speed": "0",
       "Effect": "",
       "Genes": [],
-      "Monsties": []
+      "Monsties": [],
+      "id": 21
     },
     {
       "Category": "Passive",
@@ -260,7 +282,8 @@
       "Action Speed": "0",
       "Effect": "",
       "Genes": [],
-      "Monsties": []
+      "Monsties": [],
+      "id": 22
     },
     {
       "Category": "Passive",
@@ -279,7 +302,8 @@
       ],
       "Monsties": [
         "Lv1 Popo"
-      ]
+      ],
+      "id": 23
     },
     {
       "Category": "Passive",
@@ -304,7 +328,8 @@
         "Lv1 Gravios",
         "Lv1 Black Gravios",
         "Lv1 Uragaan"
-      ]
+      ],
+      "id": 24
     },
     {
       "Category": "Passive",
@@ -322,7 +347,8 @@
         "Black Belt Armor",
         "Black Belt Armor+",
         "Fan Club Uniform"
-      ]
+      ],
+      "id": 25
     },
     {
       "Category": "Passive",
@@ -358,7 +384,8 @@
         "Gravios Armor+",
         "Garuga Armor+",
         "Gypceros U Armor+"
-      ]
+      ],
+      "id": 26
     },
     {
       "Category": "Passive",
@@ -386,7 +413,8 @@
         "Kut-Ku U Armor+",
         "Alloy Armor+",
         "Gravios U Armor+"
-      ]
+      ],
+      "id": 27
     },
     {
       "Category": "Passive",
@@ -416,7 +444,8 @@
         "Zinogre Armor+",
         "Lagiacrus Armor+",
         "Zinogre U Armor+"
-      ]
+      ],
+      "id": 28
     },
     {
       "Category": "Passive",
@@ -441,7 +470,8 @@
         "Nerscylla U Armor+",
         "Basarios Armor+",
         "Baggi Armor+"
-      ]
+      ],
+      "id": 29
     },
     {
       "Category": "Passive",
@@ -462,7 +492,8 @@
         "Conga U Armor+",
         "Fan Club Attire",
         "Fan Club Uniform"
-      ]
+      ],
+      "id": 30
     },
     {
       "Category": "Passive",
@@ -487,7 +518,8 @@
         "Ludroth U Armor+",
         "Fan Club Attire",
         "Fan Club Uniform"
-      ]
+      ],
+      "id": 31
     },
     {
       "Category": "Passive",
@@ -506,7 +538,8 @@
         "Uragaan Armor",
         "Uragaan Armor+",
         "Brachydios Armor+"
-      ]
+      ],
+      "id": 32
     },
     {
       "Category": "Passive",
@@ -522,7 +555,8 @@
       "Monsties": [
         "Regios Armor",
         "Uragaan Armor+"
-      ]
+      ],
+      "id": 33
     },
     {
       "Category": "Passive",
@@ -547,7 +581,8 @@
         "Gypceros Armor+",
         "Cephalos Armor+",
         "Gypceros U Armor+"
-      ]
+      ],
+      "id": 34
     },
     {
       "Category": "Passive",
@@ -564,7 +599,8 @@
       ],
       "Monsties": [
         "Dragon Armor"
-      ]
+      ],
+      "id": 35
     },
     {
       "Category": "Passive",
@@ -580,7 +616,8 @@
       ],
       "Monsties": [
         "Lv8 Basarios"
-      ]
+      ],
+      "id": 36
     },
     {
       "Category": "Passive",
@@ -601,7 +638,8 @@
       ],
       "Monsties": [
         "Lv20 Purple Gypceros"
-      ]
+      ],
+      "id": 37
     },
     {
       "Category": "Passive",
@@ -617,7 +655,8 @@
         "Ruby Basarios",
         "Yian Garuga"
       ],
-      "Monsties": []
+      "Monsties": [],
+      "id": 38
     },
     {
       "Category": "Passive",
@@ -630,7 +669,8 @@
       "Genes": [
         "Yian Kut-Ku"
       ],
-      "Monsties": []
+      "Monsties": [],
+      "id": 39
     },
     {
       "Category": "Passive",
@@ -644,7 +684,8 @@
         "Rathian",
         "Yian Kut-Ku"
       ],
-      "Monsties": []
+      "Monsties": [],
+      "id": 40
     },
     {
       "Category": "Passive",
@@ -660,7 +701,8 @@
       ],
       "Monsties": [
         "Kaiser Armor"
-      ]
+      ],
+      "id": 41
     },
     {
       "Category": "Passive",
@@ -674,7 +716,8 @@
         "Red Khezu",
         "Cephadrome"
       ],
-      "Monsties": []
+      "Monsties": [],
+      "id": 42
     },
     {
       "Category": "Passive",
@@ -694,7 +737,8 @@
         "Lagiacrus U Armor",
         "Lagiacrus Armor+",
         "Lagiacrus U Armor+"
-      ]
+      ],
+      "id": 43
     },
     {
       "Category": "Passive",
@@ -709,7 +753,8 @@
         "Lagiacrus",
         "Ivory Lagiacrus"
       ],
-      "Monsties": []
+      "Monsties": [],
+      "id": 44
     },
     {
       "Category": "Passive",
@@ -728,7 +773,8 @@
         "Lagombi Armor+",
         "Ludroth Armor+",
         "Ludroth U Armor+"
-      ]
+      ],
+      "id": 45
     },
     {
       "Category": "Passive",
@@ -744,7 +790,8 @@
         "Kecha Wacha",
         "Shrouded Nerscylla"
       ],
-      "Monsties": []
+      "Monsties": [],
+      "id": 46
     },
     {
       "Category": "Passive",
@@ -758,7 +805,8 @@
         "Kecha Wacha",
         "Jade Barroth"
       ],
-      "Monsties": []
+      "Monsties": [],
+      "id": 47
     },
     {
       "Category": "Passive",
@@ -771,7 +819,8 @@
       "Genes": [
         "Gypceros"
       ],
-      "Monsties": []
+      "Monsties": [],
+      "id": 48
     },
     {
       "Category": "Passive",
@@ -784,7 +833,8 @@
       "Genes": [
         "Gypceros"
       ],
-      "Monsties": []
+      "Monsties": [],
+      "id": 49
     },
     {
       "Category": "Passive",
@@ -797,7 +847,8 @@
       "Genes": [
         "Purple Gypceros"
       ],
-      "Monsties": []
+      "Monsties": [],
+      "id": 50
     },
     {
       "Category": "Passive",
@@ -820,7 +871,8 @@
         "Conga Armor+",
         "Conga U Armor+",
         "Qurupeco U Armor+"
-      ]
+      ],
+      "id": 51
     },
     {
       "Category": "Passive",
@@ -838,7 +890,8 @@
       "Monsties": [
         "Rath Soul Armor",
         "Rath Soul Armor+"
-      ]
+      ],
+      "id": 52
     },
     {
       "Category": "Passive",
@@ -859,7 +912,8 @@
       "Monsties": [
         "Garuga Armor",
         "Garuga Armor+"
-      ]
+      ],
+      "id": 53
     },
     {
       "Category": "Passive",
@@ -874,7 +928,8 @@
         "Purple Gypceros",
         "Yian Garuga"
       ],
-      "Monsties": []
+      "Monsties": [],
+      "id": 54
     },
     {
       "Category": "Passive",
@@ -887,7 +942,8 @@
       "Genes": [
         "Blue Yian Kut-Ku"
       ],
-      "Monsties": []
+      "Monsties": [],
+      "id": 55
     },
     {
       "Category": "Passive",
@@ -903,7 +959,8 @@
         "Basarios",
         "Yian Garuga"
       ],
-      "Monsties": []
+      "Monsties": [],
+      "id": 56
     },
     {
       "Category": "Passive",
@@ -919,7 +976,8 @@
       ],
       "Monsties": [
         "Lv1"
-      ]
+      ],
+      "id": 57
     },
     {
       "Category": "Passive",
@@ -934,7 +992,8 @@
         "Gendrome",
         "Shrouded Nerscylla"
       ],
-      "Monsties": []
+      "Monsties": [],
+      "id": 58
     },
     {
       "Category": "Passive",
@@ -952,7 +1011,8 @@
       "Monsties": [
         "Zinogre Armor+",
         "Zinogre U Armor+"
-      ]
+      ],
+      "id": 59
     },
     {
       "Category": "Passive",
@@ -969,7 +1029,8 @@
       "Monsties": [
         "Lagiacrus U Armor",
         "Lagiacrus U Armor+"
-      ]
+      ],
+      "id": 60
     },
     {
       "Category": "Passive",
@@ -984,7 +1045,8 @@
       ],
       "Monsties": [
         "Nerscylla U Armor+"
-      ]
+      ],
+      "id": 61
     },
     {
       "Category": "Passive",
@@ -1001,7 +1063,8 @@
       ],
       "Monsties": [
         "Lv30 Great Baggi"
-      ]
+      ],
+      "id": 62
     },
     {
       "Category": "Passive",
@@ -1015,7 +1078,8 @@
         "Gravios",
         "Black Gravios"
       ],
-      "Monsties": []
+      "Monsties": [],
+      "id": 63
     },
     {
       "Category": "Passive",
@@ -1029,7 +1093,8 @@
         "Congalala",
         "Emerald Congalala"
       ],
-      "Monsties": []
+      "Monsties": [],
+      "id": 64
     },
     {
       "Category": "Passive",
@@ -1043,7 +1108,8 @@
         "Congalala",
         "Emerald Congalala"
       ],
-      "Monsties": []
+      "Monsties": [],
+      "id": 65
     },
     {
       "Category": "Passive",
@@ -1057,7 +1123,8 @@
         "Congalala",
         "Emerald Congalala"
       ],
-      "Monsties": []
+      "Monsties": [],
+      "id": 66
     },
     {
       "Category": "Passive",
@@ -1071,7 +1138,8 @@
         "Lagombi",
         "Zamtrios"
       ],
-      "Monsties": []
+      "Monsties": [],
+      "id": 67
     },
     {
       "Category": "Passive",
@@ -1089,7 +1157,8 @@
       ],
       "Monsties": [
         "Lv35 Lagombi"
-      ]
+      ],
+      "id": 68
     },
     {
       "Category": "Passive",
@@ -1103,7 +1172,8 @@
         "Ash Kecha Wacha",
         "Jade Barroth"
       ],
-      "Monsties": []
+      "Monsties": [],
+      "id": 69
     },
     {
       "Category": "Passive",
@@ -1119,7 +1189,8 @@
       "Monsties": [
         "Uragaan Armor",
         "Uragaan Armor+"
-      ]
+      ],
+      "id": 70
     },
     {
       "Category": "Passive",
@@ -1136,7 +1207,8 @@
       "Monsties": [
         "Brachydios Armor",
         "Brachydios Armor+"
-      ]
+      ],
+      "id": 71
     },
     {
       "Category": "Passive",
@@ -1152,7 +1224,8 @@
       ],
       "Monsties": [
         "Excello Armor"
-      ]
+      ],
+      "id": 72
     },
     {
       "Category": "Passive",
@@ -1165,7 +1238,8 @@
       "Genes": [
         "Seregios"
       ],
-      "Monsties": []
+      "Monsties": [],
+      "id": 73
     },
     {
       "Category": "Passive",
@@ -1178,7 +1252,8 @@
       "Genes": [
         "Seregios"
       ],
-      "Monsties": []
+      "Monsties": [],
+      "id": 74
     },
     {
       "Category": "Passive",
@@ -1191,7 +1266,8 @@
       "Genes": [
         "Seregios"
       ],
-      "Monsties": []
+      "Monsties": [],
+      "id": 75
     },
     {
       "Category": "Passive",
@@ -1204,7 +1280,8 @@
       "Genes": [
         "Gypceros"
       ],
-      "Monsties": []
+      "Monsties": [],
+      "id": 76
     },
     {
       "Category": "Passive",
@@ -1219,7 +1296,8 @@
         "Purple Gypceros",
         "Crimson Qurupeco"
       ],
-      "Monsties": []
+      "Monsties": [],
+      "id": 77
     },
     {
       "Category": "Passive",
@@ -1233,7 +1311,8 @@
         "Purple Gypceros",
         "Crimson Qurupeco"
       ],
-      "Monsties": []
+      "Monsties": [],
+      "id": 78
     },
     {
       "Category": "Passive",
@@ -1252,7 +1331,8 @@
         "Gypceros U Armor",
         "Gypceros Armor+",
         "Gypceros U Armor+"
-      ]
+      ],
+      "id": 79
     },
     {
       "Category": "Passive",
@@ -1267,7 +1347,8 @@
       ],
       "Monsties": [
         "Lv1 Shrouded Nerscylla"
-      ]
+      ],
+      "id": 80
     },
     {
       "Category": "Passive",
@@ -1281,7 +1362,8 @@
         "Seregios",
         "White Monoblos"
       ],
-      "Monsties": []
+      "Monsties": [],
+      "id": 81
     },
     {
       "Category": "Passive",
@@ -1299,7 +1381,8 @@
       "Monsties": [
         "Lv1 Kecha Wacha",
         "Lv1 Ash Kecha Wacha"
-      ]
+      ],
+      "id": 82
     },
     {
       "Category": "Passive",
@@ -1316,7 +1399,8 @@
       "Monsties": [
         "Rathian Armor",
         "Rathian Armor+"
-      ]
+      ],
+      "id": 83
     },
     {
       "Category": "Passive",
@@ -1339,7 +1423,8 @@
       "Monsties": [
         "Lv8 Sand Barioth",
         "Lv27 Blue Yian Kut-Ku"
-      ]
+      ],
+      "id": 84
     },
     {
       "Category": "Passive",
@@ -1363,7 +1448,8 @@
       ],
       "Monsties": [
         "Goukami Armor"
-      ]
+      ],
+      "id": 85
     },
     {
       "Category": "Passive",
@@ -1381,7 +1467,8 @@
         "Ludroth Armor+",
         "Cephalos Armor+",
         "Ludroth U Armor+"
-      ]
+      ],
+      "id": 86
     },
     {
       "Category": "Passive",
@@ -1400,7 +1487,8 @@
         "Hermitaur Armor",
         "Hermitaur Armor+",
         "Hermitaur U Armor+"
-      ]
+      ],
+      "id": 87
     },
     {
       "Category": "Passive",
@@ -1418,7 +1506,8 @@
         "Kecha Wacha",
         "Ivory Lagiacrus"
       ],
-      "Monsties": []
+      "Monsties": [],
+      "id": 88
     },
     {
       "Category": "Passive",
@@ -1433,7 +1522,8 @@
       ],
       "Monsties": [
         "Bone Armor+"
-      ]
+      ],
+      "id": 89
     },
     {
       "Category": "Passive",
@@ -1448,7 +1538,8 @@
       ],
       "Monsties": [
         "Lv40 Lagiacrus"
-      ]
+      ],
+      "id": 90
     },
     {
       "Category": "Passive",
@@ -1466,7 +1557,8 @@
       ],
       "Monsties": [
         "Lv1 Zinogre"
-      ]
+      ],
+      "id": 91
     },
     {
       "Category": "Passive",
@@ -1481,7 +1573,8 @@
         "Popo",
         "Zamtrios"
       ],
-      "Monsties": []
+      "Monsties": [],
+      "id": 92
     },
     {
       "Category": "Passive",
@@ -1500,7 +1593,8 @@
       "Monsties": [
         "Lv1 Barioth",
         "Lv1"
-      ]
+      ],
+      "id": 93
     },
     {
       "Category": "Passive",
@@ -1516,7 +1610,8 @@
         "Jade Barroth",
         "Barioth"
       ],
-      "Monsties": []
+      "Monsties": [],
+      "id": 94
     },
     {
       "Category": "Passive",
@@ -1529,7 +1624,8 @@
       "Genes": [
         "Basarios"
       ],
-      "Monsties": []
+      "Monsties": [],
+      "id": 95
     },
     {
       "Category": "Passive",
@@ -1544,7 +1640,8 @@
         "Ruby Basarios",
         "Black Gravios"
       ],
-      "Monsties": []
+      "Monsties": [],
+      "id": 96
     },
     {
       "Category": "Passive",
@@ -1562,7 +1659,8 @@
         "White Monoblos",
         "Stygian Zinogre"
       ],
-      "Monsties": []
+      "Monsties": [],
+      "id": 97
     },
     {
       "Category": "Passive",
@@ -1577,7 +1675,8 @@
       ],
       "Monsties": [
         "Basarios U Armor+"
-      ]
+      ],
+      "id": 98
     },
     {
       "Category": "Passive",
@@ -1593,7 +1692,8 @@
       ],
       "Monsties": [
         "Golden Lune Armor"
-      ]
+      ],
+      "id": 99
     },
     {
       "Category": "Passive",
@@ -1607,7 +1707,8 @@
         "Kirin",
         "Oroshi Kirin"
       ],
-      "Monsties": []
+      "Monsties": [],
+      "id": 100
     },
     {
       "Category": "Passive",
@@ -1626,7 +1727,8 @@
       "Monsties": [
         "Rath Heart Armor",
         "Rath Heart Armor+"
-      ]
+      ],
+      "id": 101
     },
     {
       "Category": "Passive",
@@ -1648,7 +1750,8 @@
       "Monsties": [
         "Lv28 Pink Rathian",
         "Lv32 Yian Kut-Ku"
-      ]
+      ],
+      "id": 102
     },
     {
       "Category": "Passive",
@@ -1669,7 +1772,8 @@
       "Monsties": [
         "Lv1",
         "Lv40"
-      ]
+      ],
+      "id": 103
     },
     {
       "Category": "Passive",
@@ -1683,7 +1787,8 @@
         "Cephadrome",
         "Royal Ludroth"
       ],
-      "Monsties": []
+      "Monsties": [],
+      "id": 104
     },
     {
       "Category": "Passive",
@@ -1698,7 +1803,8 @@
         "Royal Ludroth",
         "Kecha Wacha"
       ],
-      "Monsties": []
+      "Monsties": [],
+      "id": 105
     },
     {
       "Category": "Passive",
@@ -1714,7 +1820,8 @@
       ],
       "Monsties": [
         "Kushala Armor"
-      ]
+      ],
+      "id": 106
     },
     {
       "Category": "Passive",
@@ -1727,7 +1834,8 @@
       "Genes": [
         "Red Khezu"
       ],
-      "Monsties": []
+      "Monsties": [],
+      "id": 107
     },
     {
       "Category": "Passive",
@@ -1743,7 +1851,8 @@
       ],
       "Monsties": [
         "Lv24 Ivory Lagiacrus"
-      ]
+      ],
+      "id": 108
     },
     {
       "Category": "Passive",
@@ -1760,7 +1869,8 @@
       ],
       "Monsties": [
         "Lv40 Kirin"
-      ]
+      ],
+      "id": 109
     },
     {
       "Category": "Passive",
@@ -1774,7 +1884,8 @@
         "Popo",
         "Zamtrios"
       ],
-      "Monsties": []
+      "Monsties": [],
+      "id": 110
     },
     {
       "Category": "Passive",
@@ -1792,7 +1903,8 @@
       "Monsties": [
         "Lv26 Lagombi",
         "Lv26 Zamtrios"
-      ]
+      ],
+      "id": 111
     },
     {
       "Category": "Passive",
@@ -1813,7 +1925,8 @@
         "Kirin U Armor",
         "Barioth Armor+",
         "Baggi Armor+"
-      ]
+      ],
+      "id": 112
     },
     {
       "Category": "Passive",
@@ -1826,7 +1939,8 @@
       "Genes": [
         "Tigrex"
       ],
-      "Monsties": []
+      "Monsties": [],
+      "id": 113
     },
     {
       "Category": "Passive",
@@ -1843,7 +1957,8 @@
         "Deviljho",
         ""
       ],
-      "Monsties": []
+      "Monsties": [],
+      "id": 114
     },
     {
       "Category": "Passive",
@@ -1865,7 +1980,8 @@
       "Monsties": [
         "Zinogre U Armor",
         "Zinogre U Armor+"
-      ]
+      ],
+      "id": 115
     },
     {
       "Category": "Passive",
@@ -1882,7 +1998,8 @@
       ],
       "Monsties": [
         "Silver Sol Armor"
-      ]
+      ],
+      "id": 116
     },
     {
       "Category": "Passive",
@@ -1896,7 +2013,8 @@
         "Rathian",
         "Pink Rathian"
       ],
-      "Monsties": []
+      "Monsties": [],
+      "id": 117
     },
     {
       "Category": "Passive",
@@ -1910,7 +2028,8 @@
         "Gold Rathian",
         "Monoblos"
       ],
-      "Monsties": []
+      "Monsties": [],
+      "id": 118
     },
     {
       "Category": "Passive",
@@ -1925,7 +2044,8 @@
         "Apceros",
         "Bulldrome"
       ],
-      "Monsties": []
+      "Monsties": [],
+      "id": 119
     },
     {
       "Category": "Passive",
@@ -1951,7 +2071,8 @@
         "Lv19 The Great Poogie",
         "Lv32 Uragaan",
         "Lv35 Diablos"
-      ]
+      ],
+      "id": 120
     },
     {
       "Category": "Passive",
@@ -1971,7 +2092,8 @@
       ],
       "Monsties": [
         "Golden Armor+"
-      ]
+      ],
+      "id": 121
     },
     {
       "Category": "Passive",
@@ -1986,7 +2108,8 @@
         "Iodrome",
         "Gendrome"
       ],
-      "Monsties": []
+      "Monsties": [],
+      "id": 122
     },
     {
       "Category": "Passive",
@@ -2009,7 +2132,8 @@
       ],
       "Monsties": [
         "Lv28 Velocidrome"
-      ]
+      ],
+      "id": 123
     },
     {
       "Category": "Passive",
@@ -2032,7 +2156,8 @@
       ],
       "Monsties": [
         "Lv1"
-      ]
+      ],
+      "id": 124
     },
     {
       "Category": "Passive",
@@ -2050,7 +2175,8 @@
       ],
       "Monsties": [
         "Velociprey Armor+"
-      ]
+      ],
+      "id": 125
     },
     {
       "Category": "Passive",
@@ -2072,7 +2198,8 @@
         "Lv22 Seregios",
         "Lv32 Qurupeco",
         "Lv32 Crimson Qurupeco"
-      ]
+      ],
+      "id": 126
     },
     {
       "Category": "Passive",
@@ -2093,7 +2220,8 @@
         "Kecha U Armor",
         "Kecha Armor+",
         "Kecha U Armor+"
-      ]
+      ],
+      "id": 127
     },
     {
       "Category": "Passive",
@@ -2110,7 +2238,8 @@
       ],
       "Monsties": [
         "Leather Armor+"
-      ]
+      ],
+      "id": 128
     },
     {
       "Category": "Passive",
@@ -2132,7 +2261,8 @@
       ],
       "Monsties": [
         "Lv8 Seregios"
-      ]
+      ],
+      "id": 129
     },
     {
       "Category": "Passive",
@@ -2148,7 +2278,8 @@
         "Uragaan",
         ""
       ],
-      "Monsties": []
+      "Monsties": [],
+      "id": 130
     },
     {
       "Category": "Passive",
@@ -2165,7 +2296,8 @@
       "Monsties": [
         "Leather Armor",
         "Leather Armor+"
-      ]
+      ],
+      "id": 131
     },
     {
       "Category": "Passive",
@@ -2185,7 +2317,8 @@
       ],
       "Monsties": [
         "Lv33 Ivory Lagiacrus"
-      ]
+      ],
+      "id": 132
     },
     {
       "Category": "Passive",
@@ -2201,7 +2334,8 @@
         "Great Baggi",
         "Jade Barroth"
       ],
-      "Monsties": []
+      "Monsties": [],
+      "id": 133
     },
     {
       "Category": "Passive",
@@ -2219,7 +2353,8 @@
       ],
       "Monsties": [
         "Leather Armor+"
-      ]
+      ],
+      "id": 134
     },
     {
       "Category": "Passive",
@@ -2237,7 +2372,8 @@
         "Qurupeco",
         "Crimson Qurupeco"
       ],
-      "Monsties": []
+      "Monsties": [],
+      "id": 135
     },
     {
       "Category": "Passive",
@@ -2252,7 +2388,8 @@
         "Ruby Basarios",
         "Crimson Qurupeco"
       ],
-      "Monsties": []
+      "Monsties": [],
+      "id": 136
     },
     {
       "Category": "Passive",
@@ -2275,7 +2412,8 @@
         "Bnahabra Armor+",
         "Hunter Armor+",
         "Cephalos Armor+"
-      ]
+      ],
+      "id": 137
     },
     {
       "Category": "Passive",
@@ -2293,7 +2431,8 @@
         "Lv18 Barioth",
         "Lv18",
         "Lv23 Nargacuga"
-      ]
+      ],
+      "id": 138
     },
     {
       "Category": "Passive",
@@ -2311,7 +2450,8 @@
       ],
       "Monsties": [
         "Lv30"
-      ]
+      ],
+      "id": 139
     },
     {
       "Category": "Passive",
@@ -2326,7 +2466,8 @@
       ],
       "Monsties": [
         "Lv15 Sand Barioth"
-      ]
+      ],
+      "id": 140
     },
     {
       "Category": "Passive",
@@ -2344,7 +2485,8 @@
       "Monsties": [
         "Lv10 Cephadrome",
         "Lv35 Brute Tigrex"
-      ]
+      ],
+      "id": 141
     },
     {
       "Category": "Passive",
@@ -2355,7 +2497,8 @@
       "Action Speed": "0",
       "Effect": "",
       "Genes": [],
-      "Monsties": []
+      "Monsties": [],
+      "id": 142
     },
     {
       "Category": "Passive",
@@ -2366,7 +2509,8 @@
       "Action Speed": "0",
       "Effect": "",
       "Genes": [],
-      "Monsties": []
+      "Monsties": [],
+      "id": 143
     },
     {
       "Category": "Passive",
@@ -2377,7 +2521,8 @@
       "Action Speed": "0",
       "Effect": "",
       "Genes": [],
-      "Monsties": []
+      "Monsties": [],
+      "id": 144
     },
     {
       "Category": "Passive",
@@ -2394,7 +2539,8 @@
       "Monsties": [
         "Lv30 Apceros",
         "Lv35"
-      ]
+      ],
+      "id": 145
     },
     {
       "Category": "Passive",
@@ -2411,7 +2557,8 @@
       ],
       "Monsties": [
         "Lv36 Blue Yian Kut-Ku"
-      ]
+      ],
+      "id": 146
     },
     {
       "Category": "Passive",
@@ -2429,7 +2576,8 @@
         "Lv30 Bulldrome",
         "Lv35 White Monoblos",
         "Lv45 Diablos"
-      ]
+      ],
+      "id": 147
     },
     {
       "Category": "Passive",
@@ -2446,7 +2594,8 @@
       "Monsties": [
         "Lv1 The Great Poogie",
         "Lv30 Monoblos"
-      ]
+      ],
+      "id": 148
     },
     {
       "Category": "Passive",
@@ -2465,7 +2614,8 @@
         "Nerscylla Armor+",
         "Tigrex Armor+",
         "Vangis Armor+"
-      ]
+      ],
+      "id": 149
     },
     {
       "Category": "Passive",
@@ -2481,7 +2631,8 @@
       ],
       "Monsties": [
         "Lv11 Zamtrios"
-      ]
+      ],
+      "id": 150
     },
     {
       "Category": "Passive",
@@ -2495,7 +2646,8 @@
         "Molten Tigrex",
         "Deviljho"
       ],
-      "Monsties": []
+      "Monsties": [],
+      "id": 151
     },
     {
       "Category": "Passive",
@@ -2512,7 +2664,8 @@
       ],
       "Monsties": [
         "Lv1"
-      ]
+      ],
+      "id": 152
     },
     {
       "Category": "Passive",
@@ -2526,7 +2679,8 @@
         "Rathalos",
         "Aptonoth"
       ],
-      "Monsties": []
+      "Monsties": [],
+      "id": 153
     },
     {
       "Category": "Passive",
@@ -2544,7 +2698,8 @@
         "Lv1",
         "Lv1",
         "Lv1"
-      ]
+      ],
+      "id": 154
     },
     {
       "Category": "Passive",
@@ -2561,7 +2716,8 @@
       "Monsties": [
         "Lv1",
         "Lv1"
-      ]
+      ],
+      "id": 155
     },
     {
       "Category": "Passive",
@@ -2581,7 +2737,8 @@
         "Agnaktor Armor",
         "Kut-Ku U Armor+",
         "Agnaktor Armor+"
-      ]
+      ],
+      "id": 156
     },
     {
       "Category": "Passive",
@@ -2598,7 +2755,8 @@
       "Monsties": [
         "Lv10 Royal Ludroth",
         "Lv20 Purple Ludroth"
-      ]
+      ],
+      "id": 157
     },
     {
       "Category": "Passive",
@@ -2615,7 +2773,8 @@
       "Monsties": [
         "Golden Armor",
         "Golden Armor+"
-      ]
+      ],
+      "id": 158
     },
     {
       "Category": "Passive",
@@ -2633,7 +2792,8 @@
       "Monsties": [
         "Agnaktor U Armor",
         "Agnaktor U Armor+"
-      ]
+      ],
+      "id": 159
     },
     {
       "Category": "Passive",
@@ -2646,7 +2806,8 @@
       "Genes": [
         "Tigrex"
       ],
-      "Monsties": []
+      "Monsties": [],
+      "id": 160
     },
     {
       "Category": "Passive",
@@ -2665,7 +2826,8 @@
         "Barioth U Armor",
         "Kut-Ku Armor+",
         "Barioth U Armor+"
-      ]
+      ],
+      "id": 161
     },
     {
       "Category": "Passive",
@@ -2679,7 +2841,8 @@
         "Purple Ludroth",
         "Ivory Lagiacrus"
       ],
-      "Monsties": []
+      "Monsties": [],
+      "id": 162
     },
     {
       "Category": "Passive",
@@ -2693,7 +2856,8 @@
         "Red Khezu",
         "Zinogre"
       ],
-      "Monsties": []
+      "Monsties": [],
+      "id": 163
     },
     {
       "Category": "Passive",
@@ -2710,7 +2874,8 @@
       ],
       "Monsties": [
         "Barioth Armor+"
-      ]
+      ],
+      "id": 164
     },
     {
       "Category": "Passive",
@@ -2726,7 +2891,8 @@
       "Monsties": [
         "Obituary Armor / Butterfly Armor",
         "Obituary Armor+ / Butterfly Armor+"
-      ]
+      ],
+      "id": 165
     },
     {
       "Category": "Passive",
@@ -2741,7 +2907,8 @@
       ],
       "Monsties": [
         "Lv1 Uragaan"
-      ]
+      ],
+      "id": 166
     },
     {
       "Category": "Passive",
@@ -2758,7 +2925,8 @@
         "Hero's Clothes",
         "Arzuros Armor+",
         "Epic Hero's Clothes"
-      ]
+      ],
+      "id": 167
     },
     {
       "Category": "Passive",
@@ -2774,7 +2942,8 @@
         "Hunter Armor+",
         "Qurupeco Armor+",
         "Qurupeco U Armor+"
-      ]
+      ],
+      "id": 168
     },
     {
       "Category": "Passive",
@@ -2791,7 +2960,8 @@
         "Jaggi Armor+",
         "Guild Knight Armor+ / Maiden's Armor+",
         "Baggi Armor+"
-      ]
+      ],
+      "id": 169
     },
     {
       "Category": "Passive",
@@ -2804,7 +2974,8 @@
       "Genes": [],
       "Monsties": [
         "Excello Armor"
-      ]
+      ],
+      "id": 170
     },
     {
       "Category": "Passive",
@@ -2821,7 +2992,8 @@
       ],
       "Monsties": [
         "Lv35 Stygian Zinogre"
-      ]
+      ],
+      "id": 171
     },
     {
       "Category": "Passive",
@@ -2835,7 +3007,8 @@
         "Velocidrome",
         "Iodrome"
       ],
-      "Monsties": []
+      "Monsties": [],
+      "id": 172
     },
     {
       "Category": "Passive",
@@ -2854,7 +3027,8 @@
       ],
       "Monsties": [
         "Lv30 Oroshi Kirin"
-      ]
+      ],
+      "id": 173
     },
     {
       "Category": "Passive",
@@ -2880,7 +3054,8 @@
         "Kirin Armor",
         "Kirin U Armor",
         "Guild Knight Armor+ / Maiden's Armor+"
-      ]
+      ],
+      "id": 174
     },
     {
       "Category": "Passive",
@@ -2902,7 +3077,8 @@
         "Nerscylla Armor+",
         "Alloy Armor+",
         "Mosgharl Armor+"
-      ]
+      ],
+      "id": 175
     },
     {
       "Category": "Passive",
@@ -2926,7 +3102,8 @@
       "Monsties": [
         "Lv20 Green Nargacuga",
         "Lv30 Great Jaggi"
-      ]
+      ],
+      "id": 176
     },
     {
       "Category": "Passive",
@@ -2946,7 +3123,8 @@
         "",
         ""
       ],
-      "Monsties": []
+      "Monsties": [],
+      "id": 177
     },
     {
       "Category": "Passive",
@@ -2970,7 +3148,8 @@
         "Tigrex U Armor+",
         "Vangis Armor+",
         "Pirate King J Armor"
-      ]
+      ],
+      "id": 178
     },
     {
       "Category": "Passive",
@@ -3003,7 +3182,8 @@
         "Rathalos Armor+",
         "Nargacuga U Armor+",
         "Duramboros Armor+"
-      ]
+      ],
+      "id": 179
     },
     {
       "Category": "Passive",
@@ -3031,7 +3211,8 @@
         "Lv40 Azure Rathalos",
         "Lv40 Silver Rathalos",
         "Lv44 Rathalos"
-      ]
+      ],
+      "id": 180
     },
     {
       "Category": "Passive",
@@ -3050,7 +3231,8 @@
         "Diablos U Armor+",
         "Duramboros Armor",
         "Duramboros Armor+"
-      ]
+      ],
+      "id": 181
     },
     {
       "Category": "Passive",
@@ -3070,7 +3252,8 @@
       ],
       "Monsties": [
         "Lv20 Barroth"
-      ]
+      ],
+      "id": 182
     },
     {
       "Category": "Passive",
@@ -3093,7 +3276,8 @@
         "Auroros Armor / Borealis Armor",
         "Arzuros Armor+",
         "Auroros Armor+ / Borealis Armor+"
-      ]
+      ],
+      "id": 183
     },
     {
       "Category": "Passive",
@@ -3111,7 +3295,8 @@
       "Monsties": [
         "Arzuros Armor+",
         "Hunter Armor+"
-      ]
+      ],
+      "id": 184
     },
     {
       "Category": "Passive",
@@ -3134,7 +3319,8 @@
       "Monsties": [
         "Alloy Armor",
         "Alloy Armor+"
-      ]
+      ],
+      "id": 185
     },
     {
       "Category": "Passive",
@@ -3155,7 +3341,8 @@
         "Conga Armor+",
         "Duramboros Armor",
         "Duramboros Armor+"
-      ]
+      ],
+      "id": 186
     },
     {
       "Category": "Passive",
@@ -3173,7 +3360,8 @@
         "",
         ""
       ],
-      "Monsties": []
+      "Monsties": [],
+      "id": 187
     },
     {
       "Category": "Passive",
@@ -3187,7 +3375,8 @@
         "Lagiacrus",
         "Ivory Lagiacrus"
       ],
-      "Monsties": []
+      "Monsties": [],
+      "id": 188
     },
     {
       "Category": "Passive",
@@ -3201,7 +3390,8 @@
         "Kirin",
         "Zinogre"
       ],
-      "Monsties": []
+      "Monsties": [],
+      "id": 189
     },
     {
       "Category": "Passive",
@@ -3215,7 +3405,8 @@
         "Oroshi Kirin",
         "Jade Barroth"
       ],
-      "Monsties": []
+      "Monsties": [],
+      "id": 190
     },
     {
       "Category": "Passive",
@@ -3228,7 +3419,8 @@
       "Genes": [
         "Stygian Zinogre"
       ],
-      "Monsties": []
+      "Monsties": [],
+      "id": 191
     },
     {
       "Category": "Passive",
@@ -3241,7 +3433,8 @@
       "Genes": [
         "Gold Rathian"
       ],
-      "Monsties": []
+      "Monsties": [],
+      "id": 192
     },
     {
       "Category": "Passive",
@@ -3255,7 +3448,8 @@
       "Monsties": [
         "Guild Knight Armor / Maiden's Armor",
         "Guild Knight Armor+ / Maiden's Armor+"
-      ]
+      ],
+      "id": 193
     },
     {
       "Category": "Passive",
@@ -3266,7 +3460,8 @@
       "Action Speed": "0",
       "Effect": "[2]",
       "Genes": [],
-      "Monsties": []
+      "Monsties": [],
+      "id": 194
     },
     {
       "Category": "Passive",
@@ -3277,7 +3472,8 @@
       "Action Speed": "0",
       "Effect": "[10]",
       "Genes": [],
-      "Monsties": []
+      "Monsties": [],
+      "id": 195
     },
     {
       "Category": "Passive",
@@ -3288,7 +3484,8 @@
       "Action Speed": "0",
       "Effect": "[5]",
       "Genes": [],
-      "Monsties": []
+      "Monsties": [],
+      "id": 196
     },
     {
       "Category": "Passive",
@@ -3299,7 +3496,8 @@
       "Action Speed": "0",
       "Effect": "[10]",
       "Genes": [],
-      "Monsties": []
+      "Monsties": [],
+      "id": 197
     },
     {
       "Category": "Passive",
@@ -3310,7 +3508,8 @@
       "Action Speed": "0",
       "Effect": "[10]",
       "Genes": [],
-      "Monsties": []
+      "Monsties": [],
+      "id": 198
     },
     {
       "Category": "Passive",
@@ -3326,7 +3525,8 @@
         "",
         ""
       ],
-      "Monsties": []
+      "Monsties": [],
+      "id": 199
     },
     {
       "Category": "Passive",
@@ -3341,7 +3541,8 @@
       ],
       "Monsties": [
         "Lv1 Monoblos"
-      ]
+      ],
+      "id": 200
     },
     {
       "Category": "Passive",
@@ -3363,7 +3564,8 @@
       "Monsties": [
         "Monoblos Armor",
         "Monoblos U Armor"
-      ]
+      ],
+      "id": 201
     },
     {
       "Category": "Passive",
@@ -3378,7 +3580,8 @@
       ],
       "Monsties": [
         "Lv1 Popo"
-      ]
+      ],
+      "id": 202
     },
     {
       "Category": "Active",
@@ -3397,7 +3600,8 @@
         "Assassin's Dagger",
         "Plesioth Direspike",
         "Crimson Club+"
-      ]
+      ],
+      "id": 203
     },
     {
       "Category": "Active",
@@ -3418,7 +3622,8 @@
         "Blazing Falchion+",
         "Golden Falchion+",
         "Flash in the Night"
-      ]
+      ],
+      "id": 204
     },
     {
       "Category": "Active",
@@ -3435,7 +3640,8 @@
         "Hydra Bite",
         "Chief Kris",
         "Deadly Poison"
-      ]
+      ],
+      "id": 205
     },
     {
       "Category": "Active",
@@ -3450,7 +3656,8 @@
       "Monsties": [
         "Viper Bite",
         "Deathprize"
-      ]
+      ],
+      "id": 206
     },
     {
       "Category": "Active",
@@ -3465,7 +3672,8 @@
       "Monsties": [
         "Princess Rapier",
         "Queen Rapier"
-      ]
+      ],
+      "id": 207
     },
     {
       "Category": "Active",
@@ -3482,7 +3690,8 @@
         "Catspaw",
         "Commander Dagger",
         "Catburglar"
-      ]
+      ],
+      "id": 208
     },
     {
       "Category": "Active",
@@ -3499,7 +3708,8 @@
         "Barroth Club",
         "Hero's Sword",
         "Master Sword"
-      ]
+      ],
+      "id": 209
     },
     {
       "Category": "Active",
@@ -3511,7 +3721,8 @@
       "Action Speed": "0",
       "Effect": "",
       "Genes": [],
-      "Monsties": []
+      "Monsties": [],
+      "id": 210
     },
     {
       "Category": "Active",
@@ -3523,7 +3734,8 @@
       "Action Speed": "0",
       "Effect": "Stun (50%)",
       "Genes": [],
-      "Monsties": []
+      "Monsties": [],
+      "id": 211
     },
     {
       "Category": "Active",
@@ -3535,7 +3747,8 @@
       "Action Speed": "0",
       "Effect": "",
       "Genes": [],
-      "Monsties": []
+      "Monsties": [],
+      "id": 212
     },
     {
       "Category": "Active",
@@ -3547,7 +3760,8 @@
       "Action Speed": "0",
       "Effect": "",
       "Genes": [],
-      "Monsties": []
+      "Monsties": [],
+      "id": 213
     },
     {
       "Category": "Active",
@@ -3559,7 +3773,8 @@
       "Action Speed": "0",
       "Effect": "",
       "Genes": [],
-      "Monsties": []
+      "Monsties": [],
+      "id": 214
     },
     {
       "Category": "Active",
@@ -3571,7 +3786,8 @@
       "Action Speed": "0",
       "Effect": "",
       "Genes": [],
-      "Monsties": []
+      "Monsties": [],
+      "id": 215
     },
     {
       "Category": "Active",
@@ -3583,7 +3799,8 @@
       "Action Speed": "-1",
       "Effect": "",
       "Genes": [],
-      "Monsties": []
+      "Monsties": [],
+      "id": 216
     },
     {
       "Category": "Active",
@@ -3595,7 +3812,8 @@
       "Action Speed": "-1",
       "Effect": "",
       "Genes": [],
-      "Monsties": []
+      "Monsties": [],
+      "id": 217
     },
     {
       "Category": "Active",
@@ -3607,7 +3825,8 @@
       "Action Speed": "-1",
       "Effect": "",
       "Genes": [],
-      "Monsties": []
+      "Monsties": [],
+      "id": 218
     },
     {
       "Category": "Active",
@@ -3619,7 +3838,8 @@
       "Action Speed": "-1",
       "Effect": "",
       "Genes": [],
-      "Monsties": []
+      "Monsties": [],
+      "id": 219
     },
     {
       "Category": "Active",
@@ -3631,7 +3851,8 @@
       "Action Speed": "-1",
       "Effect": "",
       "Genes": [],
-      "Monsties": []
+      "Monsties": [],
+      "id": 220
     },
     {
       "Category": "Active",
@@ -3653,7 +3874,8 @@
         "Cera Cymmetry",
         "Chrome Quietus",
         "Sentinel"
-      ]
+      ],
+      "id": 221
     },
     {
       "Category": "Active",
@@ -3675,7 +3897,8 @@
         "Teostra Blade+",
         "Scorching Blazer",
         "Glavenus Array"
-      ]
+      ],
+      "id": 222
     },
     {
       "Category": "Active",
@@ -3694,7 +3917,8 @@
         "Ples Watercutter",
         "Great Pincer",
         "Thrash Cutlass"
-      ]
+      ],
+      "id": 223
     },
     {
       "Category": "Active",
@@ -3715,7 +3939,8 @@
         "Great Demon Rod",
         "Fox Blade",
         "Discov Corps Blde"
-      ]
+      ],
+      "id": 224
     },
     {
       "Category": "Active",
@@ -3733,7 +3958,8 @@
         "Paladire",
         "Daora's Decimator+",
         "Nebulaborne Blade"
-      ]
+      ],
+      "id": 225
     },
     {
       "Category": "Active",
@@ -3752,7 +3978,8 @@
         "Raging Blade",
         "Anguish",
         "Fatalis Blade+"
-      ]
+      ],
+      "id": 226
     },
     {
       "Category": "Active",
@@ -3763,7 +3990,8 @@
       "Action Speed": "-1",
       "Effect": "",
       "Genes": [],
-      "Monsties": []
+      "Monsties": [],
+      "id": 227
     },
     {
       "Category": "Active",
@@ -3774,7 +4002,8 @@
       "Action Speed": "-10",
       "Effect": "",
       "Genes": [],
-      "Monsties": []
+      "Monsties": [],
+      "id": 228
     },
     {
       "Category": "Active",
@@ -3785,7 +4014,8 @@
       "Action Speed": "-1",
       "Effect": "Down (100%)",
       "Genes": [],
-      "Monsties": []
+      "Monsties": [],
+      "id": 229
     },
     {
       "Category": "Active",
@@ -3800,7 +4030,8 @@
       "Monsties": [
         "Cat's Soul",
         "Cat's Curse"
-      ]
+      ],
+      "id": 230
     },
     {
       "Category": "Active",
@@ -3819,7 +4050,8 @@
         "Cheda Blade+",
         "Captain Blade J",
         "Captain Buster J"
-      ]
+      ],
+      "id": 231
     },
     {
       "Category": "Active",
@@ -3836,7 +4068,8 @@
         "Jawblade",
         "Scylla Razor",
         "Giant Jawblade"
-      ]
+      ],
+      "id": 232
     },
     {
       "Category": "Active",
@@ -3853,7 +4086,8 @@
         "Chieftain Grt Swrd",
         "Bone Slasher",
         "High Chief Grt Swd"
-      ]
+      ],
+      "id": 233
     },
     {
       "Category": "Active",
@@ -3864,7 +4098,8 @@
       "Action Speed": "-1",
       "Effect": "Attack Down [20] (100%)",
       "Genes": [],
-      "Monsties": []
+      "Monsties": [],
+      "id": 234
     },
     {
       "Category": "Active",
@@ -3883,7 +4118,8 @@
         "War Mace",
         "Dios Blastmace",
         "White Kitty Hammer"
-      ]
+      ],
+      "id": 235
     },
     {
       "Category": "Active",
@@ -3902,7 +4138,8 @@
         "Red Bludgeon+",
         "Leonid Starcrushr+",
         "Peco Flint"
-      ]
+      ],
+      "id": 236
     },
     {
       "Category": "Active",
@@ -3917,7 +4154,8 @@
       "Monsties": [
         "Plesioth Head",
         "Plesioth Breaker"
-      ]
+      ],
+      "id": 237
     },
     {
       "Category": "Active",
@@ -3934,7 +4172,8 @@
         "Vortex Hammer",
         "Mane Malice Rajang",
         "High Vortex Hammer"
-      ]
+      ],
+      "id": 238
     },
     {
       "Category": "Active",
@@ -3951,7 +4190,8 @@
         "Meaty Smash",
         "Daora's Colossus+",
         "Meaty Crush"
-      ]
+      ],
+      "id": 239
     },
     {
       "Category": "Active",
@@ -3968,7 +4208,8 @@
         "Fatalis Buster",
         "Devil's Crush",
         "Fatalis Buster+"
-      ]
+      ],
+      "id": 240
     },
     {
       "Category": "Active",
@@ -3983,7 +4224,8 @@
       "Monsties": [
         "Teostra Cratermakr",
         "Teostra Cratermkr+"
-      ]
+      ],
+      "id": 241
     },
     {
       "Category": "Active",
@@ -3995,7 +4237,8 @@
       "Action Speed": "-1",
       "Effect": "",
       "Genes": [],
-      "Monsties": []
+      "Monsties": [],
+      "id": 242
     },
     {
       "Category": "Active",
@@ -4007,7 +4250,8 @@
       "Action Speed": "-1",
       "Effect": "",
       "Genes": [],
-      "Monsties": []
+      "Monsties": [],
+      "id": 243
     },
     {
       "Category": "Active",
@@ -4019,7 +4263,8 @@
       "Action Speed": "-1",
       "Effect": "",
       "Genes": [],
-      "Monsties": []
+      "Monsties": [],
+      "id": 244
     },
     {
       "Category": "Active",
@@ -4031,7 +4276,8 @@
       "Action Speed": "-1",
       "Effect": "Attack Down [20] (100%)",
       "Genes": [],
-      "Monsties": []
+      "Monsties": [],
+      "id": 245
     },
     {
       "Category": "Active",
@@ -4042,7 +4288,8 @@
       "Action Speed": "0",
       "Effect": "",
       "Genes": [],
-      "Monsties": []
+      "Monsties": [],
+      "id": 246
     },
     {
       "Category": "Active",
@@ -4053,7 +4300,8 @@
       "Action Speed": "0",
       "Effect": "Attack Up [10] (50%)",
       "Genes": [],
-      "Monsties": []
+      "Monsties": [],
+      "id": 247
     },
     {
       "Category": "Active",
@@ -4064,7 +4312,8 @@
       "Action Speed": "0",
       "Effect": "Defense Down [10] (50%)",
       "Genes": [],
-      "Monsties": []
+      "Monsties": [],
+      "id": 248
     },
     {
       "Category": "Active",
@@ -4076,7 +4325,8 @@
       "Action Speed": "0",
       "Effect": "",
       "Genes": [],
-      "Monsties": []
+      "Monsties": [],
+      "id": 249
     },
     {
       "Category": "Active",
@@ -4092,7 +4342,8 @@
         "Lv23 Popo",
         "Lv28 Barioth",
         "Lv28"
-      ]
+      ],
+      "id": 250
     },
     {
       "Category": "Active",
@@ -4106,7 +4357,8 @@
       "Genes": [],
       "Monsties": [
         "Lv16 Apceros"
-      ]
+      ],
+      "id": 251
     },
     {
       "Category": "Active",
@@ -4119,7 +4371,8 @@
       "Genes": [],
       "Monsties": [
         "Lv25 Apceros"
-      ]
+      ],
+      "id": 252
     },
     {
       "Category": "Active",
@@ -4135,7 +4388,8 @@
       ],
       "Monsties": [
         "Lv1 Yian Kut-Ku"
-      ]
+      ],
+      "id": 253
     },
     {
       "Category": "Active",
@@ -4150,7 +4404,8 @@
       "Monsties": [
         "Lv8 Yian Kut-Ku",
         "Lv9 Blue Yian Kut-Ku"
-      ]
+      ],
+      "id": 254
     },
     {
       "Category": "Active",
@@ -4163,7 +4418,8 @@
       "Genes": [],
       "Monsties": [
         "Lv20 Yian Kut-Ku"
-      ]
+      ],
+      "id": 255
     },
     {
       "Category": "Active",
@@ -4179,7 +4435,8 @@
       ],
       "Monsties": [
         "Lv1 Blue Yian Kut-Ku"
-      ]
+      ],
+      "id": 256
     },
     {
       "Category": "Active",
@@ -4193,7 +4450,8 @@
       "Genes": [],
       "Monsties": [
         "Lv18 Blue Yian Kut-Ku"
-      ]
+      ],
+      "id": 257
     },
     {
       "Category": "Active",
@@ -4207,7 +4465,8 @@
       "Genes": [],
       "Monsties": [
         "Lv30 Gypceros"
-      ]
+      ],
+      "id": 258
     },
     {
       "Category": "Active",
@@ -4222,7 +4481,8 @@
       "Monsties": [
         "Lv30 Iodrome",
         "Lv30 Purple Gypceros"
-      ]
+      ],
+      "id": 259
     },
     {
       "Category": "Active",
@@ -4238,7 +4498,8 @@
       ],
       "Monsties": [
         "Lv1 Yian Garuga"
-      ]
+      ],
+      "id": 260
     },
     {
       "Category": "Active",
@@ -4250,7 +4511,8 @@
       "Action Speed": "0",
       "Effect": "",
       "Genes": [],
-      "Monsties": []
+      "Monsties": [],
+      "id": 261
     },
     {
       "Category": "Active",
@@ -4267,7 +4529,8 @@
         "Lv22 Iodrome",
         "Lv22 Gypceros",
         "Lv30 Shrouded Nerscylla"
-      ]
+      ],
+      "id": 262
     },
     {
       "Category": "Active",
@@ -4281,7 +4544,8 @@
       "Genes": [],
       "Monsties": [
         "Lv10 Yian Garuga"
-      ]
+      ],
+      "id": 263
     },
     {
       "Category": "Active",
@@ -4293,7 +4557,8 @@
       "Action Speed": "0",
       "Effect": "Nox Psn (40%)",
       "Genes": [],
-      "Monsties": []
+      "Monsties": [],
+      "id": 264
     },
     {
       "Category": "Active",
@@ -4305,7 +4570,8 @@
       "Action Speed": "0",
       "Effect": "",
       "Genes": [],
-      "Monsties": []
+      "Monsties": [],
+      "id": 265
     },
     {
       "Category": "Active",
@@ -4317,7 +4583,8 @@
       "Action Speed": "0",
       "Effect": "Nox Psn (80%)",
       "Genes": [],
-      "Monsties": []
+      "Monsties": [],
+      "id": 266
     },
     {
       "Category": "Active",
@@ -4331,7 +4598,8 @@
       "Genes": [],
       "Monsties": [
         "Lv6 Arzuros"
-      ]
+      ],
+      "id": 267
     },
     {
       "Category": "Active",
@@ -4344,7 +4612,8 @@
       "Genes": [],
       "Monsties": [
         "Lv20 Arzuros"
-      ]
+      ],
+      "id": 268
     },
     {
       "Category": "Active",
@@ -4360,7 +4629,8 @@
       ],
       "Monsties": [
         "Lv1 Lagombi"
-      ]
+      ],
+      "id": 269
     },
     {
       "Category": "Active",
@@ -4374,7 +4644,8 @@
       "Genes": [],
       "Monsties": [
         "Lv8 Lagombi"
-      ]
+      ],
+      "id": 270
     },
     {
       "Category": "Active",
@@ -4391,7 +4662,8 @@
       "Monsties": [
         "Lv1 Jade Barroth",
         "Lv16 Lagombi"
-      ]
+      ],
+      "id": 271
     },
     {
       "Category": "Active",
@@ -4405,7 +4677,8 @@
       "Genes": [],
       "Monsties": [
         "Lv7 Velocidrome"
-      ]
+      ],
+      "id": 272
     },
     {
       "Category": "Active",
@@ -4419,7 +4692,8 @@
       "Genes": [],
       "Monsties": [
         "Lv13 Velocidrome"
-      ]
+      ],
+      "id": 273
     },
     {
       "Category": "Active",
@@ -4433,7 +4707,8 @@
       "Genes": [],
       "Monsties": [
         "Lv12 Iodrome"
-      ]
+      ],
+      "id": 274
     },
     {
       "Category": "Active",
@@ -4449,7 +4724,8 @@
       ],
       "Monsties": [
         "Lv1 Gendrome"
-      ]
+      ],
+      "id": 275
     },
     {
       "Category": "Active",
@@ -4464,7 +4740,8 @@
       "Monsties": [
         "Lv28 Shrouded Nerscylla",
         "Lv30 Gendrome"
-      ]
+      ],
+      "id": 276
     },
     {
       "Category": "Active",
@@ -4480,7 +4757,8 @@
       ],
       "Monsties": [
         "Lv1 Bulldrome"
-      ]
+      ],
+      "id": 277
     },
     {
       "Category": "Active",
@@ -4494,7 +4772,8 @@
       "Genes": [],
       "Monsties": [
         "Lv27 Bulldrome"
-      ]
+      ],
+      "id": 278
     },
     {
       "Category": "Active",
@@ -4510,7 +4789,8 @@
         "Lv7 The Great Poogie",
         "Lv18 Bulldrome",
         "Lv40 Black Diablos"
-      ]
+      ],
+      "id": 279
     },
     {
       "Category": "Active",
@@ -4523,7 +4803,8 @@
       "Genes": [],
       "Monsties": [
         "Lv45 The Great Poogie"
-      ]
+      ],
+      "id": 280
     },
     {
       "Category": "Active",
@@ -4537,7 +4818,8 @@
       "Genes": [],
       "Monsties": [
         "Lv30 The Great Poogie"
-      ]
+      ],
+      "id": 281
     },
     {
       "Category": "Active",
@@ -4553,7 +4835,8 @@
       ],
       "Monsties": [
         "Lv1 Zamtrios"
-      ]
+      ],
+      "id": 282
     },
     {
       "Category": "Active",
@@ -4569,7 +4852,8 @@
         "Lv25 Kecha Wacha",
         "Lv30 Jade Barroth",
         "Lv30 Zamtrios"
-      ]
+      ],
+      "id": 283
     },
     {
       "Category": "Active",
@@ -4582,7 +4866,8 @@
       "Genes": [],
       "Monsties": [
         "Lv12 Khezu"
-      ]
+      ],
+      "id": 284
     },
     {
       "Category": "Active",
@@ -4595,7 +4880,8 @@
       "Genes": [],
       "Monsties": [
         "Lv22 Khezu"
-      ]
+      ],
+      "id": 285
     },
     {
       "Category": "Active",
@@ -4612,7 +4898,8 @@
       "Monsties": [
         "Lv1 Red Khezu",
         "Lv30 Khezu"
-      ]
+      ],
+      "id": 286
     },
     {
       "Category": "Active",
@@ -4624,7 +4911,8 @@
       "Action Speed": "0",
       "Effect": "Paralysis (35%)",
       "Genes": [],
-      "Monsties": []
+      "Monsties": [],
+      "id": 287
     },
     {
       "Category": "Active",
@@ -4639,7 +4927,8 @@
       "Monsties": [
         "Lv8",
         "Lv12 Red Khezu"
-      ]
+      ],
+      "id": 288
     },
     {
       "Category": "Active",
@@ -4653,7 +4942,8 @@
       "Genes": [],
       "Monsties": [
         "Lv30 Red Khezu"
-      ]
+      ],
+      "id": 289
     },
     {
       "Category": "Active",
@@ -4669,7 +4959,8 @@
       ],
       "Monsties": [
         "Lv1 Tigrex"
-      ]
+      ],
+      "id": 290
     },
     {
       "Category": "Active",
@@ -4685,7 +4976,8 @@
         "Lv32 Deviljho",
         "Lv40 Tigrex",
         "Lv42 Brute Tigrex"
-      ]
+      ],
+      "id": 291
     },
     {
       "Category": "Active",
@@ -4701,7 +4993,8 @@
         "Lv13 Tigrex",
         "Lv13 Brute Tigrex",
         "Lv15 Molten Tigrex"
-      ]
+      ],
+      "id": 292
     },
     {
       "Category": "Active",
@@ -4715,7 +5008,8 @@
       "Monsties": [
         "Lv25 Tigrex",
         "Lv26 Brute Tigrex"
-      ]
+      ],
+      "id": 293
     },
     {
       "Category": "Active",
@@ -4727,7 +5021,8 @@
       "Action Speed": "0",
       "Effect": "Critical Down [5] (70%)",
       "Genes": [],
-      "Monsties": []
+      "Monsties": [],
+      "id": 294
     },
     {
       "Category": "Active",
@@ -4744,7 +5039,8 @@
         "Lv1 Brute Tigrex",
         "Lv23 Black Diablos",
         "Lv49 Molten Tigrex"
-      ]
+      ],
+      "id": 295
     },
     {
       "Category": "Active",
@@ -4759,7 +5055,8 @@
       ],
       "Monsties": [
         "Lv1 Molten Tigrex"
-      ]
+      ],
+      "id": 296
     },
     {
       "Category": "Active",
@@ -4773,7 +5070,8 @@
       "Genes": [],
       "Monsties": [
         "Lv40 Molten Tigrex"
-      ]
+      ],
+      "id": 297
     },
     {
       "Category": "Active",
@@ -4788,7 +5086,8 @@
       "Monsties": [
         "Lv12",
         "Lv15 Nargacuga"
-      ]
+      ],
+      "id": 298
     },
     {
       "Category": "Active",
@@ -4802,7 +5101,8 @@
       "Monsties": [
         "Lv30 Green Nargacuga",
         "Lv38 Nargacuga"
-      ]
+      ],
+      "id": 299
     },
     {
       "Category": "Active",
@@ -4816,7 +5116,8 @@
       "Genes": [],
       "Monsties": [
         "Lv30 Nargacuga"
-      ]
+      ],
+      "id": 300
     },
     {
       "Category": "Active",
@@ -4828,7 +5129,8 @@
       "Action Speed": "0",
       "Effect": "",
       "Genes": [],
-      "Monsties": []
+      "Monsties": [],
+      "id": 301
     },
     {
       "Category": "Active",
@@ -4845,7 +5147,8 @@
       "Monsties": [
         "Lv1 Rathian",
         "Lv1"
-      ]
+      ],
+      "id": 302
     },
     {
       "Category": "Active",
@@ -4866,7 +5169,8 @@
         "Lv15",
         "Lv15",
         "Lv28"
-      ]
+      ],
+      "id": 303
     },
     {
       "Category": "Active",
@@ -4886,7 +5190,8 @@
         "Lv8 Pink Rathian",
         "Lv22 Yian Garuga",
         "Lv34 Rathian"
-      ]
+      ],
+      "id": 304
     },
     {
       "Category": "Active",
@@ -4898,7 +5203,8 @@
       "Action Speed": "0",
       "Effect": "Poison (80%)",
       "Genes": [],
-      "Monsties": []
+      "Monsties": [],
+      "id": 305
     },
     {
       "Category": "Active",
@@ -4914,7 +5220,8 @@
       ],
       "Monsties": [
         "Lv1 Pink Rathian"
-      ]
+      ],
+      "id": 306
     },
     {
       "Category": "Active",
@@ -4928,7 +5235,8 @@
       "Monsties": [
         "Lv15 Gold Rathian",
         "Lv37 Pink Rathian"
-      ]
+      ],
+      "id": 307
     },
     {
       "Category": "Active",
@@ -4948,7 +5256,8 @@
         "Lv1",
         "Lv1",
         "Lv1"
-      ]
+      ],
+      "id": 308
     },
     {
       "Category": "Active",
@@ -4966,7 +5275,8 @@
         "Lv32",
         "Lv32",
         "Lv40"
-      ]
+      ],
+      "id": 309
     },
     {
       "Category": "Active",
@@ -4980,7 +5290,8 @@
       "Genes": [],
       "Monsties": [
         "Lv30 Azure Rathalos"
-      ]
+      ],
+      "id": 310
     },
     {
       "Category": "Active",
@@ -4996,7 +5307,8 @@
       ],
       "Monsties": [
         "Lv1 Silver Rathalos"
-      ]
+      ],
+      "id": 311
     },
     {
       "Category": "Active",
@@ -5010,7 +5322,8 @@
       "Genes": [],
       "Monsties": [
         "Lv30 Silver Rathalos"
-      ]
+      ],
+      "id": 312
     },
     {
       "Category": "Active",
@@ -5024,7 +5337,8 @@
       "Genes": [],
       "Monsties": [
         "Lv12 Diablos"
-      ]
+      ],
+      "id": 313
     },
     {
       "Category": "Active",
@@ -5039,7 +5353,8 @@
         "Lv18 White Monoblos",
         "Lv24 Diablos",
         "Lv33 Cephadrome"
-      ]
+      ],
+      "id": 314
     },
     {
       "Category": "Active",
@@ -5054,7 +5369,8 @@
       ],
       "Monsties": [
         "Lv1 Black Diablos"
-      ]
+      ],
+      "id": 315
     },
     {
       "Category": "Active",
@@ -5065,7 +5381,8 @@
       "Action Speed": "0",
       "Effect": "Dug In (100%)",
       "Genes": [],
-      "Monsties": []
+      "Monsties": [],
+      "id": 316
     },
     {
       "Category": "Active",
@@ -5076,7 +5393,8 @@
       "Action Speed": "0",
       "Effect": "Critical Up [100] (100%)",
       "Genes": [],
-      "Monsties": []
+      "Monsties": [],
+      "id": 317
     },
     {
       "Category": "Active",
@@ -5090,7 +5408,8 @@
       "Genes": [],
       "Monsties": [
         "Lv30 Black Diablos"
-      ]
+      ],
+      "id": 318
     },
     {
       "Category": "Active",
@@ -5104,7 +5423,8 @@
       "Genes": [],
       "Monsties": [
         "Lv10 Monoblos"
-      ]
+      ],
+      "id": 319
     },
     {
       "Category": "Active",
@@ -5118,7 +5438,8 @@
       "Genes": [],
       "Monsties": [
         "Lv15 Monoblos"
-      ]
+      ],
+      "id": 320
     },
     {
       "Category": "Active",
@@ -5132,7 +5453,8 @@
       "Genes": [],
       "Monsties": [
         "Lv20 Monoblos"
-      ]
+      ],
+      "id": 321
     },
     {
       "Category": "Active",
@@ -5146,7 +5468,8 @@
       "Genes": [],
       "Monsties": [
         "Lv24 White Monoblos"
-      ]
+      ],
+      "id": 322
     },
     {
       "Category": "Active",
@@ -5160,7 +5483,8 @@
       "Genes": [],
       "Monsties": [
         "Lv10 White Monoblos"
-      ]
+      ],
+      "id": 323
     },
     {
       "Category": "Active",
@@ -5175,7 +5499,8 @@
       "Monsties": [
         "Lv30 Ruby Basarios",
         "Lv37 Basarios"
-      ]
+      ],
+      "id": 324
     },
     {
       "Category": "Active",
@@ -5191,7 +5516,8 @@
       ],
       "Monsties": [
         "Lv1 Gravios"
-      ]
+      ],
+      "id": 325
     },
     {
       "Category": "Active",
@@ -5205,7 +5531,8 @@
       "Genes": [],
       "Monsties": [
         "Lv8 Gravios"
-      ]
+      ],
+      "id": 326
     },
     {
       "Category": "Active",
@@ -5220,7 +5547,8 @@
       ],
       "Monsties": [
         "Lv1 Black Gravios"
-      ]
+      ],
+      "id": 327
     },
     {
       "Category": "Active",
@@ -5232,7 +5560,8 @@
       "Action Speed": "0",
       "Effect": "Burn (80%)",
       "Genes": [],
-      "Monsties": []
+      "Monsties": [],
+      "id": 328
     },
     {
       "Category": "Active",
@@ -5246,7 +5575,8 @@
       "Genes": [],
       "Monsties": [
         "Lv30 Black Gravios"
-      ]
+      ],
+      "id": 329
     },
     {
       "Category": "Active",
@@ -5260,7 +5590,8 @@
       "Genes": [],
       "Monsties": [
         "Lv18 Qurupeco"
-      ]
+      ],
+      "id": 330
     },
     {
       "Category": "Active",
@@ -5274,7 +5605,8 @@
       "Genes": [],
       "Monsties": [
         "Lv9 Crimson Qurupeco"
-      ]
+      ],
+      "id": 331
     },
     {
       "Category": "Active",
@@ -5287,7 +5619,8 @@
       "Genes": [],
       "Monsties": [
         "Lv20 Royal Ludroth"
-      ]
+      ],
+      "id": 332
     },
     {
       "Category": "Active",
@@ -5301,7 +5634,8 @@
       "Genes": [],
       "Monsties": [
         "Lv30 Royal Ludroth"
-      ]
+      ],
+      "id": 333
     },
     {
       "Category": "Active",
@@ -5317,7 +5651,8 @@
       ],
       "Monsties": [
         "Lv1 Purple Ludroth"
-      ]
+      ],
+      "id": 334
     },
     {
       "Category": "Active",
@@ -5331,7 +5666,8 @@
       "Genes": [],
       "Monsties": [
         "Lv30 Purple Ludroth"
-      ]
+      ],
+      "id": 335
     },
     {
       "Category": "Active",
@@ -5346,7 +5682,8 @@
       ],
       "Monsties": [
         "Lv1 Congalala"
-      ]
+      ],
+      "id": 336
     },
     {
       "Category": "Active",
@@ -5361,7 +5698,8 @@
       "Monsties": [
         "Lv10 Emerald Congalala",
         "Lv14 Congalala"
-      ]
+      ],
+      "id": 337
     },
     {
       "Category": "Active",
@@ -5375,7 +5713,8 @@
       "Monsties": [
         "Lv24 Congalala",
         "Lv35 Emerald Congalala"
-      ]
+      ],
+      "id": 338
     },
     {
       "Category": "Active",
@@ -5390,7 +5729,8 @@
       ],
       "Monsties": [
         "Lv1 Emerald Congalala"
-      ]
+      ],
+      "id": 339
     },
     {
       "Category": "Active",
@@ -5406,7 +5746,8 @@
       ],
       "Monsties": [
         "Lv1 Nerscylla"
-      ]
+      ],
+      "id": 340
     },
     {
       "Category": "Active",
@@ -5420,7 +5761,8 @@
       "Genes": [],
       "Monsties": [
         "Lv24 Nerscylla"
-      ]
+      ],
+      "id": 341
     },
     {
       "Category": "Active",
@@ -5434,7 +5776,8 @@
       "Genes": [],
       "Monsties": [
         "Lv8 Nerscylla"
-      ]
+      ],
+      "id": 342
     },
     {
       "Category": "Active",
@@ -5448,7 +5791,8 @@
       "Genes": [],
       "Monsties": [
         "Lv30 Nerscylla"
-      ]
+      ],
+      "id": 343
     },
     {
       "Category": "Active",
@@ -5462,7 +5806,8 @@
       "Genes": [],
       "Monsties": [
         "Lv21 Shrouded Nerscylla"
-      ]
+      ],
+      "id": 344
     },
     {
       "Category": "Active",
@@ -5478,7 +5823,8 @@
       ],
       "Monsties": [
         "Lv1 Cephadrome"
-      ]
+      ],
+      "id": 345
     },
     {
       "Category": "Active",
@@ -5492,7 +5838,8 @@
       "Genes": [],
       "Monsties": [
         "Lv21 Cephadrome"
-      ]
+      ],
+      "id": 346
     },
     {
       "Category": "Active",
@@ -5509,7 +5856,8 @@
       "Monsties": [
         "Lv1 Barioth",
         "Lv1"
-      ]
+      ],
+      "id": 347
     },
     {
       "Category": "Active",
@@ -5524,7 +5872,8 @@
       "Monsties": [
         "Lv10 Barioth",
         "Lv10"
-      ]
+      ],
+      "id": 348
     },
     {
       "Category": "Active",
@@ -5539,7 +5888,8 @@
       ],
       "Monsties": [
         "Lv1 Sand Barioth"
-      ]
+      ],
+      "id": 349
     },
     {
       "Category": "Active",
@@ -5553,7 +5903,8 @@
       "Genes": [],
       "Monsties": [
         "Lv23 Sand Barioth"
-      ]
+      ],
+      "id": 350
     },
     {
       "Category": "Active",
@@ -5565,7 +5916,8 @@
       "Action Speed": "0",
       "Effect": "",
       "Genes": [],
-      "Monsties": []
+      "Monsties": [],
+      "id": 351
     },
     {
       "Category": "Active",
@@ -5581,7 +5933,8 @@
       ],
       "Monsties": [
         "Lv1 Barroth"
-      ]
+      ],
+      "id": 352
     },
     {
       "Category": "Active",
@@ -5597,7 +5950,8 @@
         "Lv9 Barroth",
         "Lv9 Jade Barroth",
         "Lv10 Oroshi Kirin"
-      ]
+      ],
+      "id": 353
     },
     {
       "Category": "Active",
@@ -5609,7 +5963,8 @@
       "Action Speed": "0",
       "Effect": "Skillseal (60%)",
       "Genes": [],
-      "Monsties": []
+      "Monsties": [],
+      "id": 354
     },
     {
       "Category": "Active",
@@ -5623,7 +5978,8 @@
       "Genes": [],
       "Monsties": [
         "Lv14 Uragaan"
-      ]
+      ],
+      "id": 355
     },
     {
       "Category": "Active",
@@ -5636,7 +5992,8 @@
       "Genes": [],
       "Monsties": [
         "Lv22 Uragaan"
-      ]
+      ],
+      "id": 356
     },
     {
       "Category": "Active",
@@ -5652,7 +6009,8 @@
       ],
       "Monsties": [
         "Lv1 Deviljho"
-      ]
+      ],
+      "id": 357
     },
     {
       "Category": "Active",
@@ -5666,7 +6024,8 @@
       "Genes": [],
       "Monsties": [
         "Lv20 Deviljho"
-      ]
+      ],
+      "id": 358
     },
     {
       "Category": "Active",
@@ -5682,7 +6041,8 @@
       ],
       "Monsties": [
         "Lv1 Great Jaggi"
-      ]
+      ],
+      "id": 359
     },
     {
       "Category": "Active",
@@ -5696,7 +6056,8 @@
       "Genes": [],
       "Monsties": [
         "Lv8 Great Jaggi"
-      ]
+      ],
+      "id": 360
     },
     {
       "Category": "Active",
@@ -5710,7 +6071,8 @@
       "Genes": [],
       "Monsties": [
         "Lv14 Great Jaggi"
-      ]
+      ],
+      "id": 361
     },
     {
       "Category": "Active",
@@ -5724,7 +6086,8 @@
       "Genes": [],
       "Monsties": [
         "Lv20 Great Jaggi"
-      ]
+      ],
+      "id": 362
     },
     {
       "Category": "Active",
@@ -5738,7 +6101,8 @@
       "Genes": [],
       "Monsties": [
         "Lv8 Great Baggi"
-      ]
+      ],
+      "id": 363
     },
     {
       "Category": "Active",
@@ -5752,7 +6116,8 @@
       "Genes": [],
       "Monsties": [
         "Lv14 Great Baggi"
-      ]
+      ],
+      "id": 364
     },
     {
       "Category": "Active",
@@ -5766,7 +6131,8 @@
       "Genes": [],
       "Monsties": [
         "Lv20 Great Baggi"
-      ]
+      ],
+      "id": 365
     },
     {
       "Category": "Active",
@@ -5782,7 +6148,8 @@
       ],
       "Monsties": [
         "Lv1 Kecha Wacha"
-      ]
+      ],
+      "id": 366
     },
     {
       "Category": "Active",
@@ -5797,7 +6164,8 @@
       "Monsties": [
         "Lv13 Kecha Wacha",
         "Lv18 Ash Kecha Wacha"
-      ]
+      ],
+      "id": 367
     },
     {
       "Category": "Active",
@@ -5813,7 +6181,8 @@
       ],
       "Monsties": [
         "Lv1 Ash Kecha Wacha"
-      ]
+      ],
+      "id": 368
     },
     {
       "Category": "Active",
@@ -5827,7 +6196,8 @@
       "Genes": [],
       "Monsties": [
         "Lv28 Ash Kecha Wacha"
-      ]
+      ],
+      "id": 369
     },
     {
       "Category": "Active",
@@ -5841,7 +6211,8 @@
       "Genes": [],
       "Monsties": [
         "Lv8 Zinogre"
-      ]
+      ],
+      "id": 370
     },
     {
       "Category": "Active",
@@ -5855,7 +6226,8 @@
       "Genes": [],
       "Monsties": [
         "Lv30 Zinogre"
-      ]
+      ],
+      "id": 371
     },
     {
       "Category": "Active",
@@ -5869,7 +6241,8 @@
       "Genes": [],
       "Monsties": [
         "Lv16 Zinogre"
-      ]
+      ],
+      "id": 372
     },
     {
       "Category": "Active",
@@ -5883,7 +6256,8 @@
       "Genes": [],
       "Monsties": [
         "Lv8 Stygian Zinogre"
-      ]
+      ],
+      "id": 373
     },
     {
       "Category": "Active",
@@ -5897,7 +6271,8 @@
       "Genes": [],
       "Monsties": [
         "Lv15 Stygian Zinogre"
-      ]
+      ],
+      "id": 374
     },
     {
       "Category": "Active",
@@ -5911,7 +6286,8 @@
       "Genes": [],
       "Monsties": [
         "Lv30 Stygian Zinogre"
-      ]
+      ],
+      "id": 375
     },
     {
       "Category": "Active",
@@ -5927,7 +6303,8 @@
       ],
       "Monsties": [
         "Lv1 Lagiacrus"
-      ]
+      ],
+      "id": 376
     },
     {
       "Category": "Active",
@@ -5941,7 +6318,8 @@
       "Genes": [],
       "Monsties": [
         "Lv11 Lagiacrus"
-      ]
+      ],
+      "id": 377
     },
     {
       "Category": "Active",
@@ -5956,7 +6334,8 @@
       "Monsties": [
         "Lv16 Ivory Lagiacrus",
         "Lv30 Lagiacrus"
-      ]
+      ],
+      "id": 378
     },
     {
       "Category": "Active",
@@ -5968,7 +6347,8 @@
       "Action Speed": "0",
       "Effect": "",
       "Genes": [],
-      "Monsties": []
+      "Monsties": [],
+      "id": 379
     },
     {
       "Category": "Active",
@@ -5980,7 +6360,8 @@
       "Action Speed": "0",
       "Effect": "Paralysis (40%)",
       "Genes": [],
-      "Monsties": []
+      "Monsties": [],
+      "id": 380
     },
     {
       "Category": "Active",
@@ -5996,7 +6377,8 @@
       ],
       "Monsties": [
         "Lv1 Ivory Lagiacrus"
-      ]
+      ],
+      "id": 381
     },
     {
       "Category": "Active",
@@ -6010,7 +6392,8 @@
       "Genes": [],
       "Monsties": [
         "Lv11 Ivory Lagiacrus"
-      ]
+      ],
+      "id": 382
     },
     {
       "Category": "Active",
@@ -6026,7 +6409,8 @@
       ],
       "Monsties": [
         "Lv1 Brachydios"
-      ]
+      ],
+      "id": 383
     },
     {
       "Category": "Active",
@@ -6039,7 +6423,8 @@
       "Genes": [],
       "Monsties": [
         "Lv28 Brachydios"
-      ]
+      ],
+      "id": 384
     },
     {
       "Category": "Active",
@@ -6055,7 +6440,8 @@
       ],
       "Monsties": [
         "Lv1 Kirin"
-      ]
+      ],
+      "id": 385
     },
     {
       "Category": "Active",
@@ -6069,7 +6455,8 @@
       "Genes": [],
       "Monsties": [
         "Lv20 Kirin"
-      ]
+      ],
+      "id": 386
     },
     {
       "Category": "Active",
@@ -6083,7 +6470,8 @@
       "Genes": [],
       "Monsties": [
         "Lv30 Kirin"
-      ]
+      ],
+      "id": 387
     },
     {
       "Category": "Active",
@@ -6099,7 +6487,8 @@
       ],
       "Monsties": [
         "Lv1 Oroshi Kirin"
-      ]
+      ],
+      "id": 388
     },
     {
       "Category": "Active",
@@ -6113,7 +6502,8 @@
       "Genes": [],
       "Monsties": [
         "Lv20 Oroshi Kirin"
-      ]
+      ],
+      "id": 389
     },
     {
       "Category": "Active",
@@ -6129,7 +6519,8 @@
       ],
       "Monsties": [
         "Lv1 Seregios"
-      ]
+      ],
+      "id": 390
     },
     {
       "Category": "Active",
@@ -6142,7 +6533,8 @@
       "Genes": [],
       "Monsties": [
         "Lv35 Seregios"
-      ]
+      ],
+      "id": 391
     },
     {
       "Category": "Active",
@@ -6156,7 +6548,8 @@
       "Genes": [],
       "Monsties": [
         "Lv15 Seregios"
-      ]
+      ],
+      "id": 392
     },
     {
       "Category": "Active",
@@ -6168,7 +6561,8 @@
       "Action Speed": "0",
       "Effect": "Burn (40%)",
       "Genes": [],
-      "Monsties": []
+      "Monsties": [],
+      "id": 393
     },
     {
       "Category": "Active",
@@ -6180,7 +6574,8 @@
       "Action Speed": "0",
       "Effect": "",
       "Genes": [],
-      "Monsties": []
+      "Monsties": [],
+      "id": 394
     },
     {
       "Category": "Active",
@@ -6192,7 +6587,8 @@
       "Action Speed": "0",
       "Effect": "Defense Down [20] (75%)",
       "Genes": [],
-      "Monsties": []
+      "Monsties": [],
+      "id": 395
     },
     {
       "Category": "Active",
@@ -6203,7 +6599,8 @@
       "Action Speed": "0",
       "Effect": "Guard (100%)",
       "Genes": [],
-      "Monsties": []
+      "Monsties": [],
+      "id": 396
     },
     {
       "Category": "Active",
@@ -6214,7 +6611,8 @@
       "Action Speed": "0",
       "Effect": "",
       "Genes": [],
-      "Monsties": []
+      "Monsties": [],
+      "id": 397
     },
     {
       "Category": "Active",
@@ -6226,7 +6624,8 @@
       "Action Speed": "0",
       "Effect": "Paralysis (35%)",
       "Genes": [],
-      "Monsties": []
+      "Monsties": [],
+      "id": 398
     },
     {
       "Category": "Active",
@@ -6237,7 +6636,8 @@
       "Action Speed": "-3",
       "Effect": "Death (100%)",
       "Genes": [],
-      "Monsties": []
+      "Monsties": [],
+      "id": 399
     },
     {
       "Category": "Active",
@@ -6249,7 +6649,8 @@
       "Action Speed": "0",
       "Effect": "Paralysis (35%)",
       "Genes": [],
-      "Monsties": []
+      "Monsties": [],
+      "id": 400
     },
     {
       "Category": "Active",
@@ -6261,7 +6662,8 @@
       "Action Speed": "0",
       "Effect": "Critical Down [5] (35%)",
       "Genes": [],
-      "Monsties": []
+      "Monsties": [],
+      "id": 401
     },
     {
       "Category": "Active",
@@ -6272,7 +6674,8 @@
       "Action Speed": "0",
       "Effect": "Paralysis (40%)",
       "Genes": [],
-      "Monsties": []
+      "Monsties": [],
+      "id": 402
     },
     {
       "Category": "Active",
@@ -6283,7 +6686,8 @@
       "Action Speed": "0",
       "Effect": "",
       "Genes": [],
-      "Monsties": []
+      "Monsties": [],
+      "id": 403
     },
     {
       "Category": "Active",
@@ -6295,7 +6699,8 @@
       "Action Speed": "+2",
       "Effect": "",
       "Genes": [],
-      "Monsties": []
+      "Monsties": [],
+      "id": 404
     },
     {
       "Category": "Active",
@@ -6307,7 +6712,8 @@
       "Action Speed": "0",
       "Effect": "Paralysis (50%)",
       "Genes": [],
-      "Monsties": []
+      "Monsties": [],
+      "id": 405
     },
     {
       "Category": "Active",
@@ -6318,7 +6724,8 @@
       "Action Speed": "0",
       "Effect": "(100%)",
       "Genes": [],
-      "Monsties": []
+      "Monsties": [],
+      "id": 406
     },
     {
       "Category": "Active",
@@ -6330,7 +6737,8 @@
       "Action Speed": "0",
       "Effect": "Blastblight [5] (80%)",
       "Genes": [],
-      "Monsties": []
+      "Monsties": [],
+      "id": 407
     },
     {
       "Category": "Active",
@@ -6342,7 +6750,8 @@
       "Action Speed": "0",
       "Effect": "Blastblight (100%)",
       "Genes": [],
-      "Monsties": []
+      "Monsties": [],
+      "id": 408
     },
     {
       "Category": "Active",
@@ -6354,7 +6763,8 @@
       "Action Speed": "0",
       "Effect": "Blastblight [5] (100%)",
       "Genes": [],
-      "Monsties": []
+      "Monsties": [],
+      "id": 409
     },
     {
       "Category": "Active",
@@ -6366,7 +6776,8 @@
       "Action Speed": "0",
       "Effect": "",
       "Genes": [],
-      "Monsties": []
+      "Monsties": [],
+      "id": 410
     },
     {
       "Category": "Active",
@@ -6377,7 +6788,8 @@
       "Action Speed": "0",
       "Effect": "",
       "Genes": [],
-      "Monsties": []
+      "Monsties": [],
+      "id": 411
     },
     {
       "Category": "Active",
@@ -6389,7 +6801,8 @@
       "Action Speed": "0",
       "Effect": "Critical Down [5] (70%)",
       "Genes": [],
-      "Monsties": []
+      "Monsties": [],
+      "id": 412
     },
     {
       "Category": "Active",
@@ -6400,7 +6813,8 @@
       "Action Speed": "0",
       "Effect": "",
       "Genes": [],
-      "Monsties": []
+      "Monsties": [],
+      "id": 413
     },
     {
       "Category": "Active",
@@ -6412,7 +6826,8 @@
       "Action Speed": "0",
       "Effect": "Burn (70%)",
       "Genes": [],
-      "Monsties": []
+      "Monsties": [],
+      "id": 414
     },
     {
       "Category": "Active",
@@ -6424,7 +6839,8 @@
       "Action Speed": "0",
       "Effect": "Paralysis (70%)",
       "Genes": [],
-      "Monsties": []
+      "Monsties": [],
+      "id": 415
     },
     {
       "Category": "Active",
@@ -6436,7 +6852,8 @@
       "Action Speed": "0",
       "Effect": "Skillseal (70%)",
       "Genes": [],
-      "Monsties": []
+      "Monsties": [],
+      "id": 416
     },
     {
       "Category": "Active",
@@ -6447,7 +6864,8 @@
       "Action Speed": "0",
       "Effect": "",
       "Genes": [],
-      "Monsties": []
+      "Monsties": [],
+      "id": 417
     },
     {
       "Category": "Active",
@@ -6458,7 +6876,8 @@
       "Action Speed": "0",
       "Effect": "",
       "Genes": [],
-      "Monsties": []
+      "Monsties": [],
+      "id": 418
     },
     {
       "Category": "Active",
@@ -6469,7 +6888,8 @@
       "Action Speed": "0",
       "Effect": "",
       "Genes": [],
-      "Monsties": []
+      "Monsties": [],
+      "id": 419
     },
     {
       "Category": "Active",
@@ -6480,7 +6900,8 @@
       "Action Speed": "0",
       "Effect": "",
       "Genes": [],
-      "Monsties": []
+      "Monsties": [],
+      "id": 420
     },
     {
       "Category": "Active",
@@ -6491,7 +6912,8 @@
       "Action Speed": "0",
       "Effect": "",
       "Genes": [],
-      "Monsties": []
+      "Monsties": [],
+      "id": 421
     },
     {
       "Category": "Active",
@@ -6503,7 +6925,8 @@
       "Action Speed": "0",
       "Effect": "Burn (75%)",
       "Genes": [],
-      "Monsties": []
+      "Monsties": [],
+      "id": 422
     },
     {
       "Category": "Active",
@@ -6514,7 +6937,8 @@
       "Action Speed": "0",
       "Effect": "Bleeding (75%)",
       "Genes": [],
-      "Monsties": []
+      "Monsties": [],
+      "id": 423
     },
     {
       "Category": "Active",
@@ -6525,7 +6949,8 @@
       "Action Speed": "0",
       "Effect": "Attack Down [20] (100%)",
       "Genes": [],
-      "Monsties": []
+      "Monsties": [],
+      "id": 424
     },
     {
       "Category": "Active",
@@ -6537,7 +6962,8 @@
       "Action Speed": "0",
       "Effect": "",
       "Genes": [],
-      "Monsties": []
+      "Monsties": [],
+      "id": 425
     },
     {
       "Category": "Active",
@@ -6551,7 +6977,8 @@
       "Genes": [],
       "Monsties": [
         "Lv14 Yian Kut-Ku"
-      ]
+      ],
+      "id": 426
     },
     {
       "Category": "Active",
@@ -6563,7 +6990,8 @@
       "Action Speed": "0",
       "Effect": "Critical Up [50] (100%)",
       "Genes": [],
-      "Monsties": []
+      "Monsties": [],
+      "id": 427
     },
     {
       "Category": "Active",
@@ -6577,7 +7005,8 @@
       "Genes": [],
       "Monsties": [
         "Lv25 Gold Rathian"
-      ]
+      ],
+      "id": 428
     },
     {
       "Category": "Active",
@@ -6591,7 +7020,8 @@
       "Genes": [],
       "Monsties": [
         "Lv1"
-      ]
+      ],
+      "id": 429
     },
     {
       "Category": "Active",
@@ -6605,7 +7035,8 @@
       "Genes": [],
       "Monsties": [
         "Lv25"
-      ]
+      ],
+      "id": 430
     },
     {
       "Category": "Active",
@@ -6619,7 +7050,8 @@
       "Genes": [],
       "Monsties": [
         "Lv1"
-      ]
+      ],
+      "id": 431
     },
     {
       "Category": "Active",
@@ -6633,7 +7065,8 @@
       "Genes": [],
       "Monsties": [
         "Lv22"
-      ]
+      ],
+      "id": 432
     },
     {
       "Category": "Active",
@@ -6647,7 +7080,8 @@
       "Genes": [],
       "Monsties": [
         "Lv1"
-      ]
+      ],
+      "id": 433
     },
     {
       "Category": "Active",
@@ -6660,7 +7094,8 @@
       "Genes": [],
       "Monsties": [
         "Kinship Skill Aptonoth"
-      ]
+      ],
+      "id": 434
     },
     {
       "Category": "Active",
@@ -6674,7 +7109,8 @@
       "Genes": [],
       "Monsties": [
         "Kinship Skill Yian Kut-Ku"
-      ]
+      ],
+      "id": 435
     },
     {
       "Category": "Active",
@@ -6688,7 +7124,8 @@
       "Genes": [],
       "Monsties": [
         "Kinship Skill Blue Yian Kut-Ku"
-      ]
+      ],
+      "id": 436
     },
     {
       "Category": "Active",
@@ -6701,7 +7138,8 @@
       "Genes": [],
       "Monsties": [
         "Kinship Skill Velocidrome"
-      ]
+      ],
+      "id": 437
     },
     {
       "Category": "Active",
@@ -6714,7 +7152,8 @@
       "Genes": [],
       "Monsties": [
         "Kinship Skill Arzuros"
-      ]
+      ],
+      "id": 438
     },
     {
       "Category": "Active",
@@ -6727,7 +7166,8 @@
       "Genes": [],
       "Monsties": [
         "Kinship Skill Iodrome"
-      ]
+      ],
+      "id": 439
     },
     {
       "Category": "Active",
@@ -6741,7 +7181,8 @@
       "Genes": [],
       "Monsties": [
         "Kinship Skill Lagombi"
-      ]
+      ],
+      "id": 440
     },
     {
       "Category": "Active",
@@ -6755,7 +7196,8 @@
       "Genes": [],
       "Monsties": [
         "Kinship Skill Zamtrios"
-      ]
+      ],
+      "id": 441
     },
     {
       "Category": "Active",
@@ -6768,7 +7210,8 @@
       "Genes": [],
       "Monsties": [
         "Kinship Skill Tigrex"
-      ]
+      ],
+      "id": 442
     },
     {
       "Category": "Active",
@@ -6781,7 +7224,8 @@
       "Genes": [],
       "Monsties": [
         "Kinship Skill Bulldrome"
-      ]
+      ],
+      "id": 443
     },
     {
       "Category": "Active",
@@ -6795,7 +7239,8 @@
       "Genes": [],
       "Monsties": [
         "Kinship Skill Red Khezu"
-      ]
+      ],
+      "id": 444
     },
     {
       "Category": "Active",
@@ -6808,7 +7253,8 @@
       "Genes": [],
       "Monsties": [
         "Kinship Skill Popo"
-      ]
+      ],
+      "id": 445
     },
     {
       "Category": "Active",
@@ -6822,7 +7268,8 @@
       "Genes": [],
       "Monsties": [
         "Kinship Skill Khezu"
-      ]
+      ],
+      "id": 446
     },
     {
       "Category": "Active",
@@ -6836,7 +7283,8 @@
       "Genes": [],
       "Monsties": [
         "Kinship Skill Pink Rathian"
-      ]
+      ],
+      "id": 447
     },
     {
       "Category": "Active",
@@ -6849,7 +7297,8 @@
       "Genes": [],
       "Monsties": [
         "Kinship Skill Apceros"
-      ]
+      ],
+      "id": 448
     },
     {
       "Category": "Active",
@@ -6863,7 +7312,8 @@
       "Genes": [],
       "Monsties": [
         "Kinship Skill Qurupeco"
-      ]
+      ],
+      "id": 449
     },
     {
       "Category": "Active",
@@ -6876,7 +7326,8 @@
       "Genes": [],
       "Monsties": [
         "Kinship Skill Gendrome"
-      ]
+      ],
+      "id": 450
     },
     {
       "Category": "Active",
@@ -6891,7 +7342,8 @@
       "Monsties": [
         "Kinship Skill Rathian",
         "Kinship Skill"
-      ]
+      ],
+      "id": 451
     },
     {
       "Category": "Active",
@@ -6905,7 +7357,8 @@
       "Genes": [],
       "Monsties": [
         "Kinship Skill Royal Ludroth"
-      ]
+      ],
+      "id": 452
     },
     {
       "Category": "Active",
@@ -6918,7 +7371,8 @@
       "Genes": [],
       "Monsties": [
         "Kinship Skill Gypceros"
-      ]
+      ],
+      "id": 453
     },
     {
       "Category": "Active",
@@ -6931,7 +7385,8 @@
       "Genes": [],
       "Monsties": [
         "Kinship Skill Purple Gypceros"
-      ]
+      ],
+      "id": 454
     },
     {
       "Category": "Active",
@@ -6944,7 +7399,8 @@
       "Genes": [],
       "Monsties": [
         "Kinship Skill Nerscylla"
-      ]
+      ],
+      "id": 455
     },
     {
       "Category": "Active",
@@ -6957,7 +7413,8 @@
       "Genes": [],
       "Monsties": [
         "Kinship Skill Congalala"
-      ]
+      ],
+      "id": 456
     },
     {
       "Category": "Active",
@@ -6970,7 +7427,8 @@
       "Genes": [],
       "Monsties": [
         "Kinship Skill Emerald Congalala"
-      ]
+      ],
+      "id": 457
     },
     {
       "Category": "Active",
@@ -6983,7 +7441,8 @@
       "Genes": [],
       "Monsties": [
         "Kinship Skill Diablos"
-      ]
+      ],
+      "id": 458
     },
     {
       "Category": "Active",
@@ -6996,7 +7455,8 @@
       "Genes": [],
       "Monsties": [
         "Kinship Skill Black Diablos"
-      ]
+      ],
+      "id": 459
     },
     {
       "Category": "Active",
@@ -7009,7 +7469,8 @@
       "Genes": [],
       "Monsties": [
         "Kinship Skill Cephadrome"
-      ]
+      ],
+      "id": 460
     },
     {
       "Category": "Active",
@@ -7023,7 +7484,8 @@
       "Genes": [],
       "Monsties": [
         "Kinship Skill Barroth"
-      ]
+      ],
+      "id": 461
     },
     {
       "Category": "Active",
@@ -7036,7 +7498,8 @@
       "Genes": [],
       "Monsties": [
         "Kinship Skill Shrouded Nerscylla"
-      ]
+      ],
+      "id": 462
     },
     {
       "Category": "Active",
@@ -7052,7 +7515,8 @@
         "Kinship Skill",
         "Kinship Skill",
         "Kinship Skill"
-      ]
+      ],
+      "id": 463
     },
     {
       "Category": "Active",
@@ -7066,7 +7530,8 @@
       "Genes": [],
       "Monsties": [
         "Kinship Skill Basarios"
-      ]
+      ],
+      "id": 464
     },
     {
       "Category": "Active",
@@ -7080,7 +7545,8 @@
       "Genes": [],
       "Monsties": [
         "Kinship Skill Uragaan"
-      ]
+      ],
+      "id": 465
     },
     {
       "Category": "Active",
@@ -7094,7 +7560,8 @@
       "Genes": [],
       "Monsties": [
         "Kinship Skill Gravios"
-      ]
+      ],
+      "id": 466
     },
     {
       "Category": "Active",
@@ -7107,7 +7574,8 @@
       "Genes": [],
       "Monsties": [
         "Kinship Skill Brute Tigrex"
-      ]
+      ],
+      "id": 467
     },
     {
       "Category": "Active",
@@ -7120,7 +7588,8 @@
       "Genes": [],
       "Monsties": [
         "Kinship Skill Yian Garuga"
-      ]
+      ],
+      "id": 468
     },
     {
       "Category": "Active",
@@ -7134,7 +7603,8 @@
       "Genes": [],
       "Monsties": [
         "Kinship Skill Kecha Wacha"
-      ]
+      ],
+      "id": 469
     },
     {
       "Category": "Active",
@@ -7147,7 +7617,8 @@
       "Genes": [],
       "Monsties": [
         "Kinship Skill Great Jaggi"
-      ]
+      ],
+      "id": 470
     },
     {
       "Category": "Active",
@@ -7161,7 +7632,8 @@
       "Genes": [],
       "Monsties": [
         "Kinship Skill Purple Ludroth"
-      ]
+      ],
+      "id": 471
     },
     {
       "Category": "Active",
@@ -7175,7 +7647,8 @@
       "Genes": [],
       "Monsties": [
         "Kinship Skill Black Gravios"
-      ]
+      ],
+      "id": 472
     },
     {
       "Category": "Active",
@@ -7188,7 +7661,8 @@
       "Genes": [],
       "Monsties": [
         "Kinship Skill Nargacuga"
-      ]
+      ],
+      "id": 473
     },
     {
       "Category": "Active",
@@ -7201,7 +7675,8 @@
       "Genes": [],
       "Monsties": [
         "Kinship Skill Green Nargacuga"
-      ]
+      ],
+      "id": 474
     },
     {
       "Category": "Active",
@@ -7215,7 +7690,8 @@
       "Genes": [],
       "Monsties": [
         "Kinship Skill Ruby Basarios"
-      ]
+      ],
+      "id": 475
     },
     {
       "Category": "Active",
@@ -7229,7 +7705,8 @@
       "Genes": [],
       "Monsties": [
         "Kinship Skill Rathalos"
-      ]
+      ],
+      "id": 476
     },
     {
       "Category": "Active",
@@ -7243,7 +7720,8 @@
       "Genes": [],
       "Monsties": [
         "Kinship Skill Azure Rathalos"
-      ]
+      ],
+      "id": 477
     },
     {
       "Category": "Active",
@@ -7257,7 +7735,8 @@
       "Genes": [],
       "Monsties": [
         "Kinship Skill Ash Kecha Wacha"
-      ]
+      ],
+      "id": 478
     },
     {
       "Category": "Active",
@@ -7271,7 +7750,8 @@
       "Genes": [],
       "Monsties": [
         "Kinship Skill Zinogre"
-      ]
+      ],
+      "id": 479
     },
     {
       "Category": "Active",
@@ -7285,7 +7765,8 @@
       "Genes": [],
       "Monsties": [
         "Kinship Skill Lagiacrus"
-      ]
+      ],
+      "id": 480
     },
     {
       "Category": "Active",
@@ -7299,7 +7780,8 @@
       "Genes": [],
       "Monsties": [
         "Kinship Skill Ivory Lagiacrus"
-      ]
+      ],
+      "id": 481
     },
     {
       "Category": "Active",
@@ -7312,7 +7794,8 @@
       "Genes": [],
       "Monsties": [
         "Kinship Skill Great Baggi"
-      ]
+      ],
+      "id": 482
     },
     {
       "Category": "Active",
@@ -7327,7 +7810,8 @@
       "Monsties": [
         "Kinship Skill Barioth",
         "Kinship Skill"
-      ]
+      ],
+      "id": 483
     },
     {
       "Category": "Active",
@@ -7341,7 +7825,8 @@
       "Genes": [],
       "Monsties": [
         "Kinship Skill Jade Barroth"
-      ]
+      ],
+      "id": 484
     },
     {
       "Category": "Active",
@@ -7355,7 +7840,8 @@
       "Genes": [],
       "Monsties": [
         "Kinship Skill Crimson Qurupeco"
-      ]
+      ],
+      "id": 485
     },
     {
       "Category": "Active",
@@ -7369,7 +7855,8 @@
       "Genes": [],
       "Monsties": [
         "Kinship Skill Stygian Zinogre"
-      ]
+      ],
+      "id": 486
     },
     {
       "Category": "Active",
@@ -7383,7 +7870,8 @@
       "Genes": [],
       "Monsties": [
         "Kinship Skill Brachydios"
-      ]
+      ],
+      "id": 487
     },
     {
       "Category": "Active",
@@ -7396,7 +7884,8 @@
       "Genes": [],
       "Monsties": [
         "Kinship Skill Sand Barioth"
-      ]
+      ],
+      "id": 488
     },
     {
       "Category": "Active",
@@ -7409,7 +7898,8 @@
       "Genes": [],
       "Monsties": [
         "Kinship Skill The Great Poogie"
-      ]
+      ],
+      "id": 489
     },
     {
       "Category": "Active",
@@ -7423,7 +7913,8 @@
       "Genes": [],
       "Monsties": [
         "Kinship Skill Deviljho"
-      ]
+      ],
+      "id": 490
     },
     {
       "Category": "Active",
@@ -7437,7 +7928,8 @@
       "Genes": [],
       "Monsties": [
         "Kinship Skill Kirin"
-      ]
+      ],
+      "id": 491
     },
     {
       "Category": "Active",
@@ -7451,7 +7943,8 @@
       "Genes": [],
       "Monsties": [
         "Kinship Skill Oroshi Kirin"
-      ]
+      ],
+      "id": 492
     },
     {
       "Category": "Active",
@@ -7464,7 +7957,8 @@
       "Genes": [],
       "Monsties": [
         "Kinship Skill Seregios"
-      ]
+      ],
+      "id": 493
     },
     {
       "Category": "Active",
@@ -7477,7 +7971,8 @@
       "Genes": [],
       "Monsties": [
         "Kinship Skill Molten Tigrex"
-      ]
+      ],
+      "id": 494
     },
     {
       "Category": "Active",
@@ -7490,7 +7985,8 @@
       "Genes": [],
       "Monsties": [
         "Kinship Skill Monoblos"
-      ]
+      ],
+      "id": 495
     },
     {
       "Category": "Active",
@@ -7503,7 +7999,8 @@
       "Genes": [],
       "Monsties": [
         "Kinship Skill White Monoblos"
-      ]
+      ],
+      "id": 496
     },
     {
       "Category": "Active",
@@ -7517,7 +8014,8 @@
       "Genes": [],
       "Monsties": [
         "Kinship Skill Gold Rathian"
-      ]
+      ],
+      "id": 497
     },
     {
       "Category": "Active",
@@ -7531,7 +8029,8 @@
       "Genes": [],
       "Monsties": [
         "Kinship Skill Silver Rathalos"
-      ]
+      ],
+      "id": 498
     },
     {
       "Category": "Active",
@@ -7545,7 +8044,8 @@
       "Genes": [],
       "Monsties": [
         "Kinship Skill"
-      ]
+      ],
+      "id": 499
     },
     {
       "Category": "Active",
@@ -7558,7 +8058,8 @@
       "Genes": [],
       "Monsties": [
         "Kinship Skill"
-      ]
+      ],
+      "id": 500
     },
     {
       "Category": "Active",
@@ -7572,7 +8073,8 @@
       "Genes": [],
       "Monsties": [
         "Kinship Skill"
-      ]
+      ],
+      "id": 501
     },
     {
       "Category": "HP Recovery",
@@ -7583,7 +8085,8 @@
       "Action Speed": "+1",
       "Effect": "",
       "Genes": [],
-      "Monsties": []
+      "Monsties": [],
+      "id": 502
     },
     {
       "Category": "HP Recovery",
@@ -7601,7 +8104,8 @@
         "Khezu Flute",
         "Valkyrie Chordmkr+",
         "Gold Chordmaker+"
-      ]
+      ],
+      "id": 503
     },
     {
       "Category": "HP Recovery",
@@ -7615,7 +8119,8 @@
       "Monsties": [
         "Magia Charm",
         "Magia Charmbell"
-      ]
+      ],
+      "id": 504
     },
     {
       "Category": "HP Recovery",
@@ -7628,7 +8133,8 @@
       "Genes": [],
       "Monsties": [
         "Lv5 Aptonoth"
-      ]
+      ],
+      "id": 505
     },
     {
       "Category": "HP Recovery",
@@ -7641,7 +8147,8 @@
       "Genes": [],
       "Monsties": [
         "Lv11 Aptonoth"
-      ]
+      ],
+      "id": 506
     },
     {
       "Category": "HP Recovery",
@@ -7656,7 +8163,8 @@
       ],
       "Monsties": [
         "Lv1 Popo"
-      ]
+      ],
+      "id": 507
     },
     {
       "Category": "HP Recovery",
@@ -7669,7 +8177,8 @@
       "Genes": [],
       "Monsties": [
         "Lv15 Popo"
-      ]
+      ],
+      "id": 508
     },
     {
       "Category": "HP Recovery",
@@ -7684,7 +8193,8 @@
       ],
       "Monsties": [
         "Lv1 Arzuros"
-      ]
+      ],
+      "id": 509
     },
     {
       "Category": "HP Recovery",
@@ -7695,7 +8205,8 @@
       "Action Speed": "0",
       "Effect": "Regenerate [2] (100%)",
       "Genes": [],
-      "Monsties": []
+      "Monsties": [],
+      "id": 510
     },
     {
       "Category": "HP Recovery",
@@ -7710,7 +8221,8 @@
       ],
       "Monsties": [
         "Lv1 Qurupeco"
-      ]
+      ],
+      "id": 511
     },
     {
       "Category": "HP Recovery",
@@ -7723,7 +8235,8 @@
       "Genes": [],
       "Monsties": [
         "Lv34 Congalala"
-      ]
+      ],
+      "id": 512
     },
     {
       "Category": "HP Recovery",
@@ -7734,7 +8247,8 @@
       "Action Speed": "0",
       "Effect": "",
       "Genes": [],
-      "Monsties": []
+      "Monsties": [],
+      "id": 513
     },
     {
       "Category": "HP Recovery",
@@ -7745,7 +8259,8 @@
       "Action Speed": "0",
       "Effect": "",
       "Genes": [],
-      "Monsties": []
+      "Monsties": [],
+      "id": 514
     },
     {
       "Category": "Status Recovery",
@@ -7759,7 +8274,8 @@
       "Monsties": [
         "Sonic Glass",
         "Glass Queen"
-      ]
+      ],
+      "id": 515
     },
     {
       "Category": "Status Recovery",
@@ -7773,7 +8289,8 @@
       "Monsties": [
         "Agnakdion",
         "Brandoneon"
-      ]
+      ],
+      "id": 516
     },
     {
       "Category": "Status Recovery",
@@ -7787,7 +8304,8 @@
       "Monsties": [
         "Droth Drone",
         "Droth Roar"
-      ]
+      ],
+      "id": 517
     },
     {
       "Category": "Status Recovery",
@@ -7801,7 +8319,8 @@
       "Monsties": [
         "Zurogong Primo",
         "Zurogong Secundo"
-      ]
+      ],
+      "id": 518
     },
     {
       "Category": "Status Recovery",
@@ -7814,7 +8333,8 @@
       "Genes": [],
       "Monsties": [
         "Lv21 Aptonoth"
-      ]
+      ],
+      "id": 519
     },
     {
       "Category": "Status Recovery",
@@ -7827,7 +8347,8 @@
       "Genes": [],
       "Monsties": [
         "Lv30 Arzuros"
-      ]
+      ],
+      "id": 520
     },
     {
       "Category": "Status Recovery",
@@ -7838,7 +8359,8 @@
       "Action Speed": "0",
       "Effect": "",
       "Genes": [],
-      "Monsties": []
+      "Monsties": [],
+      "id": 521
     },
     {
       "Category": "Status Recovery",
@@ -7849,7 +8371,8 @@
       "Action Speed": "0",
       "Effect": "",
       "Genes": [],
-      "Monsties": []
+      "Monsties": [],
+      "id": 522
     },
     {
       "Category": "Status Recovery",
@@ -7860,7 +8383,8 @@
       "Action Speed": "0",
       "Effect": "",
       "Genes": [],
-      "Monsties": []
+      "Monsties": [],
+      "id": 523
     },
     {
       "Category": "Status Recovery",
@@ -7871,7 +8395,8 @@
       "Action Speed": "0",
       "Effect": "",
       "Genes": [],
-      "Monsties": []
+      "Monsties": [],
+      "id": 524
     },
     {
       "Category": "Status Reduction",
@@ -7883,7 +8408,8 @@
       "Action Speed": "0",
       "Effect": "Skillseal (40%)",
       "Genes": [],
-      "Monsties": []
+      "Monsties": [],
+      "id": 525
     },
     {
       "Category": "Status Reduction",
@@ -7902,7 +8428,8 @@
         "Tigrex Hammer",
         "Wolf Torrent",
         "Teddybear+"
-      ]
+      ],
+      "id": 526
     },
     {
       "Category": "Status Reduction",
@@ -7919,7 +8446,8 @@
         "Bull Head Hammer",
         "Pitohui Bird Mace",
         "Bull Tusk Hammer"
-      ]
+      ],
+      "id": 527
     },
     {
       "Category": "Status Reduction",
@@ -7936,7 +8464,8 @@
         "Jupiter's Sphere",
         "Basarios Bash",
         "Jupiter's Sphere+"
-      ]
+      ],
+      "id": 528
     },
     {
       "Category": "Status Reduction",
@@ -7950,7 +8479,8 @@
       "Monsties": [
         "Bone Horn",
         "Hardened Bone Hrn"
-      ]
+      ],
+      "id": 529
     },
     {
       "Category": "Status Reduction",
@@ -7964,7 +8494,8 @@
       "Monsties": [
         "Raven Shamisen",
         "Wolf Shamisen"
-      ]
+      ],
+      "id": 530
     },
     {
       "Category": "Status Reduction",
@@ -7978,7 +8509,8 @@
       "Monsties": [
         "Bariguiro",
         "Algiguiro"
-      ]
+      ],
+      "id": 531
     },
     {
       "Category": "Status Reduction",
@@ -7992,7 +8524,8 @@
       "Monsties": [
         "Fatalis Menace",
         "Fatalis Menace+"
-      ]
+      ],
+      "id": 532
     },
     {
       "Category": "Status Reduction",
@@ -8007,7 +8540,8 @@
       ],
       "Monsties": [
         "Lv1 Velocidrome"
-      ]
+      ],
+      "id": 533
     },
     {
       "Category": "Status Reduction",
@@ -8020,7 +8554,8 @@
       "Genes": [],
       "Monsties": [
         "Lv10 Gendrome"
-      ]
+      ],
+      "id": 534
     },
     {
       "Category": "Status Reduction",
@@ -8036,7 +8571,8 @@
       "Monsties": [
         "Lv1 Khezu",
         "Lv14"
-      ]
+      ],
+      "id": 535
     },
     {
       "Category": "Status Reduction",
@@ -8049,7 +8585,8 @@
       "Genes": [],
       "Monsties": [
         "Lv50 Gold Rathian"
-      ]
+      ],
+      "id": 536
     },
     {
       "Category": "Status Reduction",
@@ -8064,7 +8601,8 @@
       ],
       "Monsties": [
         "Lv1 Crimson Qurupeco"
-      ]
+      ],
+      "id": 537
     },
     {
       "Category": "Status Reduction",
@@ -8077,7 +8615,8 @@
       "Genes": [],
       "Monsties": [
         "Lv18 Crimson Qurupeco"
-      ]
+      ],
+      "id": 538
     },
     {
       "Category": "Status Reduction",
@@ -8088,7 +8627,8 @@
       "Action Speed": "0",
       "Effect": "",
       "Genes": [],
-      "Monsties": []
+      "Monsties": [],
+      "id": 539
     },
     {
       "Category": "Status Reduction",
@@ -8099,7 +8639,8 @@
       "Action Speed": "0",
       "Effect": "Defense Down [20] (75%)",
       "Genes": [],
-      "Monsties": []
+      "Monsties": [],
+      "id": 540
     },
     {
       "Category": "Status Reduction",
@@ -8112,7 +8653,8 @@
       "Genes": [],
       "Monsties": [
         "Lv27 Crimson Qurupeco"
-      ]
+      ],
+      "id": 541
     },
     {
       "Category": "Status Reduction",
@@ -8123,7 +8665,8 @@
       "Action Speed": "0",
       "Effect": "Attack Down [20] (75%)",
       "Genes": [],
-      "Monsties": []
+      "Monsties": [],
+      "id": 542
     },
     {
       "Category": "Status Reduction",
@@ -8134,7 +8677,8 @@
       "Action Speed": "0",
       "Effect": "Water Res Down [4] (75%)",
       "Genes": [],
-      "Monsties": []
+      "Monsties": [],
+      "id": 543
     },
     {
       "Category": "Buffs",
@@ -8145,7 +8689,8 @@
       "Action Speed": "0",
       "Effect": "Attack Up [25] (100%)",
       "Genes": [],
-      "Monsties": []
+      "Monsties": [],
+      "id": 544
     },
     {
       "Category": "Buffs",
@@ -8156,7 +8701,8 @@
       "Action Speed": "0",
       "Effect": "Recovery Up (100%)",
       "Genes": [],
-      "Monsties": []
+      "Monsties": [],
+      "id": 545
     },
     {
       "Category": "Buffs",
@@ -8167,7 +8713,8 @@
       "Action Speed": "0",
       "Effect": "Speed Down Defense Up [30] (100%)",
       "Genes": [],
-      "Monsties": []
+      "Monsties": [],
+      "id": 546
     },
     {
       "Category": "Buffs",
@@ -8178,7 +8725,8 @@
       "Action Speed": "+9",
       "Effect": "Attack Up [15] (100%)",
       "Genes": [],
-      "Monsties": []
+      "Monsties": [],
+      "id": 547
     },
     {
       "Category": "Buffs",
@@ -8189,7 +8737,8 @@
       "Action Speed": "0",
       "Effect": "Defense Up [25] (100%)",
       "Genes": [],
-      "Monsties": []
+      "Monsties": [],
+      "id": 548
     },
     {
       "Category": "Buffs",
@@ -8209,7 +8758,8 @@
         "Gigas Crusher",
         "Burning Prominar",
         "Glinting Glavenus"
-      ]
+      ],
+      "id": 549
     },
     {
       "Category": "Buffs",
@@ -8225,7 +8775,8 @@
         "Odyssey",
         "Ludroth Gear",
         "Odyssey Blade"
-      ]
+      ],
+      "id": 550
     },
     {
       "Category": "Buffs",
@@ -8245,7 +8796,8 @@
         "Banned Rajang Club",
         "Inazuma Works",
         "Ikazuchi Works"
-      ]
+      ],
+      "id": 551
     },
     {
       "Category": "Buffs",
@@ -8261,7 +8813,8 @@
         "Sharkutter",
         "Daora's Razor+",
         "Sharkgutter"
-      ]
+      ],
+      "id": 552
     },
     {
       "Category": "Buffs",
@@ -8277,7 +8830,8 @@
         "Fatalis Sword",
         "Eternal Hate",
         "Fatalis Sword+"
-      ]
+      ],
+      "id": 553
     },
     {
       "Category": "Buffs",
@@ -8288,7 +8842,8 @@
       "Action Speed": "+10",
       "Effect": "Protection [75] (100%)",
       "Genes": [],
-      "Monsties": []
+      "Monsties": [],
+      "id": 554
     },
     {
       "Category": "Buffs",
@@ -8299,7 +8854,8 @@
       "Action Speed": "0",
       "Effect": "Attack Up for next turn [75] (100%)",
       "Genes": [],
-      "Monsties": []
+      "Monsties": [],
+      "id": 555
     },
     {
       "Category": "Buffs",
@@ -8310,7 +8866,8 @@
       "Action Speed": "0",
       "Effect": "Defense Down [25] (100%)",
       "Genes": [],
-      "Monsties": []
+      "Monsties": [],
+      "id": 556
     },
     {
       "Category": "Buffs",
@@ -8326,7 +8883,8 @@
         "Denden Daiko",
         "Crusade Drum",
         "Denden Doomsoundr"
-      ]
+      ],
+      "id": 557
     },
     {
       "Category": "Buffs",
@@ -8340,7 +8898,8 @@
       "Monsties": [
         "Brazengaita",
         "Gigas Gaita"
-      ]
+      ],
+      "id": 558
     },
     {
       "Category": "Buffs",
@@ -8358,7 +8917,8 @@
         "Despot Thunderclap",
         "Kecha Kewhappa",
         "Cry in the Night"
-      ]
+      ],
+      "id": 559
     },
     {
       "Category": "Buffs",
@@ -8372,7 +8932,8 @@
       "Monsties": [
         "Beating Gunrock",
         "Fleeting Gunrock"
-      ]
+      ],
+      "id": 560
     },
     {
       "Category": "Buffs",
@@ -8386,7 +8947,8 @@
       "Monsties": [
         "Daora's Taus",
         "Daora's Taus+"
-      ]
+      ],
+      "id": 561
     },
     {
       "Category": "Buffs",
@@ -8400,7 +8962,8 @@
       "Monsties": [
         "Teostra's Tiple",
         "Teostra's Tiple+"
-      ]
+      ],
+      "id": 562
     },
     {
       "Category": "Buffs",
@@ -8413,7 +8976,8 @@
       "Genes": [],
       "Monsties": [
         "Lv29 Popo"
-      ]
+      ],
+      "id": 563
     },
     {
       "Category": "Buffs",
@@ -8430,7 +8994,8 @@
         "Lv1 Apceros",
         "Lv13 Arzuros",
         "Lv17"
-      ]
+      ],
+      "id": 564
     },
     {
       "Category": "Buffs",
@@ -8443,7 +9008,8 @@
       "Genes": [],
       "Monsties": [
         "Lv20 Velocidrome"
-      ]
+      ],
+      "id": 565
     },
     {
       "Category": "Buffs",
@@ -8459,7 +9025,8 @@
       "Monsties": [
         "Lv1 Diablos",
         "Lv7 Bulldrome"
-      ]
+      ],
+      "id": 566
     },
     {
       "Category": "Buffs",
@@ -8473,7 +9040,8 @@
       "Genes": [],
       "Monsties": [
         "Lv20 Zamtrios"
-      ]
+      ],
+      "id": 567
     },
     {
       "Category": "Buffs",
@@ -8487,7 +9055,8 @@
       "Genes": [],
       "Monsties": [
         "Lv22 Red Khezu"
-      ]
+      ],
+      "id": 568
     },
     {
       "Category": "Buffs",
@@ -8504,7 +9073,8 @@
         "Lv1 White Monoblos",
         "Lv30 Tigrex",
         "Lv36 Green Nargacuga"
-      ]
+      ],
+      "id": 569
     },
     {
       "Category": "Buffs",
@@ -8517,7 +9087,8 @@
       "Genes": [],
       "Monsties": [
         "Lv27 Molten Tigrex"
-      ]
+      ],
+      "id": 570
     },
     {
       "Category": "Buffs",
@@ -8532,7 +9103,8 @@
       ],
       "Monsties": [
         "Lv1 Nargacuga"
-      ]
+      ],
+      "id": 571
     },
     {
       "Category": "Buffs",
@@ -8545,7 +9117,8 @@
       "Genes": [],
       "Monsties": [
         "Lv8 Green Nargacuga"
-      ]
+      ],
+      "id": 572
     },
     {
       "Category": "Buffs",
@@ -8559,7 +9132,8 @@
       "Genes": [],
       "Monsties": [
         "Lv16 Pink Rathian"
-      ]
+      ],
+      "id": 573
     },
     {
       "Category": "Buffs",
@@ -8577,7 +9151,8 @@
         "Lv22",
         "Lv22",
         "Lv30 Sand Barioth"
-      ]
+      ],
+      "id": 574
     },
     {
       "Category": "Buffs",
@@ -8592,7 +9167,8 @@
       ],
       "Monsties": [
         "Lv1 Azure Rathalos"
-      ]
+      ],
+      "id": 575
     },
     {
       "Category": "Buffs",
@@ -8605,7 +9181,8 @@
       "Genes": [],
       "Monsties": [
         "Lv24 Azure Rathalos"
-      ]
+      ],
+      "id": 576
     },
     {
       "Category": "Buffs",
@@ -8618,7 +9195,8 @@
       "Genes": [],
       "Monsties": [
         "Lv17 Silver Rathalos"
-      ]
+      ],
+      "id": 577
     },
     {
       "Category": "Buffs",
@@ -8631,7 +9209,8 @@
       "Genes": [],
       "Monsties": [
         "Lv50 Silver Rathalos"
-      ]
+      ],
+      "id": 578
     },
     {
       "Category": "Buffs",
@@ -8649,7 +9228,8 @@
         "Lv10 Black Gravios",
         "Lv23 Ruby Basarios",
         "Lv23 Gravios"
-      ]
+      ],
+      "id": 579
     },
     {
       "Category": "Buffs",
@@ -8664,7 +9244,8 @@
       ],
       "Monsties": [
         "Lv1 Ruby Basarios"
-      ]
+      ],
+      "id": 580
     },
     {
       "Category": "Buffs",
@@ -8677,7 +9258,8 @@
       "Genes": [],
       "Monsties": [
         "Lv20 Black Gravios"
-      ]
+      ],
+      "id": 581
     },
     {
       "Category": "Buffs",
@@ -8690,7 +9272,8 @@
       "Genes": [],
       "Monsties": [
         "Lv25 Qurupeco"
-      ]
+      ],
+      "id": 582
     },
     {
       "Category": "Buffs",
@@ -8703,7 +9286,8 @@
       "Genes": [],
       "Monsties": [
         "Lv9 Qurupeco"
-      ]
+      ],
+      "id": 583
     },
     {
       "Category": "Buffs",
@@ -8716,7 +9300,8 @@
       "Genes": [],
       "Monsties": [
         "Lv20 Emerald Congalala"
-      ]
+      ],
+      "id": 584
     },
     {
       "Category": "Buffs",
@@ -8729,7 +9314,8 @@
       "Genes": [],
       "Monsties": [
         "Lv30 Barroth"
-      ]
+      ],
+      "id": 585
     },
     {
       "Category": "Buffs",
@@ -8743,7 +9329,8 @@
       "Genes": [],
       "Monsties": [
         "Lv20 Jade Barroth"
-      ]
+      ],
+      "id": 586
     },
     {
       "Category": "Buffs",
@@ -8756,7 +9343,8 @@
       "Genes": [],
       "Monsties": [
         "Lv12 Deviljho"
-      ]
+      ],
+      "id": 587
     },
     {
       "Category": "Buffs",
@@ -8769,7 +9357,8 @@
       "Genes": [],
       "Monsties": [
         "Lv8 Ash Kecha Wacha"
-      ]
+      ],
+      "id": 588
     },
     {
       "Category": "Buffs",
@@ -8785,7 +9374,8 @@
       ],
       "Monsties": [
         "Lv1 Zinogre"
-      ]
+      ],
+      "id": 589
     },
     {
       "Category": "Buffs",
@@ -8797,7 +9387,8 @@
       "Action Speed": "0",
       "Effect": "Thunder Attack and Accuracy Up [4] (100%)",
       "Genes": [],
-      "Monsties": []
+      "Monsties": [],
+      "id": 590
     },
     {
       "Category": "Buffs",
@@ -8813,7 +9404,8 @@
       ],
       "Monsties": [
         "Lv1 Stygian Zinogre"
-      ]
+      ],
+      "id": 591
     },
     {
       "Category": "Buffs",
@@ -8825,7 +9417,8 @@
       "Action Speed": "0",
       "Effect": "Dragon Attack and Accuracy Up [4] (100%)",
       "Genes": [],
-      "Monsties": []
+      "Monsties": [],
+      "id": 592
     },
     {
       "Category": "Buffs",
@@ -8837,7 +9430,8 @@
       "Action Speed": "0",
       "Effect": "(100%)",
       "Genes": [],
-      "Monsties": []
+      "Monsties": [],
+      "id": 593
     },
     {
       "Category": "Buffs",
@@ -8850,7 +9444,8 @@
       "Genes": [],
       "Monsties": [
         "Lv12 Brachydios"
-      ]
+      ],
+      "id": 594
     },
     {
       "Category": "Buffs",
@@ -8863,7 +9458,8 @@
       "Genes": [],
       "Monsties": [
         "Lv35 Kirin"
-      ]
+      ],
+      "id": 595
     },
     {
       "Category": "Buffs",
@@ -8874,7 +9470,8 @@
       "Action Speed": "0",
       "Effect": "(100%)",
       "Genes": [],
-      "Monsties": []
+      "Monsties": [],
+      "id": 596
     },
     {
       "Category": "Buffs",
@@ -8888,7 +9485,8 @@
       "Genes": [],
       "Monsties": [
         "Lv40 Oroshi Kirin"
-      ]
+      ],
+      "id": 597
     },
     {
       "Category": "Buffs",
@@ -8899,7 +9497,8 @@
       "Action Speed": "0",
       "Effect": "Attack Up [25] (100%)",
       "Genes": [],
-      "Monsties": []
+      "Monsties": [],
+      "id": 598
     },
     {
       "Category": "Buffs",
@@ -8911,7 +9510,8 @@
       "Action Speed": "0",
       "Effect": "Fire Res Up [5] (100%)",
       "Genes": [],
-      "Monsties": []
+      "Monsties": [],
+      "id": 599
     },
     {
       "Category": "Buffs",
@@ -8923,7 +9523,8 @@
       "Action Speed": "0",
       "Effect": "Water Res Up [5] (100%)",
       "Genes": [],
-      "Monsties": []
+      "Monsties": [],
+      "id": 600
     },
     {
       "Category": "Buffs",
@@ -8934,7 +9535,8 @@
       "Action Speed": "0",
       "Effect": "Defense Up [25] (100%)",
       "Genes": [],
-      "Monsties": []
+      "Monsties": [],
+      "id": 601
     },
     {
       "Category": "Buffs",
@@ -8945,7 +9547,8 @@
       "Action Speed": "0",
       "Effect": "Attack Up [25] (100%)",
       "Genes": [],
-      "Monsties": []
+      "Monsties": [],
+      "id": 602
     },
     {
       "Category": "Buffs",
@@ -8956,7 +9559,8 @@
       "Action Speed": "0",
       "Effect": "Defense Up [25] (100%)",
       "Genes": [],
-      "Monsties": []
+      "Monsties": [],
+      "id": 603
     },
     {
       "Category": "Buffs",
@@ -8967,7 +9571,8 @@
       "Action Speed": "0",
       "Effect": "Power Attack Up [25] (100%)",
       "Genes": [],
-      "Monsties": []
+      "Monsties": [],
+      "id": 604
     },
     {
       "Category": "Buffs",
@@ -8978,7 +9583,8 @@
       "Action Speed": "0",
       "Effect": "Technical Attack Up [25] (100%)",
       "Genes": [],
-      "Monsties": []
+      "Monsties": [],
+      "id": 605
     },
     {
       "Category": "Buffs",
@@ -8989,7 +9595,8 @@
       "Action Speed": "0",
       "Effect": "Speed Attack Up [25] (100%)",
       "Genes": [],
-      "Monsties": []
+      "Monsties": [],
+      "id": 606
     },
     {
       "Category": "Buffs",
@@ -9000,7 +9607,8 @@
       "Action Speed": "0",
       "Effect": "Wind Barrier (100%)",
       "Genes": [],
-      "Monsties": []
+      "Monsties": [],
+      "id": 607
     },
     {
       "Category": "Buffs",
@@ -9013,7 +9621,8 @@
       "Genes": [],
       "Monsties": [
         "Lv35"
-      ]
+      ],
+      "id": 608
     },
     {
       "Category": "Status Inflict",
@@ -9027,7 +9636,8 @@
       "Monsties": [
         "Dios Bell",
         "Napalm Bell"
-      ]
+      ],
+      "id": 609
     },
     {
       "Category": "Status Inflict",
@@ -9038,7 +9648,8 @@
       "Action Speed": "0",
       "Effect": "Powerseal (50%)",
       "Genes": [],
-      "Monsties": []
+      "Monsties": [],
+      "id": 610
     },
     {
       "Category": "Status Inflict",
@@ -9049,7 +9660,8 @@
       "Action Speed": "0",
       "Effect": "Speedseal (50%)",
       "Genes": [],
-      "Monsties": []
+      "Monsties": [],
+      "id": 611
     },
     {
       "Category": "Status Inflict",
@@ -9060,7 +9672,8 @@
       "Action Speed": "0",
       "Effect": "Techseal (50%)",
       "Genes": [],
-      "Monsties": []
+      "Monsties": [],
+      "id": 612
     },
     {
       "Category": "Status Inflict",
@@ -9071,7 +9684,8 @@
       "Action Speed": "0",
       "Effect": "",
       "Genes": [],
-      "Monsties": []
+      "Monsties": [],
+      "id": 613
     },
     {
       "Category": "Status Inflict",
@@ -9087,7 +9701,8 @@
       "Monsties": [
         "Lv1 Gypceros",
         "Lv10 Purple Gypceros"
-      ]
+      ],
+      "id": 614
     },
     {
       "Category": "Status Inflict",
@@ -9103,7 +9718,8 @@
       "Monsties": [
         "Lv1 Iodrome",
         "Lv8 Gypceros"
-      ]
+      ],
+      "id": 615
     },
     {
       "Category": "Status Inflict",
@@ -9118,7 +9734,8 @@
       ],
       "Monsties": [
         "Lv1 Purple Gypceros"
-      ]
+      ],
+      "id": 616
     },
     {
       "Category": "Status Inflict",
@@ -9131,7 +9748,8 @@
       "Genes": [],
       "Monsties": [
         "Lv20 Gendrome"
-      ]
+      ],
+      "id": 617
     },
     {
       "Category": "Status Inflict",
@@ -9144,7 +9762,8 @@
       "Genes": [],
       "Monsties": [
         "Lv19 Basarios"
-      ]
+      ],
+      "id": 618
     },
     {
       "Category": "Status Inflict",
@@ -9158,7 +9777,8 @@
       "Genes": [],
       "Monsties": [
         "Lv28 Basarios"
-      ]
+      ],
+      "id": 619
     },
     {
       "Category": "Status Inflict",
@@ -9172,7 +9792,8 @@
       "Monsties": [
         "Lv14 Ruby Basarios",
         "Lv35 Gravios"
-      ]
+      ],
+      "id": 620
     },
     {
       "Category": "Status Inflict",
@@ -9185,7 +9806,8 @@
       "Genes": [],
       "Monsties": [
         "Lv40 Ruby Basarios"
-      ]
+      ],
+      "id": 621
     },
     {
       "Category": "Status Inflict",
@@ -9202,7 +9824,8 @@
       "Monsties": [
         "Lv1 Royal Ludroth",
         "Lv21 Lagiacrus"
-      ]
+      ],
+      "id": 622
     },
     {
       "Category": "Status Inflict",
@@ -9215,7 +9838,8 @@
       "Genes": [],
       "Monsties": [
         "Lv10 Purple Ludroth"
-      ]
+      ],
+      "id": 623
     },
     {
       "Category": "Status Inflict",
@@ -9228,7 +9852,8 @@
       "Genes": [],
       "Monsties": [
         "Lv16 Nerscylla"
-      ]
+      ],
+      "id": 624
     },
     {
       "Category": "Status Inflict",
@@ -9243,7 +9868,8 @@
       ],
       "Monsties": [
         "Lv1 Great Baggi"
-      ]
+      ],
+      "id": 625
     },
     {
       "Category": "Status Inflict",
@@ -9256,7 +9882,8 @@
       "Genes": [],
       "Monsties": [
         "Lv20 Kecha Wacha"
-      ]
+      ],
+      "id": 626
     },
     {
       "Category": "Status Inflict",
@@ -9269,7 +9896,8 @@
       "Genes": [],
       "Monsties": [
         "Lv35 Brachydios"
-      ]
+      ],
+      "id": 627
     },
     {
       "Category": "Status Inflict",
@@ -9280,7 +9908,8 @@
       "Action Speed": "0",
       "Effect": "Attack Down [20] (100%)",
       "Genes": [],
-      "Monsties": []
+      "Monsties": [],
+      "id": 628
     },
     {
       "Category": "Status Inflict",
@@ -9291,7 +9920,8 @@
       "Action Speed": "0",
       "Effect": "(100%)",
       "Genes": [],
-      "Monsties": []
+      "Monsties": [],
+      "id": 629
     },
     {
       "Category": "Status Inflict",
@@ -9302,7 +9932,8 @@
       "Action Speed": "0",
       "Effect": "(100%)",
       "Genes": [],
-      "Monsties": []
+      "Monsties": [],
+      "id": 630
     },
     {
       "Category": "Status Inflict",
@@ -9313,6 +9944,7 @@
       "Action Speed": "0",
       "Effect": "(100%)",
       "Genes": [],
-      "Monsties": []
+      "Monsties": [],
+      "id": 631
     }
   ]
