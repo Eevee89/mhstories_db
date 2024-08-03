@@ -1,0 +1,740 @@
+[
+    {
+      "Title": "Hermitaur Repelling",
+      "Stars": 1,
+      "Target": "Slay 5 Hermitaur",
+      "Locale": "Pondry Hills etc.",
+      "Reward": "Whetstone x3",
+      "Zenny": "400z",
+      "EXP": "50EXP"
+    },
+    {
+      "Title": "Blue Menace",
+      "Stars": 1,
+      "Target": "Slay 7 Velociprey",
+      "Locale": "Pondry Hills etc.",
+      "Reward": "Smoke Bomb x2",
+      "Zenny": "500z",
+      "EXP": "50EXP"
+    },
+    {
+      "Title": "Rolling Panic",
+      "Stars": 1,
+      "Target": "Slay 5 Konchu (Yellow)",
+      "Locale": "Pondry Caves etc.",
+      "Reward": "Binoculars x3",
+      "Zenny": "400z",
+      "EXP": "50EXP"
+    },
+    {
+      "Title": "Burn Medicine Run",
+      "Stars": 1,
+      "Target": "Deliver 3 Aloe Leaves",
+      "Locale": "Pondry Hills etc.",
+      "Reward": "Herb x2",
+      "Zenny": "120z",
+      "EXP": "0EXP"
+    },
+    {
+      "Title": "I Want to Paint!",
+      "Stars": 1,
+      "Target": "Deliver 3 Paintberries",
+      "Locale": "Pondry Hills etc.",
+      "Reward": "Herb x2",
+      "Zenny": "100z",
+      "EXP": "0EXP"
+    },
+    {
+      "Title": "Perfect Preparation",
+      "Stars": 1,
+      "Target": "Deliver specified bone materials",
+      "Locale": "Anywhere",
+      "Reward": "Potion",
+      "Zenny": "500z",
+      "EXP": "0EXP"
+    },
+    {
+      "Title": "To Pondry Hills!",
+      "Stars": 1,
+      "Target": "Deliver Pondry Hills commodities",
+      "Locale": "Pondry Hills",
+      "Reward": "Paw Pass Ticket",
+      "Zenny": "400z",
+      "EXP": "0EXP"
+    },
+    {
+      "Title": "Blue Enemy of Love!",
+      "Stars": 1,
+      "Target": "Slay a Velocidrome",
+      "Locale": "Pondry Hills etc.",
+      "Reward": "Sonic Bomb",
+      "Zenny": "500z",
+      "EXP": "30EXP"
+    },
+    {
+      "Title": "The Honey Guard",
+      "Stars": 1,
+      "Target": "Slay an Arzuros",
+      "Locale": "Pondry Hills etc.",
+      "Reward": "Honey x3",
+      "Zenny": "600z",
+      "EXP": "30EXP"
+    },
+    {
+      "Title": "Call of the Kut-Ku",
+      "Stars": 1,
+      "Target": "Slay a Yian Kut-Ku",
+      "Locale": "Pondry Hills etc.",
+      "Reward": "Potion x2",
+      "Zenny": "700z",
+      "EXP": "50EXP"
+    },
+    {
+      "Title": "Onward to Darj!",
+      "Stars": 1,
+      "Target": "Deliver Darj Snowfields commodities",
+      "Locale": "Darj Snowfields",
+      "Reward": "Paw Pass Ticket",
+      "Zenny": "600z",
+      "EXP": "0EXP"
+    },
+    {
+      "Title": "Bulldrome? RUN!",
+      "Stars": 2,
+      "Target": "Slay a Bulldrome",
+      "Locale": "Darj Snowfields etc.",
+      "Reward": "Moxie Gem",
+      "Zenny": "600z",
+      "EXP": "200EXP"
+    },
+    {
+      "Title": "Enchanting Ice Show",
+      "Stars": 2,
+      "Target": "Slay a Lagombi",
+      "Locale": "Darj Snowfields etc.",
+      "Reward": "Hot Mist x2",
+      "Zenny": "700z",
+      "EXP": "200EXP"
+    },
+    {
+      "Title": "Shape-Shifter Shark?",
+      "Stars": 2,
+      "Target": "Slay a Zamtrios",
+      "Locale": "Darj Snowfields etc.",
+      "Reward": "Demondrug",
+      "Zenny": "900z",
+      "EXP": "200EXP"
+    },
+    {
+      "Title": "A Fascinating Khezu",
+      "Stars": 2,
+      "Target": "Slay a Khezu",
+      "Locale": "W. Tunnel etc.",
+      "Reward": "Armorskin",
+      "Zenny": "1,000z",
+      "EXP": "400EXP"
+    },
+    {
+      "Title": "Tingling Tongues!",
+      "Stars": 2,
+      "Target": "Deliver 2 Popo Tongues",
+      "Locale": "Darj Snowfields etc.",
+      "Reward": "Mega Potion",
+      "Zenny": "500z",
+      "EXP": "0EXP"
+    },
+    {
+      "Title": "To Monsonne!",
+      "Stars": 3,
+      "Target": "Deliver Plains/Desert commodities",
+      "Locale": "Plains etc.",
+      "Reward": "Paw Pass Ticket",
+      "Zenny": "800z",
+      "EXP": "0EXP"
+    },
+    {
+      "Title": "Altaroth Alert!",
+      "Stars": 3,
+      "Target": "Slay 5 Altaroth",
+      "Locale": "Plains etc.",
+      "Reward": "Poison Knife",
+      "Zenny": "800z",
+      "EXP": "400EXP"
+    },
+    {
+      "Title": "Bye-bye Genprey!",
+      "Stars": 3,
+      "Target": "Slay 6 Genprey",
+      "Locale": "Plains etc.",
+      "Reward": "Anti-para Potion x2",
+      "Zenny": "800z",
+      "EXP": "400EXP"
+    },
+    {
+      "Title": "Clamorous Qurupeco",
+      "Stars": 3,
+      "Target": "Slay a Qurupeco",
+      "Locale": "Plains etc.",
+      "Reward": "Paintball x3",
+      "Zenny": "1,000z",
+      "EXP": "500EXP"
+    },
+    {
+      "Title": "A Superior Sponge",
+      "Stars": 3,
+      "Target": "Slay a Royal Ludroth",
+      "Locale": "Plains etc.",
+      "Reward": "Potion x3",
+      "Zenny": "1,000z",
+      "EXP": "500EXP"
+    },
+    {
+      "Title": "Handy Hides",
+      "Stars": 3,
+      "Target": "Slay a Gypceros",
+      "Locale": "Rainforest etc.",
+      "Reward": "Vital Essence",
+      "Zenny": "1,000z",
+      "EXP": "500EXP"
+    },
+    {
+      "Title": "Slagtoth Chic?",
+      "Stars": 3,
+      "Target": "Deliver 5 Slagtoth Hides",
+      "Locale": "Rainforest etc.",
+      "Reward": "Paralysis Knife",
+      "Zenny": "500z",
+      "EXP": "0EXP"
+    },
+    {
+      "Title": "Trapped in the Web",
+      "Stars": 3,
+      "Target": "Slay a Nerscylla",
+      "Locale": "Rainforest etc.",
+      "Reward": "Spider Web x5",
+      "Zenny": "1,100z",
+      "EXP": "500EXP"
+    },
+    {
+      "Title": "The Queen's Day Out",
+      "Stars": 3,
+      "Target": "Slay a Rathian",
+      "Locale": "Plains etc.",
+      "Reward": "Pitfall Trap",
+      "Zenny": "1,200z",
+      "EXP": "500EXP"
+    },
+    {
+      "Title": "A Dune-surfer's Life",
+      "Stars": 3,
+      "Target": "Slay 5 Cephalos",
+      "Locale": "Trese Desert etc.",
+      "Reward": "Eye Drops x2",
+      "Zenny": "700z",
+      "EXP": "400EXP"
+    },
+    {
+      "Title": "Yum! Fatty Tomatoes",
+      "Stars": 3,
+      "Target": "Deliver 3 Fatty Tomatoes",
+      "Locale": "Trese Desert etc.",
+      "Reward": "Sugarpaw Donut x5",
+      "Zenny": "600z",
+      "EXP": "0EXP"
+    },
+    {
+      "Title": "The Paralyzer",
+      "Stars": 3,
+      "Target": "Slay a Gendrome",
+      "Locale": "Trese Desert etc.",
+      "Reward": "Shock Trap",
+      "Zenny": "900z",
+      "EXP": "500EXP"
+    },
+    {
+      "Title": "The Sturdy Shield",
+      "Stars": 3,
+      "Target": "Slay a Daimyo Hermitaur",
+      "Locale": "Trese Desert etc.",
+      "Reward": "Well-done Steak x3",
+      "Zenny": "1,100z",
+      "EXP": "500EXP"
+    },
+    {
+      "Title": "Bog Diving",
+      "Stars": 3,
+      "Target": "Slay a Barroth",
+      "Locale": "Trese Desert etc.",
+      "Reward": "Zest Pill x2",
+      "Zenny": "1,300z",
+      "EXP": "500EXP"
+    },
+    {
+      "Title": "Boss of the Cephalos",
+      "Stars": 3,
+      "Target": "Slay a Cephadrome",
+      "Locale": "Trese Desert etc.",
+      "Reward": "Fleetfoot Potion x2",
+      "Zenny": "1,300z",
+      "EXP": "500EXP"
+    },
+    {
+      "Title": "Onwards to Babda!",
+      "Stars": 3,
+      "Target": "Deliver Babda Rainforest commodities",
+      "Locale": "Babda Rainforest",
+      "Reward": "Paw Pass Ticket",
+      "Zenny": "1,000z",
+      "EXP": "0EXP"
+    },
+    {
+      "Title": "Despot of the Desert",
+      "Stars": 3,
+      "Target": "Slay a Diablos",
+      "Locale": "Trese Desert etc.",
+      "Reward": "Honey Butter x2",
+      "Zenny": "1,500z",
+      "EXP": "1,000EXP"
+    },
+    {
+      "Title": "Reverberating Roar",
+      "Stars": 3,
+      "Target": "Slay a Tigrex",
+      "Locale": "Darj Snowfields etc.",
+      "Reward": "Vital Essence",
+      "Zenny": "1,500z",
+      "EXP": "1,000EXP"
+    },
+    {
+      "Title": "Watch Out for Rocks!",
+      "Stars": 4,
+      "Target": "Slay a Basarios",
+      "Locale": "Dovan Volcano etc.",
+      "Reward": "Tranq Trap x2",
+      "Zenny": "1,800z",
+      "EXP": "1,500EXP"
+    },
+    {
+      "Title": "A Crimson Bnahabra",
+      "Stars": 4,
+      "Target": "Slay 5 Bnahabra (Red)",
+      "Locale": "Dovan Volcano etc.",
+      "Reward": "Blast-Be-Gone x2",
+      "Zenny": "1,500z",
+      "EXP": "1,000EXP"
+    },
+    {
+      "Title": "Volcanic Toxicity",
+      "Stars": 4,
+      "Target": "Slay 7 Ioprey",
+      "Locale": "Dovan Volcano etc.",
+      "Reward": "Antidote x3",
+      "Zenny": "1,500z",
+      "EXP": "1,000EXP"
+    },
+    {
+      "Title": "Poisonous Probing",
+      "Stars": 4,
+      "Target": "Slay an Iodrome",
+      "Locale": "Dovan Volcano etc.",
+      "Reward": "Large Barrel x5",
+      "Zenny": "1,600z",
+      "EXP": "1,200EXP"
+    },
+    {
+      "Title": "Feelings & Fire Herbs",
+      "Stars": 4,
+      "Target": "Deliver 5 Fire Herbs",
+      "Locale": "Dovan Volcano etc.",
+      "Reward": "Cool Mist x3",
+      "Zenny": "500z",
+      "EXP": "0EXP"
+    },
+    {
+      "Title": "Onwards to Dovan!",
+      "Stars": 4,
+      "Target": "Deliver Volcano commodities",
+      "Locale": "Dovan Volcano",
+      "Reward": "Paw Pass Ticket",
+      "Zenny": "1,500z",
+      "EXP": "0EXP"
+    },
+    {
+      "Title": "Ore Collection!",
+      "Stars": 4,
+      "Target": "Deliver mining point materials",
+      "Locale": "Anywhere",
+      "Reward": "Mega Potion",
+      "Zenny": "900z",
+      "EXP": "0EXP"
+    },
+    {
+      "Title": "Mining Menace",
+      "Stars": 4,
+      "Target": "Slay an Uragaan",
+      "Locale": "Dovan Volcano etc.",
+      "Reward": "Big Barrel Bomb",
+      "Zenny": "2,000z",
+      "EXP": "1,400EXP"
+    },
+    {
+      "Title": "Forged by Volcano",
+      "Stars": 4,
+      "Target": "Slay a Gravios",
+      "Locale": "Dovan Volcano etc.",
+      "Reward": "Sleep Knife x3",
+      "Zenny": "2,100z",
+      "EXP": "1,500EXP"
+    },
+    {
+      "Title": "Lava Dragon?!?!?!",
+      "Stars": 4,
+      "Target": "Slay an Agnaktor",
+      "Locale": "Dovan Volcano etc.",
+      "Reward": "Quickness Meat x3",
+      "Zenny": "2,200z",
+      "EXP": "1,600EXP"
+    },
+    {
+      "Title": "Purrfect Steak!",
+      "Stars": 5,
+      "Target": "Deliver 10 Raw Meat",
+      "Locale": "Anywhere",
+      "Reward": "Well-done Steak x10",
+      "Zenny": "0z",
+      "EXP": "0EXP"
+    },
+    {
+      "Title": "To Naubaka!",
+      "Stars": 5,
+      "Target": "Deliver Naubaka commodities",
+      "Locale": "Naubaka Island",
+      "Reward": "Paw Pass Ticket",
+      "Zenny": "1,800z",
+      "EXP": "0EXP"
+    },
+    {
+      "Title": "Seeking Giant Bugs!",
+      "Stars": 5,
+      "Target": "Deliver specified bug materials",
+      "Locale": "Anywhere",
+      "Reward": "Lifepowder",
+      "Zenny": "1,000z",
+      "EXP": "0EXP"
+    },
+    {
+      "Title": "Naubaka Showdown!",
+      "Stars": 5,
+      "Target": "Slay 8 Jaggi",
+      "Locale": "Aowa Valley etc.",
+      "Reward": "Chocopaw Donut x5",
+      "Zenny": "2,000z",
+      "EXP": "1,200EXP"
+    },
+    {
+      "Title": "Flotsam Great Jaggi",
+      "Stars": 5,
+      "Target": "Slay a Great Jaggi",
+      "Locale": "Aowa Valley etc.",
+      "Reward": "Fleetfoot Potion x2",
+      "Zenny": "2,200z",
+      "EXP": "1,500EXP"
+    },
+    {
+      "Title": "Beware, Prankster!",
+      "Stars": 5,
+      "Target": "Slay a Kecha Wacha",
+      "Locale": "Paupau Beach etc.",
+      "Reward": "Demondrug x2",
+      "Zenny": "2,400z",
+      "EXP": "1,800EXP"
+    },
+    {
+      "Title": "Sandy Yian Garuga!",
+      "Stars": 5,
+      "Target": "Slay a Yian Garuga",
+      "Locale": "Paupau Beach etc.",
+      "Reward": "Immunizer x2",
+      "Zenny": "2,600z",
+      "EXP": "2,000EXP"
+    },
+    {
+      "Title": "Secret of the Light",
+      "Stars": 5,
+      "Target": "Slay 5 Great Thunderbugs",
+      "Locale": "Rainforest etc.",
+      "Reward": "Well-done Donut x5",
+      "Zenny": "2,200z",
+      "EXP": "1,500EXP"
+    },
+    {
+      "Title": "Farting Panic!",
+      "Stars": 5,
+      "Target": "Slay a Congalala",
+      "Locale": "Rainforest etc.",
+      "Reward": "Armorskin x2",
+      "Zenny": "2,500z",
+      "EXP": "2,000EXP"
+    },
+    {
+      "Title": "Rumbling Recital",
+      "Stars": 5,
+      "Target": "Slay a Zinogre",
+      "Locale": "Rainforest etc.",
+      "Reward": "Nulberry Elixir",
+      "Zenny": "3,000z",
+      "EXP": "2,500EXP"
+    },
+    {
+      "Title": "Beware, Shakalaka!",
+      "Stars": 5,
+      "Target": "Slay 5 Shakalaka",
+      "Locale": "Pondry Caves etc.",
+      "Reward": "Sonic Bomb x2",
+      "Zenny": "2,200z",
+      "EXP": "1,500EXP"
+    },
+    {
+      "Title": "The King's Descent",
+      "Stars": 5,
+      "Target": "Slay a Rathalos",
+      "Locale": "Pondry Hills etc.",
+      "Reward": "Max Potion",
+      "Zenny": "3,200z",
+      "EXP": "2,700EXP"
+    },
+    {
+      "Title": "Ninja Nargacuga",
+      "Stars": 5,
+      "Target": "Slay a Nargacuga",
+      "Locale": "Pondry Caves etc.",
+      "Reward": "Super Whetstone x2",
+      "Zenny": "3,200z",
+      "EXP": "2,700EXP"
+    },
+    {
+      "Title": "King of the Ocean!",
+      "Stars": 6,
+      "Target": "Slay a Lagiacrus",
+      "Locale": "Paupau Beach etc.",
+      "Reward": "Royal Donut x5",
+      "Zenny": "3,500z",
+      "EXP": "2,800EXP"
+    },
+    {
+      "Title": "To Mt. Celion!",
+      "Stars": 6,
+      "Target": "Deliver Mt. Celion commodities",
+      "Locale": "Mt. Celion",
+      "Reward": "Paw Pass Ticket",
+      "Zenny": "3,000z",
+      "EXP": "0EXP"
+    },
+    {
+      "Title": "Tranquilizing Terror",
+      "Stars": 6,
+      "Target": "Slay a Great Baggi",
+      "Locale": "Mt. Celion etc.",
+      "Reward": "Max Potion",
+      "Zenny": "4,000z",
+      "EXP": "2,500EXP"
+    },
+    {
+      "Title": "Freezing Fangs",
+      "Stars": 6,
+      "Target": "Slay a Barioth",
+      "Locale": "Mt. Celion etc.",
+      "Reward": "Lifepowder",
+      "Zenny": "4,500z",
+      "EXP": "3,000EXP"
+    },
+    {
+      "Title": "Blue Gang of the Ice",
+      "Stars": 6,
+      "Target": "Slay 6 Baggi",
+      "Locale": "Mt. Celion etc.",
+      "Reward": "Energy Drink x3",
+      "Zenny": "3,500z",
+      "EXP": "2,000EXP"
+    },
+    {
+      "Title": "Great Dracophages",
+      "Stars": 6,
+      "Target": "Slay 9 Great Dracophage Bugs",
+      "Locale": "Mt. Celion etc.",
+      "Reward": "Hot Mist x3",
+      "Zenny": "3,700z",
+      "EXP": "2,300EXP"
+    },
+    {
+      "Title": "The Black Omen",
+      "Stars": 6,
+      "Target": "Slay 5 Remobra",
+      "Locale": "Ruins of Zalam etc.",
+      "Reward": "Muscle Meat x2",
+      "Zenny": "4,000z",
+      "EXP": "2,500EXP"
+    },
+    {
+      "Title": "Test of Strength!",
+      "Stars": 6,
+      "Target": "Slay a Brachydios",
+      "Locale": "Ruins of Zalam etc.",
+      "Reward": "Ancient Potion",
+      "Zenny": "5,000z",
+      "EXP": "4,000EXP"
+    },
+    {
+      "Title": "Destruction Daemon",
+      "Stars": 6,
+      "Target": "Slay a Rajang",
+      "Locale": "Ruins of Zalam etc.",
+      "Reward": "Dust of Life",
+      "Zenny": "6,000z",
+      "EXP": "5,000EXP"
+    },
+    {
+      "Title": "Thunder Visions (+)",
+      "Stars": 7,
+      "Target": "Slay a Kirin",
+      "Locale": "Rainforest etc.",
+      "Reward": "Vitality Nutriment",
+      "Zenny": "8,000z",
+      "EXP": "10,000EXP"
+    },
+    {
+      "Title": "One Tall Horn (+)",
+      "Stars": 7,
+      "Target": "Slay a Monoblos",
+      "Locale": "Trese Desert etc.",
+      "Reward": "Dust of Life",
+      "Zenny": "8,000z",
+      "EXP": "10,000EXP"
+    },
+    {
+      "Title": "Seregios's Secret (+)",
+      "Stars": 7,
+      "Target": "Slay a Seregios",
+      "Locale": "Pondry Hills etc.",
+      "Reward": "Max Potion x3",
+      "Zenny": "8,000z",
+      "EXP": "10,000EXP"
+    },
+    {
+      "Title": "Annihilating Wind (+)",
+      "Stars": 7,
+      "Target": "Slay a Kushala Daora",
+      "Locale": "Mt. Celion etc.",
+      "Reward": "Defense Nutriment",
+      "Zenny": "10,000z",
+      "EXP": "15,000EXP"
+    },
+    {
+      "Title": "Destructive Flame (+)",
+      "Stars": 7,
+      "Target": "Slay a Teostra",
+      "Locale": "Dovan Volcano etc.",
+      "Reward": "Strength Nutriment",
+      "Zenny": "10,000z",
+      "EXP": "15,000EXP"
+    },
+    {
+      "Title": "Commeowdities? (+)",
+      "Stars": 7,
+      "Target": "Deliver high-rank commodities",
+      "Locale": "Anywhere",
+      "Reward": "Recognition Letter",
+      "Zenny": "5,000z",
+      "EXP": "0EXP"
+    },
+    {
+      "Title": "Herbivore Bones! (+)",
+      "Stars": 7,
+      "Target": "Deliver 10 Herbivore Bones",
+      "Locale": "Anywhere",
+      "Reward": "Herb x20",
+      "Zenny": "2,000z",
+      "EXP": "0EXP"
+    },
+    {
+      "Title": "Fanged Beast Fur (+)",
+      "Stars": 7,
+      "Target": "Deliver 10 Fanged Beast Furs",
+      "Locale": "Anywhere",
+      "Reward": "Blue Mushroom x10",
+      "Zenny": "2,500z",
+      "EXP": "0EXP"
+    },
+    {
+      "Title": "Wanted: Bones! (+)",
+      "Stars": 7,
+      "Target": "Deliver specified bone materials",
+      "Locale": "Anywhere",
+      "Reward": "Immunizer x2",
+      "Zenny": "2,500z",
+      "EXP": "0EXP"
+    },
+    {
+      "Title": "Troubled Sons (cont.)",
+      "Stars": 3,
+      "Target": "Albarax Market",
+      "Locale": "Anywhere",
+      "Reward": "Smoke Bomb",
+      "Zenny": "0z",
+      "EXP": "0EXP"
+    },
+    {
+      "Title": "Neopteron Shells! (+)",
+      "Stars": 7,
+      "Target": "Deliver 10 Neopteron Shells",
+      "Locale": "Anywhere",
+      "Reward": "Honey x10",
+      "Zenny": "2,000z",
+      "EXP": "0EXP"
+    },
+    {
+      "Title": "Scaly Birds (+)",
+      "Stars": 7,
+      "Target": "Deliver 10 Bird Wyvern Scales+",
+      "Locale": "Anywhere",
+      "Reward": "Wyvern Barbs x10",
+      "Zenny": "2,500z",
+      "EXP": "0EXP"
+    },
+    {
+      "Title": "Barrel Lid Trade (+)",
+      "Stars": 7,
+      "Target": "Deliver 5 Barrel Lids",
+      "Locale": "Anywhere",
+      "Reward": "Bottle Cap x5",
+      "Zenny": "0z",
+      "EXP": "0EXP"
+    },
+    {
+      "Title": "Eternal Romanticism",
+      "Stars": 7,
+      "Target": "Deliver 10 Bottle Caps",
+      "Locale": "Anywhere",
+      "Reward": "",
+      "Zenny": "10,000z",
+      "EXP": "0EXP"
+    },
+    {
+      "Title": "Mazewalker Self (+)",
+      "Stars": 7,
+      "Target": "Deliver 1 Mazewalker's Seal",
+      "Locale": "Labyrinth",
+      "Reward": "Commendation",
+      "Zenny": "0z",
+      "EXP": "0EXP"
+    },
+    {
+      "Title": "Mazewalker Bond (+)",
+      "Stars": 7,
+      "Target": "Deliver 1 Mazewalker's Seal",
+      "Locale": "Labyrinth",
+      "Reward": "Ancient Panacea",
+      "Zenny": "0z",
+      "EXP": "0EXP"
+    }
+  ]
